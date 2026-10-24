@@ -1,0 +1,13 @@
+Path                                              Size          Perms    Attrs                    Owner     Group     Checksum
+--------------------------------------------------------------------------------------------------------------------------------------------
+/root                                             directory     0700                              0         0
+/root/.bash_history                               34            0600     --------------e-----     0         0         b9a80a95
+/root/.bashrc                                     3106          0644     --------------e-----     0         0         abf00415
+/root/.cache                                      directory     0700                              0         0
+/root/.cache/dconf                                directory     0700                              0         0
+/root/.cache/dconf/user                           2             0600     --------------e-----     0         0         00020001
+/root/.lesshst                                    20            0600     --------------e-----     0         0         4ece0736
+/root/.local                                      directory     0755                              0         0
+/root/.local/share                                directory     0700                              0         0
+/root/.local/share/nano                           directory     0700                              0         0
+/root/.profile                                    161           0644     --------------e-----     0         0         4e5b31dd

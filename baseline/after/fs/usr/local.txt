@@ -1,0 +1,35 @@
+Path                                              Size          Perms    Attrs                    Owner     Group
+--------------------------------------------------------------------------------------------------------------------------------------------
+/usr/local                                        directory     0755                              0         0
+/usr/local/bin                                    directory     0755                              0         0
+/usr/local/bin/apt                                7692          0755     --------------e-----     0         0
+/usr/local/bin/gnome-help                         536           0755     --------------e-----     0         0
+/usr/local/bin/highlight-mint                     196           0755     --------------e-----     0         0
+/usr/local/bin/mint-sha256sum                     243           0755     --------------e-----     0         0
+/usr/local/bin/search                             964           0755     --------------e-----     0         0
+/usr/local/bin/yelp                               553           0755     --------------e-----     0         0
+/usr/local/etc                                    directory     0755                              0         0
+/usr/local/games                                  directory     0755                              0         0
+/usr/local/include                                directory     0755                              0         0
+/usr/local/lib                                    directory     0755                              0         0
+/usr/local/lib/python3.10                         directory     0755                              0         0
+/usr/local/lib/python3.10/dist-packages           directory     0755                              0         0
+/usr/local/man    symlink    share/man
+/usr/local/sbin                                   directory     0755                              0         0
+/usr/local/share                                  directory     0755                              0         0
+/usr/local/share/ca-certificates                  directory     0755                              0         0
+/usr/local/share/fonts                            directory     2775                              0         50
+/usr/local/share/fonts/.uuid                      36            0644     --------------e-----     0         50
+/usr/local/share/man                              directory     0755                              0         0
+/usr/local/share/sgml                             directory     0755                              0         0
+/usr/local/share/sgml/declaration                 directory     0755                              0         0
+/usr/local/share/sgml/dtd                         directory     0755                              0         0
+/usr/local/share/sgml/entities                    directory     0755                              0         0
+/usr/local/share/sgml/misc                        directory     0755                              0         0
+/usr/local/share/sgml/stylesheet                  directory     0755                              0         0
+/usr/local/share/xml                              directory     0755                              0         0
+/usr/local/share/xml/declaration                  directory     0755                              0         0
+/usr/local/share/xml/entities                     directory     0755                              0         0
+/usr/local/share/xml/misc                         directory     0755                              0         0
+/usr/local/share/xml/schema                       directory     0755                              0         0
+/usr/local/src                                    directory     0755                              0         0

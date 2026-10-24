@@ -1,0 +1,137 @@
+Path                                              Size          Perms    Attrs                    Owner     Group     Checksum
+--------------------------------------------------------------------------------------------------------------------------------------------
+/home                                             directory     0755                              0         0
+/home/rat                                         directory     0750                              1000      1000
+/home/rat/.Xauthority                             51            0600     --------------e-----     1000      1000      48941114
+/home/rat/.bash_history                           20            0600     --------------e-----     1000      1000      3b570534
+/home/rat/.bash_logout                            220           0644     --------------e-----     1000      1000      f67c48a0
+/home/rat/.bashrc                                 3771          0644     --------------e-----     1000      1000      936cdb70
+/home/rat/.cache                                  directory     0700                              1000      1000
+/home/rat/.cache/evolution                        directory     0700                              1000      1000
+/home/rat/.cache/evolution/addressbook            directory     0775                              1000      1000
+/home/rat/.cache/evolution/addressbook/trash      directory     0775                              1000      1000
+/home/rat/.cache/evolution/calendar               directory     0775                              1000      1000
+/home/rat/.cache/evolution/calendar/trash         directory     0775                              1000      1000
+/home/rat/.cache/evolution/mail                   directory     0775                              1000      1000
+/home/rat/.cache/evolution/mail/trash             directory     0775                              1000      1000
+/home/rat/.cache/evolution/memos                  directory     0775                              1000      1000
+/home/rat/.cache/evolution/memos/trash            directory     0775                              1000      1000
+/home/rat/.cache/evolution/sources                directory     0775                              1000      1000
+/home/rat/.cache/evolution/sources/trash          directory     0775                              1000      1000
+/home/rat/.cache/evolution/tasks                  directory     0775                              1000      1000
+/home/rat/.cache/evolution/tasks/trash            directory     0775                              1000      1000
+/home/rat/.cache/gstreamer-1.0                    directory     0700                              1000      1000
+/home/rat/.cache/gstreamer-1.0/registry.x86_64.bin    399065    0600    --------------e-----    1000    1000
+/home/rat/.cache/obexd                            directory     0700                              1000      1000
+/home/rat/.cache/wallpaper                        directory     0700                              1000      1000
+/home/rat/.cache/wallpaper/0_5_2258_1359_ff6fa0e9caa527cba3aea538eb5e8261    832476    0664    --------------e-----    1000    1000
+/home/rat/.cinnamon                               directory     0775                              1000      1000
+/home/rat/.cinnamon/configs                       directory     0775                              1000      1000
+/home/rat/.cinnamon/configs/calendar@cinnamon.org    directory    0775        1000    1000
+/home/rat/.cinnamon/configs/calendar@cinnamon.org/13.json    1725    0664    --------------e-----    1000    1000    7c9dec89
+/home/rat/.cinnamon/configs/favorites@cinnamon.org    directory    0775        1000    1000
+/home/rat/.cinnamon/configs/favorites@cinnamon.org/9.json    296    0664    --------------e-----    1000    1000    3d2b4fae
+/home/rat/.cinnamon/configs/grouped-window-list@cinnamon.org    directory    0775        1000    1000
+/home/rat/.cinnamon/configs/grouped-window-list@cinnamon.org/2.json    9839    0664    --------------e-----    1000    1000    a1cdf263
+/home/rat/.cinnamon/configs/menu@cinnamon.org     directory     0775                              1000      1000
+/home/rat/.cinnamon/configs/menu@cinnamon.org/0.json    9165    0664    --------------e-----    1000    1000    11539351
+/home/rat/.cinnamon/configs/network@cinnamon.org    directory    0775        1000    1000
+/home/rat/.cinnamon/configs/network@cinnamon.org/network@cinnamon.org.json    371    0664    --------------e-----    1000    1000    aede65c4
+/home/rat/.cinnamon/configs/notifications@cinnamon.org    directory    0775        1000    1000
+/home/rat/.cinnamon/configs/notifications@cinnamon.org/notifications@cinnamon.org.json    1698    0664    --------------e-----    1000    1000    a3a9e80a
+/home/rat/.cinnamon/configs/power@cinnamon.org    directory     0775                              1000      1000
+/home/rat/.cinnamon/configs/power@cinnamon.org/power@cinnamon.org.json    710    0664    --------------e-----    1000    1000    8fc4c954
+/home/rat/.cinnamon/configs/printers@cinnamon.org    directory    0775        1000    1000
+/home/rat/.cinnamon/configs/printers@cinnamon.org/6.json    519    0664    --------------e-----    1000    1000    14f18e48
+/home/rat/.cinnamon/configs/show-desktop@cinnamon.org    directory    0775        1000    1000
+/home/rat/.cinnamon/configs/show-desktop@cinnamon.org/1.json    1290    0664    --------------e-----    1000    1000    1a195998
+/home/rat/.cinnamon/configs/sound@cinnamon.org    directory     0775                              1000      1000
+/home/rat/.cinnamon/configs/sound@cinnamon.org/sound@cinnamon.org.json    3057    0664    --------------e-----    1000    1000    d1073ccb
+/home/rat/.cinnamon/spices.cache                  directory     0777                              1000      1000
+/home/rat/.cinnamon/spices.cache/applet           directory     0755                              1000      1000
+/home/rat/.cinnamon/spices.cache/desklet          directory     0755                              1000      1000
+/home/rat/.cinnamon/spices.cache/extension        directory     0755                              1000      1000
+/home/rat/.cinnamon/spices.cache/theme            directory     0755                              1000      1000
+/home/rat/.config                                 directory     0755                              1000      1000
+/home/rat/.config/autostart                       directory     0775                              1000      1000
+/home/rat/.config/caja                            directory     0755                              1000      1000
+/home/rat/.config/caja/desktop-metadata           265           0644     --------------e-----     1000      1000      001b5a1d
+/home/rat/.config/cinnamon-session                directory     0755                              1000      1000
+/home/rat/.config/cinnamon-session/saved-session    directory    0755        1000    1000
+/home/rat/.config/dconf                           directory     0700                              1000      1000
+/home/rat/.config/dconf/user                      2219          0664     --------------e-----     1000      1000      5e2b0b33
+/home/rat/.config/evolution                       directory     0700                              1000      1000
+/home/rat/.config/evolution/sources               directory     0700                              1000      1000
+/home/rat/.config/evolution/sources/system-proxy.source    1033    0664    --------------e-----    1000    1000    229db9a2
+/home/rat/.config/goa-1.0                         directory     0755                              1000      1000
+/home/rat/.config/gtk-3.0                         directory     0700                              1000      1000
+/home/rat/.config/gtk-3.0/bookmarks               127           0664     --------------e-----     1000      1000      f0f42bd3
+/home/rat/.config/hexchat                         directory     0755                              1000      1000
+/home/rat/.config/hexchat/hexchat.conf            263           0644     --------------e-----     1000      1000      6c965c24
+/home/rat/.config/hexchat/servlist.conf           8453          0644     --------------e-----     1000      1000      70f06016
+/home/rat/.config/menus                           directory     0775                              1000      1000
+/home/rat/.config/menus/applications-merged       directory     0775                              1000      1000
+/home/rat/.config/menus/cinnamon-applications-merged    symlink    /home/rat/.config/menus/applications-merged
+/home/rat/.config/nemo                            directory     0755                              1000      1000
+/home/rat/.config/nemo/desktop-metadata           325           0664     --------------e-----     1000      1000      a19870a2
+/home/rat/.config/pulse                           directory     0700                              1000      1000
+/home/rat/.config/pulse/b0d275fb46fa48c6820be57edaa22cf5-card-database.tdb    28672    0600    --------------e-----    1000    1000    da484463
+/home/rat/.config/pulse/b0d275fb46fa48c6820be57edaa22cf5-default-sink    1    0600    --------------e-----    1000    1000    000b000b
+/home/rat/.config/pulse/b0d275fb46fa48c6820be57edaa22cf5-default-source    1    0600    --------------e-----    1000    1000    000b000b
+/home/rat/.config/pulse/b0d275fb46fa48c6820be57edaa22cf5-device-volumes.tdb    12288    0600    --------------e-----    1000    1000    d5a5ad9b
+/home/rat/.config/pulse/b0d275fb46fa48c6820be57edaa22cf5-stream-volumes.tdb    12288    0600    --------------e-----    1000    1000    cebe2103
+/home/rat/.config/pulse/cookie                    256           0600     --------------e-----     1000      1000      7a28806c
+/home/rat/.config/qt5ct                           directory     0755                              1000      1000
+/home/rat/.config/qt5ct/qt5ct.conf                745           0644     --------------e-----     1000      1000      68960272
+/home/rat/.config/user-dirs.dirs                  633           0600     --------------e-----     1000      1000      4506ccac
+/home/rat/.config/user-dirs.locale                5             0664     --------------e-----     1000      1000      05d001db
+/home/rat/.gtkrc-2.0                              22            0644     --------------e-----     1000      1000      5b4c076f
+/home/rat/.gtkrc-xfce                             516           0644     --------------e-----     1000      1000      abf7a78a
+/home/rat/.local                                  directory     0775                              1000      1000
+/home/rat/.local/share                            directory     0775                              1000      1000
+/home/rat/.local/share/applications               directory     0775                              1000      1000
+/home/rat/.local/share/cinnamon                   directory     0700                              1000      1000
+/home/rat/.local/share/cinnamon/applets           directory     0775                              1000      1000
+/home/rat/.local/share/cinnamon/desklets          directory     0775                              1000      1000
+/home/rat/.local/share/cinnamon/extensions        directory     0775                              1000      1000
+/home/rat/.local/share/cinnamon/search_providers    directory    0775        1000    1000
+/home/rat/.local/share/evolution                  directory     0700                              1000      1000
+/home/rat/.local/share/evolution/addressbook      directory     0775                              1000      1000
+/home/rat/.local/share/evolution/addressbook/system    directory    0700        1000    1000
+/home/rat/.local/share/evolution/addressbook/system/contacts.db    86016    0644    --------------e-----    1000    1000
+/home/rat/.local/share/evolution/addressbook/system/photos    directory    0700        1000    1000
+/home/rat/.local/share/evolution/addressbook/trash    directory    0775        1000    1000
+/home/rat/.local/share/evolution/calendar         directory     0775                              1000      1000
+/home/rat/.local/share/evolution/calendar/system    directory    0700        1000    1000
+/home/rat/.local/share/evolution/calendar/system/calendar.ics    173    0664    --------------e-----    1000    1000    227d2d60
+/home/rat/.local/share/evolution/calendar/trash    directory    0775        1000    1000
+/home/rat/.local/share/evolution/mail             directory     0775                              1000      1000
+/home/rat/.local/share/evolution/mail/trash       directory     0775                              1000      1000
+/home/rat/.local/share/evolution/memos            directory     0775                              1000      1000
+/home/rat/.local/share/evolution/memos/trash      directory     0775                              1000      1000
+/home/rat/.local/share/evolution/tasks            directory     0775                              1000      1000
+/home/rat/.local/share/evolution/tasks/system     directory     0700                              1000      1000
+/home/rat/.local/share/evolution/tasks/trash      directory     0775                              1000      1000
+/home/rat/.local/share/gvfs-metadata              directory     0700                              1000      1000
+/home/rat/.local/share/gvfs-metadata/home         64            0600     --------------e-----     1000      1000      1f7105ae
+/home/rat/.local/share/gvfs-metadata/home-ad1b5dd1.log    32768    0664    --------------e-----    1000    1000    0683052c
+/home/rat/.local/share/icc                        directory     0775                              1000      1000
+/home/rat/.local/share/keyrings                   directory     0700                              1000      1000
+/home/rat/.local/share/keyrings/login.keyring     105           0600     --------------e-----     1000      1000      18921363
+/home/rat/.local/share/keyrings/user.keystore     207           0600     --------------e-----     1000      1000      f11d42a7
+/home/rat/.local/share/nemo                       directory     0755                              1000      1000
+/home/rat/.local/share/nemo/actions               directory     0755                              1000      1000
+/home/rat/.local/share/nemo/scripts               directory     0755                              1000      1000
+/home/rat/.local/share/session_migration-cinnamon    63    0664    --------------e-----    1000    1000    af6c159b
+/home/rat/.profile                                807           0644     --------------e-----     1000      1000      0f0f0260
+/home/rat/.sudo_as_admin_successful               0             0644     --------------e-----     1000      1000      00000001
+/home/rat/.themes                                 directory     0755                              1000      1000
+/home/rat/.xsession-errors                        13526         0600     --------------e-----     1000      1000      4c1ea492
+/home/rat/Desktop                                 directory     0755                              1000      1000
+/home/rat/Documents                               directory     0755                              1000      1000
+/home/rat/Downloads                               directory     0755                              1000      1000
+/home/rat/Music                                   directory     0755                              1000      1000
+/home/rat/Pictures                                directory     0755                              1000      1000
+/home/rat/Public                                  directory     0755                              1000      1000
+/home/rat/Templates                               directory     0755                              1000      1000
+/home/rat/Videos                                  directory     0755                              1000      1000

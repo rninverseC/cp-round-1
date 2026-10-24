@@ -1,0 +1,32 @@
+Path                                              Size          Perms    Attrs                    Owner     Group
+--------------------------------------------------------------------------------------------------------------------------------------------
+/opt                                              directory     0755                              0         0
+/opt/CyberPatriot                                 directory     0755                              0         0
+/opt/CyberPatriot/README.desktop                  176           0755     --------------e-----     0         0
+/opt/CyberPatriot/Scoreboard.desktop              149           0755     --------------e-----     0         0
+/opt/CyberPatriot/ScoringReport.desktop           159           0755     --------------e-----     0         0
+/opt/CyberPatriot/SetUniqueId.desktop             158           0755     --------------e-----     0         0
+/opt/CyberPatriot/SetUniqueIdAuto.desktop         153           0755     --------------e-----     0         0
+/opt/CyberPatriot/StopScoring.desktop             194           0755     --------------e-----     0         0
+/opt/CyberPatriot/TechSupport.desktop             148           0755     --------------e-----     0         0
+/opt/CyberPatriot/alarm.wav                       110294        0644     --------------e-----     0         0
+/opt/CyberPatriot/background.jpg                  144250        0644     --------------e-----     0         0
+/opt/CyberPatriot/ccsclient                       1505236       0755     --------------e-----     0         0
+/opt/CyberPatriot/ccsclient.lock                  0             0600     --------------e-----     0         0
+/opt/CyberPatriot/gain.wav                        263252        0644     --------------e-----     0         0
+/opt/CyberPatriot/gong.wav                        190760        0644     --------------e-----     0         0
+/opt/CyberPatriot/horn.wav                        153302        0644     --------------e-----     0         0
+/opt/CyberPatriot/icon.png                        28502         0644     --------------e-----     0         0
+/opt/CyberPatriot/image001.png                    33155         0644     --------------e-----     0         0
+/opt/CyberPatriot/readme.html                     4507          0644     --------------e-----     0         0
+/opt/CyberPatriot/scoring-report-valid.html       4776          0644     --------------e-----     0         0
+/opt/CyberPatriot/scoring-report.html             4776          0644     --------------e-----     0         0
+/opt/CyberPatriot/scoring-report.xml              123           0644     --------------e-----     0         0
+/opt/CyberPatriot/scoringconfig.xml               836           0644     --------------e-----     0         0
+/opt/CyberPatriot/scoringresource.dat             8050          0644     --------------e-----     0         0
+/opt/CyberPatriot/scoringstate.0.dat              194           0600     --------------e-----     0         0
+/opt/CyberPatriot/scoringstate.1.dat              194           0600     --------------e-----     0         0
+/opt/CyberPatriot/scoringstate.2.dat              194           0600     --------------e-----     0         0
+/opt/CyberPatriot/set-uid                         1489448       0755     --------------e-----     0         0
+/opt/CyberPatriot/siren.wav                       66425         0644     --------------e-----     0         0
+/opt/CyberPatriot/stop                            1252936       0755     --------------e-----     0         0

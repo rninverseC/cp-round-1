@@ -1,0 +1,1335 @@
+Path                                              Size          Perms    Attrs                    Owner     Group     Checksum
+--------------------------------------------------------------------------------------------------------------------------------------------
+/home                                             directory     0755                              0         0
+/home/bbanner                                     directory     0750                              1012      1012
+/home/bbanner/.bash_history    symlink    /dev/null
+/home/bbanner/.bash_logout                        220           0644     --------------e-----     1012      1012      f67c48a0
+/home/bbanner/.bashrc                             3771          0644     --------------e-----     1012      1012      936cdb70
+/home/bbanner/.config                             directory     0755                              1012      1012
+/home/bbanner/.config/caja                        directory     0755                              1012      1012
+/home/bbanner/.config/caja/desktop-metadata       265           0644     --------------e-----     1012      1012      001b5a1d
+/home/bbanner/.config/hexchat                     directory     0755                              1012      1012
+/home/bbanner/.config/hexchat/hexchat.conf        263           0644     --------------e-----     1012      1012      6c965c24
+/home/bbanner/.config/hexchat/servlist.conf       8453          0644     --------------e-----     1012      1012      70f06016
+/home/bbanner/.config/qt5ct                       directory     0755                              1012      1012
+/home/bbanner/.config/qt5ct/qt5ct.conf            745           0644     --------------e-----     1012      1012      68960272
+/home/bbanner/.config/user-dirs.dirs              633           0600     --------------e-----     1012      1012      4506ccac
+/home/bbanner/.config/user-dirs.locale            5             0664     --------------e-----     1012      1012      05d001db
+/home/bbanner/.gtkrc-2.0                          22            0644     --------------e-----     1012      1012      5b4c076f
+/home/bbanner/.gtkrc-xfce                         516           0644     --------------e-----     1012      1012      abf7a78a
+/home/bbanner/.profile                            807           0644     --------------e-----     1012      1012      0f0f0260
+/home/bbanner/Desktop                             directory     0755                              1012      1012
+/home/bbanner/Documents                           directory     0755                              1012      1012
+/home/bbanner/Downloads                           directory     0755                              1012      1012
+/home/bbanner/Music                               directory     0755                              1012      1012
+/home/bbanner/Pictures                            directory     0755                              1012      1012
+/home/bbanner/Public                              directory     0755                              1012      1012
+/home/bbanner/Templates                           directory     0755                              1012      1012
+/home/bbanner/Videos                              directory     0755                              1012      1012
+/home/bbarnes                                     directory     0750                              1010      1010
+/home/bbarnes/.bash_history    symlink    /dev/null
+/home/bbarnes/.bash_logout                        220           0644     --------------e-----     1010      1010      f67c48a0
+/home/bbarnes/.bashrc                             3771          0644     --------------e-----     1010      1010      936cdb70
+/home/bbarnes/.config                             directory     0755                              1010      1010
+/home/bbarnes/.config/caja                        directory     0755                              1010      1010
+/home/bbarnes/.config/caja/desktop-metadata       265           0644     --------------e-----     1010      1010      001b5a1d
+/home/bbarnes/.config/hexchat                     directory     0755                              1010      1010
+/home/bbarnes/.config/hexchat/hexchat.conf        263           0644     --------------e-----     1010      1010      6c965c24
+/home/bbarnes/.config/hexchat/servlist.conf       8453          0644     --------------e-----     1010      1010      70f06016
+/home/bbarnes/.config/qt5ct                       directory     0755                              1010      1010
+/home/bbarnes/.config/qt5ct/qt5ct.conf            745           0644     --------------e-----     1010      1010      68960272
+/home/bbarnes/.config/user-dirs.dirs              633           0600     --------------e-----     1010      1010      4506ccac
+/home/bbarnes/.config/user-dirs.locale            5             0664     --------------e-----     1010      1010      05d001db
+/home/bbarnes/.gtkrc-2.0                          22            0644     --------------e-----     1010      1010      5b4c076f
+/home/bbarnes/.gtkrc-xfce                         516           0644     --------------e-----     1010      1010      abf7a78a
+/home/bbarnes/.profile                            807           0644     --------------e-----     1010      1010      0f0f0260
+/home/bbarnes/Desktop                             directory     0755                              1010      1010
+/home/bbarnes/Documents                           directory     0755                              1010      1010
+/home/bbarnes/Downloads                           directory     0755                              1010      1010
+/home/bbarnes/Music                               directory     0755                              1010      1010
+/home/bbarnes/Pictures                            directory     0755                              1010      1010
+/home/bbarnes/Public                              directory     0755                              1010      1010
+/home/bbarnes/Templates                           directory     0755                              1010      1010
+/home/bbarnes/Videos                              directory     0755                              1010      1010
+/home/cbarton                                     directory     0750                              1013      1013
+/home/cbarton/.bash_history    symlink    /dev/null
+/home/cbarton/.bash_logout                        220           0644     --------------e-----     1013      1013      f67c48a0
+/home/cbarton/.bashrc                             3771          0644     --------------e-----     1013      1013      936cdb70
+/home/cbarton/.config                             directory     0755                              1013      1013
+/home/cbarton/.config/caja                        directory     0755                              1013      1013
+/home/cbarton/.config/caja/desktop-metadata       265           0644     --------------e-----     1013      1013      001b5a1d
+/home/cbarton/.config/hexchat                     directory     0755                              1013      1013
+/home/cbarton/.config/hexchat/hexchat.conf        263           0644     --------------e-----     1013      1013      6c965c24
+/home/cbarton/.config/hexchat/servlist.conf       8453          0644     --------------e-----     1013      1013      70f06016
+/home/cbarton/.config/qt5ct                       directory     0755                              1013      1013
+/home/cbarton/.config/qt5ct/qt5ct.conf            745           0644     --------------e-----     1013      1013      68960272
+/home/cbarton/.config/user-dirs.dirs              633           0600     --------------e-----     1013      1013      4506ccac
+/home/cbarton/.config/user-dirs.locale            5             0664     --------------e-----     1013      1013      05d001db
+/home/cbarton/.gtkrc-2.0                          22            0644     --------------e-----     1013      1013      5b4c076f
+/home/cbarton/.gtkrc-xfce                         516           0644     --------------e-----     1013      1013      abf7a78a
+/home/cbarton/.profile                            807           0644     --------------e-----     1013      1013      0f0f0260
+/home/cbarton/Desktop                             directory     0755                              1013      1013
+/home/cbarton/Documents                           directory     0755                              1013      1013
+/home/cbarton/Downloads                           directory     0755                              1013      1013
+/home/cbarton/Music                               directory     0755                              1013      1013
+/home/cbarton/Pictures                            directory     0755                              1013      1013
+/home/cbarton/Public                              directory     0755                              1013      1013
+/home/cbarton/Templates                           directory     0755                              1013      1013
+/home/cbarton/Videos                              directory     0755                              1013      1013
+/home/cdanvers                                    directory     0750                              1015      1015
+/home/cdanvers/.bash_history    symlink    /dev/null
+/home/cdanvers/.bash_logout                       220           0644     --------------e-----     1015      1015      f67c48a0
+/home/cdanvers/.bashrc                            3771          0644     --------------e-----     1015      1015      936cdb70
+/home/cdanvers/.config                            directory     0755                              1015      1015
+/home/cdanvers/.config/caja                       directory     0755                              1015      1015
+/home/cdanvers/.config/caja/desktop-metadata      265           0644     --------------e-----     1015      1015      001b5a1d
+/home/cdanvers/.config/hexchat                    directory     0755                              1015      1015
+/home/cdanvers/.config/hexchat/hexchat.conf       263           0644     --------------e-----     1015      1015      6c965c24
+/home/cdanvers/.config/hexchat/servlist.conf      8453          0644     --------------e-----     1015      1015      70f06016
+/home/cdanvers/.config/qt5ct                      directory     0755                              1015      1015
+/home/cdanvers/.config/qt5ct/qt5ct.conf           745           0644     --------------e-----     1015      1015      68960272
+/home/cdanvers/.config/user-dirs.dirs             633           0600     --------------e-----     1015      1015      4506ccac
+/home/cdanvers/.config/user-dirs.locale           5             0664     --------------e-----     1015      1015      05d001db
+/home/cdanvers/.gtkrc-2.0                         22            0644     --------------e-----     1015      1015      5b4c076f
+/home/cdanvers/.gtkrc-xfce                        516           0644     --------------e-----     1015      1015      abf7a78a
+/home/cdanvers/.profile                           807           0644     --------------e-----     1015      1015      0f0f0260
+/home/cdanvers/Desktop                            directory     0755                              1015      1015
+/home/cdanvers/Documents                          directory     0755                              1015      1015
+/home/cdanvers/Downloads                          directory     0755                              1015      1015
+/home/cdanvers/Music                              directory     0755                              1015      1015
+/home/cdanvers/Pictures                           directory     0755                              1015      1015
+/home/cdanvers/Public                             directory     0755                              1015      1015
+/home/cdanvers/Templates                          directory     0755                              1015      1015
+/home/cdanvers/Videos                             directory     0755                              1015      1015
+/home/hhogan                                      directory     0750                              1006      1006
+/home/hhogan/.bash_history    symlink    /dev/null
+/home/hhogan/.bash_logout                         220           0644     --------------e-----     1006      1006      f67c48a0
+/home/hhogan/.bashrc                              3771          0644     --------------e-----     1006      1006      936cdb70
+/home/hhogan/.config                              directory     0755                              1006      1006
+/home/hhogan/.config/caja                         directory     0755                              1006      1006
+/home/hhogan/.config/caja/desktop-metadata        265           0644     --------------e-----     1006      1006      001b5a1d
+/home/hhogan/.config/hexchat                      directory     0755                              1006      1006
+/home/hhogan/.config/hexchat/hexchat.conf         263           0644     --------------e-----     1006      1006      6c965c24
+/home/hhogan/.config/hexchat/servlist.conf        8453          0644     --------------e-----     1006      1006      70f06016
+/home/hhogan/.config/qt5ct                        directory     0755                              1006      1006
+/home/hhogan/.config/qt5ct/qt5ct.conf             745           0644     --------------e-----     1006      1006      68960272
+/home/hhogan/.config/user-dirs.dirs               633           0600     --------------e-----     1006      1006      4506ccac
+/home/hhogan/.config/user-dirs.locale             5             0664     --------------e-----     1006      1006      05d001db
+/home/hhogan/.gtkrc-2.0                           22            0644     --------------e-----     1006      1006      5b4c076f
+/home/hhogan/.gtkrc-xfce                          516           0644     --------------e-----     1006      1006      abf7a78a
+/home/hhogan/.profile                             807           0644     --------------e-----     1006      1006      0f0f0260
+/home/hhogan/Desktop                              directory     0755                              1006      1006
+/home/hhogan/Documents                            directory     0755                              1006      1006
+/home/hhogan/Downloads                            directory     0755                              1006      1006
+/home/hhogan/Music                                directory     0755                              1006      1006
+/home/hhogan/Pictures                             directory     0755                              1006      1006
+/home/hhogan/Public                               directory     0755                              1006      1006
+/home/hhogan/Templates                            directory     0755                              1006      1006
+/home/hhogan/Videos                               directory     0755                              1006      1006
+/home/hvandyne                                    directory     0750                              1004      1004
+/home/hvandyne/.bash_history    symlink    /dev/null
+/home/hvandyne/.bash_logout                       220           0644     --------------e-----     1004      1004      f67c48a0
+/home/hvandyne/.bashrc                            3771          0644     --------------e-----     1004      1004      936cdb70
+/home/hvandyne/.config                            directory     0755                              1004      1004
+/home/hvandyne/.config/caja                       directory     0755                              1004      1004
+/home/hvandyne/.config/caja/desktop-metadata      265           0644     --------------e-----     1004      1004      001b5a1d
+/home/hvandyne/.config/hexchat                    directory     0755                              1004      1004
+/home/hvandyne/.config/hexchat/hexchat.conf       263           0644     --------------e-----     1004      1004      6c965c24
+/home/hvandyne/.config/hexchat/servlist.conf      8453          0644     --------------e-----     1004      1004      70f06016
+/home/hvandyne/.config/qt5ct                      directory     0755                              1004      1004
+/home/hvandyne/.config/qt5ct/qt5ct.conf           745           0644     --------------e-----     1004      1004      68960272
+/home/hvandyne/.config/user-dirs.dirs             633           0600     --------------e-----     1004      1004      4506ccac
+/home/hvandyne/.config/user-dirs.locale           5             0664     --------------e-----     1004      1004      05d001db
+/home/hvandyne/.gtkrc-2.0                         22            0644     --------------e-----     1004      1004      5b4c076f
+/home/hvandyne/.gtkrc-xfce                        516           0644     --------------e-----     1004      1004      abf7a78a
+/home/hvandyne/.profile                           807           0644     --------------e-----     1004      1004      0f0f0260
+/home/hvandyne/Desktop                            directory     0755                              1004      1004
+/home/hvandyne/Documents                          directory     0755                              1004      1004
+/home/hvandyne/Downloads                          directory     0755                              1004      1004
+/home/hvandyne/Music                              directory     0755                              1004      1004
+/home/hvandyne/Pictures                           directory     0755                              1004      1004
+/home/hvandyne/Public                             directory     0755                              1004      1004
+/home/hvandyne/Templates                          directory     0755                              1004      1004
+/home/hvandyne/Videos                             directory     0755                              1004      1004
+/home/jrhodes                                     directory     0750                              1018      1018
+/home/jrhodes/.bash_history    symlink    /dev/null
+/home/jrhodes/.bash_logout                        220           0644     --------------e-----     1018      1018      f67c48a0
+/home/jrhodes/.bashrc                             3771          0644     --------------e-----     1018      1018      936cdb70
+/home/jrhodes/.config                             directory     0755                              1018      1018
+/home/jrhodes/.config/caja                        directory     0755                              1018      1018
+/home/jrhodes/.config/caja/desktop-metadata       265           0644     --------------e-----     1018      1018      001b5a1d
+/home/jrhodes/.config/hexchat                     directory     0755                              1018      1018
+/home/jrhodes/.config/hexchat/hexchat.conf        263           0644     --------------e-----     1018      1018      6c965c24
+/home/jrhodes/.config/hexchat/servlist.conf       8453          0644     --------------e-----     1018      1018      70f06016
+/home/jrhodes/.config/qt5ct                       directory     0755                              1018      1018
+/home/jrhodes/.config/qt5ct/qt5ct.conf            745           0644     --------------e-----     1018      1018      68960272
+/home/jrhodes/.config/user-dirs.dirs              633           0600     --------------e-----     1018      1018      4506ccac
+/home/jrhodes/.config/user-dirs.locale            5             0664     --------------e-----     1018      1018      05d001db
+/home/jrhodes/.gtkrc-2.0                          22            0644     --------------e-----     1018      1018      5b4c076f
+/home/jrhodes/.gtkrc-xfce                         516           0644     --------------e-----     1018      1018      abf7a78a
+/home/jrhodes/.profile                            807           0644     --------------e-----     1018      1018      0f0f0260
+/home/jrhodes/Desktop                             directory     0755                              1018      1018
+/home/jrhodes/Documents                           directory     0755                              1018      1018
+/home/jrhodes/Downloads                           directory     0755                              1018      1018
+/home/jrhodes/Music                               directory     0755                              1018      1018
+/home/jrhodes/Pictures                            directory     0755                              1018      1018
+/home/jrhodes/Public                              directory     0755                              1018      1018
+/home/jrhodes/Templates                           directory     0755                              1018      1018
+/home/jrhodes/Videos                              directory     0755                              1018      1018
+/home/nfury                                       directory     0750                              1003      1003
+/home/nfury/.bash_history    symlink    /dev/null
+/home/nfury/.bash_logout                          220           0644     --------------e-----     1003      1003      f67c48a0
+/home/nfury/.bashrc                               3771          0644     --------------e-----     1003      1003      936cdb70
+/home/nfury/.config                               directory     0755                              1003      1003
+/home/nfury/.config/caja                          directory     0755                              1003      1003
+/home/nfury/.config/caja/desktop-metadata         265           0644     --------------e-----     1003      1003      001b5a1d
+/home/nfury/.config/hexchat                       directory     0755                              1003      1003
+/home/nfury/.config/hexchat/hexchat.conf          263           0644     --------------e-----     1003      1003      6c965c24
+/home/nfury/.config/hexchat/servlist.conf         8453          0644     --------------e-----     1003      1003      70f06016
+/home/nfury/.config/qt5ct                         directory     0755                              1003      1003
+/home/nfury/.config/qt5ct/qt5ct.conf              745           0644     --------------e-----     1003      1003      68960272
+/home/nfury/.config/user-dirs.dirs                633           0600     --------------e-----     1003      1003      4506ccac
+/home/nfury/.config/user-dirs.locale              5             0664     --------------e-----     1003      1003      05d001db
+/home/nfury/.gtkrc-2.0                            22            0644     --------------e-----     1003      1003      5b4c076f
+/home/nfury/.gtkrc-xfce                           516           0644     --------------e-----     1003      1003      abf7a78a
+/home/nfury/.profile                              807           0644     --------------e-----     1003      1003      0f0f0260
+/home/nfury/Desktop                               directory     0755                              1003      1003
+/home/nfury/Documents                             directory     0755                              1003      1003
+/home/nfury/Downloads                             directory     0755                              1003      1003
+/home/nfury/Music                                 directory     0755                              1003      1003
+/home/nfury/Pictures                              directory     0755                              1003      1003
+/home/nfury/Public                                directory     0755                              1003      1003
+/home/nfury/Templates                             directory     0755                              1003      1003
+/home/nfury/Videos                                directory     0755                              1003      1003
+/home/okoye                                       directory     0750                              1002      1002
+/home/okoye/.bash_history    symlink    /dev/null
+/home/okoye/.bash_logout                          220           0644     --------------e-----     1002      1002      f67c48a0
+/home/okoye/.bashrc                               3771          0644     --------------e-----     1002      1002      936cdb70
+/home/okoye/.config                               directory     0755                              1002      1002
+/home/okoye/.config/caja                          directory     0755                              1002      1002
+/home/okoye/.config/caja/desktop-metadata         265           0644     --------------e-----     1002      1002      001b5a1d
+/home/okoye/.config/hexchat                       directory     0755                              1002      1002
+/home/okoye/.config/hexchat/hexchat.conf          263           0644     --------------e-----     1002      1002      6c965c24
+/home/okoye/.config/hexchat/servlist.conf         8453          0644     --------------e-----     1002      1002      70f06016
+/home/okoye/.config/qt5ct                         directory     0755                              1002      1002
+/home/okoye/.config/qt5ct/qt5ct.conf              745           0644     --------------e-----     1002      1002      68960272
+/home/okoye/.config/user-dirs.dirs                633           0600     --------------e-----     1002      1002      4506ccac
+/home/okoye/.config/user-dirs.locale              5             0664     --------------e-----     1002      1002      05d001db
+/home/okoye/.gtkrc-2.0                            22            0644     --------------e-----     1002      1002      5b4c076f
+/home/okoye/.gtkrc-xfce                           516           0644     --------------e-----     1002      1002      abf7a78a
+/home/okoye/.profile                              807           0644     --------------e-----     1002      1002      0f0f0260
+/home/okoye/Desktop                               directory     0755                              1002      1002
+/home/okoye/Documents                             directory     0755                              1002      1002
+/home/okoye/Downloads                             directory     0755                              1002      1002
+/home/okoye/Music                                 directory     0755                              1002      1002
+/home/okoye/Pictures                              directory     0755                              1002      1002
+/home/okoye/Public                                directory     0755                              1002      1002
+/home/okoye/Templates                             directory     0755                              1002      1002
+/home/okoye/Videos                                directory     0755                              1002      1002
+/home/pparker                                     directory     0750                              1001      1001
+/home/pparker/.Xauthority                         49            0600     --------------e-----     1001      1001      17c30ee0
+/home/pparker/.bash_history    symlink    /dev/null
+/home/pparker/.bash_logout                        220           0644     --------------e-----     1001      1001      f67c48a0
+/home/pparker/.bashrc                             3771          0644     --------------e-----     1001      1001      936cdb70
+/home/pparker/.cache                              directory     0700                              1001      1001
+/home/pparker/.cache/chromium                     directory     0700                              1001      1001
+/home/pparker/.cache/chromium/Default             directory     0700                              1001      1001
+/home/pparker/.cache/chromium/Default/Cache       directory     0700                              1001      1001
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data    directory    0700        1001    1001
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/00aa9ba8d9833678_0    4239    0600    --------------e-----    1001    1001    83b67715
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/0a0fc49f89e6e580_0    119696    0600    --------------e-----    1001    1001
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/0f407490426e2949_0    8591    0600    --------------e-----    1001    1001    10098699
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/15c51541f52eac81_0    3996    0600    --------------e-----    1001    1001    b978246e
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/1bbb4bb23da47e3f_0    32101    0600    --------------e-----    1001    1001    8273d3b1
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/346b8b0d8eff638b_0    9156    0600    --------------e-----    1001    1001    77503dcc
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/3cb9bdf43491c585_0    9752    0600    --------------e-----    1001    1001    530e6495
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/465f03015f04dec6_0    4165    0600    --------------e-----    1001    1001    6122743b
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/4f2fcc761f118eb3_0    9821    0600    --------------e-----    1001    1001    c94725dd
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/686d32228ee5b7bf_0    4144    0600    --------------e-----    1001    1001    4d816d36
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/69e4132815fccead_0    3932    0600    --------------e-----    1001    1001    96d8e54a
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/70db0091817185fb_0    28477    0600    --------------e-----    1001    1001    c1941c3a
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/7a94cf793a93a9e3_0    41947    0600    --------------e-----    1001    1001    8354c16b
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/7d4b00546f904155_0    9646    0600    --------------e-----    1001    1001    26330066
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/8fc7350c30a6732e_0    25024    0600    --------------e-----    1001    1001    02d86401
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/99e7d122a93e8fff_0    31751    0600    --------------e-----    1001    1001    9af0bf9b
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/9ee4bf825c67b3a0_0    8948    0600    --------------e-----    1001    1001    2f11ad4a
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/a0120c49a07b4007_0    266041    0600    --------------e-----    1001    1001
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/ae9498d251f7fa76_0    4052    0600    --------------e-----    1001    1001    6af53d4d
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/b4526960b176bbe0_0    4306    0600    --------------e-----    1001    1001    b45c990f
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/b70dcd396d98963b_0    4218    0600    --------------e-----    1001    1001    3dc97578
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/b7c324a1c26d38c8_0    35988    0600    --------------e-----    1001    1001    7a1b8aeb
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/b8afb74353953cfc_0    4421    0600    --------------e-----    1001    1001    b3c8e8c2
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/bd0357df468b7604_0    4173    0600    --------------e-----    1001    1001    d91878eb
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/c239673bdf195b07_0    4089    0600    --------------e-----    1001    1001    2ab29295
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/c5c11a792b57a285_0    8758    0600    --------------e-----    1001    1001    200b6162
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/d1274a01ec4120f0_0    8078    0600    --------------e-----    1001    1001    ddec5fd5
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/d6c8023afce9bb0b_0    39382    0600    --------------e-----    1001    1001    cc84125d
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/f10be0fe07f52f37_0    5337    0600    --------------e-----    1001    1001    6b09ca1c
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/index    24    0600    --------------e-----    1001    1001    5180042e
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/index-dir    directory    0700        1001    1001
+/home/pparker/.cache/chromium/Default/Cache/Cache_Data/index-dir/the-real-index    744    0600    --------------e-----    1001    1001    e406c5ac
+/home/pparker/.cache/chromium/Default/Code Cache    directory    0700        1001    1001
+/home/pparker/.cache/chromium/Default/Code Cache/js    directory    0700        1001    1001
+/home/pparker/.cache/chromium/Default/Code Cache/js/159c0939acaeea38_0    7525    0600    --------------e-----    1001    1001    14e748d7
+/home/pparker/.cache/chromium/Default/Code Cache/js/28711f5265f82e14_0    15076    0600    --------------e-----    1001    1001    2cf7b6e8
+/home/pparker/.cache/chromium/Default/Code Cache/js/4758de3ce25f3101_0    108928    0600    --------------e-----    1001    1001
+/home/pparker/.cache/chromium/Default/Code Cache/js/7116833d2b5da0d1_0    1908    0600    --------------e-----    1001    1001    19d71965
+/home/pparker/.cache/chromium/Default/Code Cache/js/85ec741fb0d5407f_0    292    0600    --------------e-----    1001    1001    d4715faa
+/home/pparker/.cache/chromium/Default/Code Cache/js/879a041efc6232ea_0    300    0600    --------------e-----    1001    1001    fe4b639e
+/home/pparker/.cache/chromium/Default/Code Cache/js/9a025eebd47ebfab_0    569    0600    --------------e-----    1001    1001    dc4da33f
+/home/pparker/.cache/chromium/Default/Code Cache/js/cf8e229bb83e3507_0    19160    0600    --------------e-----    1001    1001    f5652104
+/home/pparker/.cache/chromium/Default/Code Cache/js/d400e9dcb038bc1e_0    532    0600    --------------e-----    1001    1001    a3248b1d
+/home/pparker/.cache/chromium/Default/Code Cache/js/da91a88d05223ea8_0    292    0600    --------------e-----    1001    1001    d51b5dbf
+/home/pparker/.cache/chromium/Default/Code Cache/js/ece0a3a7d5e1ab53_0    3576    0600    --------------e-----    1001    1001    fc6b38ba
+/home/pparker/.cache/chromium/Default/Code Cache/js/ff12c2fda33299fb_0    207    0600    --------------e-----    1001    1001    f8363c25
+/home/pparker/.cache/chromium/Default/Code Cache/js/index    24    0600    --------------e-----    1001    1001    5180042e
+/home/pparker/.cache/chromium/Default/Code Cache/js/index-dir    directory    0700        1001    1001
+/home/pparker/.cache/chromium/Default/Code Cache/js/index-dir/the-real-index    336    0600    --------------e-----    1001    1001    b95a55d0
+/home/pparker/.cache/chromium/Default/Code Cache/wasm    directory    0700        1001    1001
+/home/pparker/.cache/chromium/Default/Code Cache/wasm/index    24    0600    --------------e-----    1001    1001    5180042e
+/home/pparker/.cache/chromium/Default/Code Cache/wasm/index-dir    directory    0700        1001    1001
+/home/pparker/.cache/chromium/Default/Code Cache/wasm/index-dir/the-real-index    48    0600    --------------e-----    1001    1001    e3600880
+/home/pparker/.cache/evolution                    directory     0700                              1001      1001
+/home/pparker/.cache/evolution/addressbook        directory     0775                              1001      1001
+/home/pparker/.cache/evolution/addressbook/trash    directory    0775        1001    1001
+/home/pparker/.cache/evolution/calendar           directory     0775                              1001      1001
+/home/pparker/.cache/evolution/calendar/trash     directory     0775                              1001      1001
+/home/pparker/.cache/evolution/mail               directory     0775                              1001      1001
+/home/pparker/.cache/evolution/mail/trash         directory     0775                              1001      1001
+/home/pparker/.cache/evolution/memos              directory     0775                              1001      1001
+/home/pparker/.cache/evolution/memos/trash        directory     0775                              1001      1001
+/home/pparker/.cache/evolution/sources            directory     0775                              1001      1001
+/home/pparker/.cache/evolution/sources/trash      directory     0775                              1001      1001
+/home/pparker/.cache/evolution/tasks              directory     0775                              1001      1001
+/home/pparker/.cache/evolution/tasks/trash        directory     0775                              1001      1001
+/home/pparker/.cache/gstreamer-1.0                directory     0700                              1001      1001
+/home/pparker/.cache/gstreamer-1.0/registry.x86_64.bin    399060    0600    --------------e-----    1001    1001
+/home/pparker/.cache/mate                         directory     0700                              1001      1001
+/home/pparker/.cache/mate/background              directory     0700                              1001      1001
+/home/pparker/.cache/mate/background/0_1_2258_1359_2ca3af3e98f8b632ba409aa8faeb0394    1816713    0664    --------------e-----    1001    1001
+/home/pparker/.cache/mesa_shader_cache            directory     0755                              1001      1001
+/home/pparker/.cache/mesa_shader_cache/index      1310728       0644     --------------e-----     1001      1001
+/home/pparker/.cache/obexd                        directory     0700                              1001      1001
+/home/pparker/.cache/thumbnails                   directory     0700                              1001      1001
+/home/pparker/.cache/thumbnails/fail              directory     0700                              1001      1001
+/home/pparker/.cache/thumbnails/fail/mate-thumbnail-factory    directory    0700        1001    1001
+/home/pparker/.cache/thumbnails/fail/mate-thumbnail-factory/017894a88314e3c6cd7987a0240013a6.png    234    0600    --------------e-----    1001    1001    75443f8e
+/home/pparker/.config                             directory     0755                              1001      1001
+/home/pparker/.config/autostart                   directory     0755                              1001      1001
+/home/pparker/.config/autostart/SetUniqueIdAuto.desktop    symlink    /opt/CyberPatriot/SetUniqueIdAuto.desktop
+/home/pparker/.config/caja                        directory     0755                              1001      1001
+/home/pparker/.config/caja/accels                 9025          0644     --------------e-----     1001      1001      b15ff5a2
+/home/pparker/.config/caja/desktop-metadata       532           0664     --------------e-----     1001      1001      62beb5ee
+/home/pparker/.config/caja/scripts                directory     0755                              1001      1001
+/home/pparker/.config/chromium                    directory     0700                              1001      1001
+/home/pparker/.config/chromium/AutofillStates     directory     0700                              1001      1001
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507    directory    0700        1001    1001
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AD    306    0600    --------------e-----    1001    1001    c83e6f9d
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AE    456    0600    --------------e-----    1001    1001    3d7d012d
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AF    2356    0600    --------------e-----    1001    1001    6bb56322
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AG    234    0600    --------------e-----    1001    1001    d0df4c9f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AL    590    0600    --------------e-----    1001    1001    1048de48
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AM    672    0600    --------------e-----    1001    1001    23f67407
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AO    584    0600    --------------e-----    1001    1001    e4e1c847
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AR    1386    0600    --------------e-----    1001    1001    20b7ebc7
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AS    121    0600    --------------e-----    1001    1001    b9f126bd
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AT    219    0600    --------------e-----    1001    1001    476b4a53
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AU    221    0600    --------------e-----    1001    1001    9d794660
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AX    113    0600    --------------e-----    1001    1001    b189291b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/AZ    83    0600    --------------e-----    1001    1001    1cf12168
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BA    286    0600    --------------e-----    1001    1001    b401960e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BB    384    0600    --------------e-----    1001    1001    ceed813d
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BD    530    0600    --------------e-----    1001    1001    88a62f43
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BE    177    0600    --------------e-----    1001    1001    a3493f56
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BF    471    0600    --------------e-----    1001    1001    087fa164
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BG    1688    0600    --------------e-----    1001    1001    9c83cb98
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BH    257    0600    --------------e-----    1001    1001    b8888b6f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BI    631    0600    --------------e-----    1001    1001    536ed595
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BJ    459    0600    --------------e-----    1001    1001    9266a26e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BM    296    0600    --------------e-----    1001    1001    80d46317
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BN    217    0600    --------------e-----    1001    1001    293b4b63
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BO    823    0600    --------------e-----    1001    1001    88ce30d8
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BQ    50    0600    --------------e-----    1001    1001    46a10e86
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BR    1071    0600    --------------e-----    1001    1001    715a6576
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BS    561    0600    --------------e-----    1001    1001    335bada2
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BT    1545    0600    --------------e-----    1001    1001    0402459f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BW    547    0600    --------------e-----    1001    1001    1453baa0
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BY    591    0600    --------------e-----    1001    1001    b4196c1b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/BZ    184    0600    --------------e-----    1001    1001    22b63ccb
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CA    349    0600    --------------e-----    1001    1001    900e6daa
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CC    46    0600    --------------e-----    1001    1001    35580eb1
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CD    508    0600    --------------e-----    1001    1001    9aa9a767
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CF    487    0600    --------------e-----    1001    1001    a42bbeae
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CG    189    0600    --------------e-----    1001    1001    04253a98
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CH    1113    0600    --------------e-----    1001    1001    722472c0
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CI    1019    0600    --------------e-----    1001    1001    d40d79ab
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CL    2083    0600    --------------e-----    1001    1001    f5c01fa8
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CM    724    0600    --------------e-----    1001    1001    833f025b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CN    1108    0600    --------------e-----    1001    1001    61af19c6
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CO    646    0600    --------------e-----    1001    1001    7131d34e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CR    392    0600    --------------e-----    1001    1001    47308bee
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CU    770    0600    --------------e-----    1001    1001    79350f4e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CV    412    0600    --------------e-----    1001    1001    3c728722
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CX    33    0600    --------------e-----    1001    1001    985a0a91
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CY    370    0600    --------------e-----    1001    1001    6c42bb92
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/CZ    569    0600    --------------e-----    1001    1001    6300d928
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/DE    439    0600    --------------e-----    1001    1001    e8e28e75
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/DJ    386    0600    --------------e-----    1001    1001    c424c325
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/DK    318    0600    --------------e-----    1001    1001    a2e571c7
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/DM    356    0600    --------------e-----    1001    1001    e6ba7748
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/DO    1303    0600    --------------e-----    1001    1001    ab0cd1a9
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/DZ    4905    0600    --------------e-----    1001    1001    5672a073
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/EC    1063    0600    --------------e-----    1001    1001    119778d1
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/EE    520    0600    --------------e-----    1001    1001    20f6be6f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/EG    1987    0600    --------------e-----    1001    1001    a3684f4e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/EH    287    0600    --------------e-----    1001    1001    69ea9d06
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ER    618    0600    --------------e-----    1001    1001    ee0e6a2d
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ES    729    0600    --------------e-----    1001    1001    196eeffe
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ET    617    0600    --------------e-----    1001    1001    25694492
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/FI    1171    0600    --------------e-----    1001    1001    925bb484
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/FJ    104    0600    --------------e-----    1001    1001    b31a22b6
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/FM    80    0600    --------------e-----    1001    1001    8b5f17da
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/FO    155    0600    --------------e-----    1001    1001    adb33614
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/FR    272    0600    --------------e-----    1001    1001    5d105b0a
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GA    220    0600    --------------e-----    1001    1001    9ee04e18
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GB    207    0600    --------------e-----    1001    1001    05336563
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GD    231    0600    --------------e-----    1001    1001    09424d24
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GE    1237    0600    --------------e-----    1001    1001    145fd0d2
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GF    355    0600    --------------e-----    1001    1001    05b28356
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GG    408    0600    --------------e-----    1001    1001    dd4d8bb3
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GH    401    0600    --------------e-----    1001    1001    c47d835c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GL    193    0600    --------------e-----    1001    1001    3e5843b7
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GM    98    0600    --------------e-----    1001    1001    1e4f1b86
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GN    246    0600    --------------e-----    1001    1001    28065a86
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GP    153    0600    --------------e-----    1001    1001    b1303740
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GQ    430    0600    --------------e-----    1001    1001    40d6995b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GR    1446    0600    --------------e-----    1001    1001    9cc01810
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GT    851    0600    --------------e-----    1001    1001    2ab032e5
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GW    107    0600    --------------e-----    1001    1001    09711d6a
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/GY    227    0600    --------------e-----    1001    1001    7ee54dfe
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/HK    118    0600    --------------e-----    1001    1001    221130fe
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/HN    1120    0600    --------------e-----    1001    1001    e8fe9b55
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/HR    1062    0600    --------------e-----    1001    1001    b83aa1ac
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/HT    519    0600    --------------e-----    1001    1001    183fb974
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/HU    717    0600    --------------e-----    1001    1001    544e0b07
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ID    2086    0600    --------------e-----    1001    1001    c070e7c4
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/IE    1901    0600    --------------e-----    1001    1001    14bf90ea
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/IL    1040    0600    --------------e-----    1001    1001    83a83479
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/IM    260    0600    --------------e-----    1001    1001    81c6470c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/IN    5770    0600    --------------e-----    1001    1001    ba5b3bb9
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/IQ    2001    0600    --------------e-----    1001    1001    dd54d8a7
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/IR    3167    0600    --------------e-----    1001    1001    dd4740dd
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/IS    2565    0600    --------------e-----    1001    1001    d8514b94
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/IT    8287    0600    --------------e-----    1001    1001    7f8a3f6a
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/JE    281    0600    --------------e-----    1001    1001    b0915945
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/JM    629    0600    --------------e-----    1001    1001    b8d1d85d
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/JO    641    0600    --------------e-----    1001    1001    ac6751d9
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/JP    1021    0600    --------------e-----    1001    1001    2887c24f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KE    2213    0600    --------------e-----    1001    1001    4fbcf383
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KG    897    0600    --------------e-----    1001    1001    6cf70460
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KH    3186    0600    --------------e-----    1001    1001    e315c00c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KI    58    0600    --------------e-----    1001    1001    e2e41205
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KM    121    0600    --------------e-----    1001    1001    fa3936a1
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KN    921    0600    --------------e-----    1001    1001    b93e49f6
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KP    470    0600    --------------e-----    1001    1001    e833e5ac
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KR    746    0600    --------------e-----    1001    1001    a18082cb
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KW    421    0600    --------------e-----    1001    1001    fb2ce2cc
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KY    90    0600    --------------e-----    1001    1001    7acc1a51
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/KZ    2056    0600    --------------e-----    1001    1001    8d45eb3e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LA    1868    0600    --------------e-----    1001    1001    bebc43a8
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LB    647    0600    --------------e-----    1001    1001    2ec669fd
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LC    281    0600    --------------e-----    1001    1001    2fd25ca2
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LI    129    0600    --------------e-----    1001    1001    bbcf2462
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LK    1408    0600    --------------e-----    1001    1001    4e261b79
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LR    453    0600    --------------e-----    1001    1001    04cf9575
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LS    326    0600    --------------e-----    1001    1001    485b6d6a
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LT    401    0600    --------------e-----    1001    1001    114d984a
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LU    614    0600    --------------e-----    1001    1001    00a4d5a3
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LV    1875    0600    --------------e-----    1001    1001    a79cc090
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/LY    1445    0600    --------------e-----    1001    1001    b46e1ed3
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MA    1137    0600    --------------e-----    1001    1001    c6e07aeb
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MD    1792    0600    --------------e-----    1001    1001    e537a7d3
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ME    1734    0600    --------------e-----    1001    1001    d97012c4
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MG    508    0600    --------------e-----    1001    1001    28c9a725
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MH    390    0600    --------------e-----    1001    1001    02a37764
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MK    7577    0600    --------------e-----    1001    1001    47bdd3cb
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ML    470    0600    --------------e-----    1001    1001    420da74d
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MM    1221    0600    --------------e-----    1001    1001    30a7ca35
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MN    919    0600    --------------e-----    1001    1001    90d10283
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MP    96    0600    --------------e-----    1001    1001    e2631f24
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MQ    146    0600    --------------e-----    1001    1001    486d2f9d
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MR    1191    0600    --------------e-----    1001    1001    44c58a68
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MS    315    0600    --------------e-----    1001    1001    dd306e47
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MU    470    0600    --------------e-----    1001    1001    b345a5d7
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MV    812    0600    --------------e-----    1001    1001    eaa91ed4
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MW    89    0600    --------------e-----    1001    1001    d4311d73
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MX    947    0600    --------------e-----    1001    1001    eaab3190
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MY    500    0600    --------------e-----    1001    1001    e7eba81f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/MZ    348    0600    --------------e-----    1001    1001    ebf4749f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NA    484    0600    --------------e-----    1001    1001    d0e1a3c1
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NC    126    0600    --------------e-----    1001    1001    04832cf4
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NE    248    0600    --------------e-----    1001    1001    349a5338
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NG    1952    0600    --------------e-----    1001    1001    553e477f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NI    932    0600    --------------e-----    1001    1001    7b1d5310
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NL    281    0600    --------------e-----    1001    1001    ae81520e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NO    201    0600    --------------e-----    1001    1001    1f6c3d56
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NP    705    0600    --------------e-----    1001    1001    8fbaa56c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NR    370    0600    --------------e-----    1001    1001    b5e976e7
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NU    167    0600    --------------e-----    1001    1001    98012e9f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/NZ    692    0600    --------------e-----    1001    1001    546df295
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/OM    769    0600    --------------e-----    1001    1001    fbd09bd6
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PA    836    0600    --------------e-----    1001    1001    03e73773
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PE    1176    0600    --------------e-----    1001    1001    90069ac7
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PF    231    0600    --------------e-----    1001    1001    4e4953dc
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PG    1237    0600    --------------e-----    1001    1001    3ef2b172
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PH    1377    0600    --------------e-----    1001    1001    7f2be31b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PK    340    0600    --------------e-----    1001    1001    0a8495b1
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PL    1194    0600    --------------e-----    1001    1001    3ec1d48f
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PR    1007    0600    --------------e-----    1001    1001    0fd62f3c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PS    102    0600    --------------e-----    1001    1001    477b3737
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PT    966    0600    --------------e-----    1001    1001    2a2052f6
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PW    243    0600    --------------e-----    1001    1001    a8c3495a
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/PY    1460    0600    --------------e-----    1001    1001    d31934ab
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/QA    689    0600    --------------e-----    1001    1001    72c85f08
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/RE    247    0600    --------------e-----    1001    1001    620b55da
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/RO    1867    0600    --------------e-----    1001    1001    2671ae88
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/RS    126    0600    --------------e-----    1001    1001    286b47d8
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/RU    7846    0600    --------------e-----    1001    1001    939690ab
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/RW    328    0600    --------------e-----    1001    1001    526072e2
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SA    901    0600    --------------e-----    1001    1001    0478ef9b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SB    346    0600    --------------e-----    1001    1001    a7a97667
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SC    482    0600    --------------e-----    1001    1001    f784960e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SD    1510    0600    --------------e-----    1001    1001    711230f3
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SE    805    0600    --------------e-----    1001    1001    948036db
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SH    71    0600    --------------e-----    1001    1001    fd8c166e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SI    941    0600    --------------e-----    1001    1001    30f732b1
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SJ    29    0600    --------------e-----    1001    1001    633007ca
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SK    335    0600    --------------e-----    1001    1001    42d87fd6
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SL    158    0600    --------------e-----    1001    1001    81703622
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SM    155    0600    --------------e-----    1001    1001    2edb30f8
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SN    783    0600    --------------e-----    1001    1001    1efc1fda
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SO    824    0600    --------------e-----    1001    1001    4dbba4fa
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SR    328    0600    --------------e-----    1001    1001    1d9a6f89
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SS    660    0600    --------------e-----    1001    1001    a74536a0
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ST    88    0600    --------------e-----    1001    1001    b2a91c4c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SV    550    0600    --------------e-----    1001    1001    bed9c4f4
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SY    1535    0600    --------------e-----    1001    1001    71852b2c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/SZ    116    0600    --------------e-----    1001    1001    2f982620
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TC    39    0600    --------------e-----    1001    1001    cde70bdd
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TD    1137    0600    --------------e-----    1001    1001    901c485c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TG    238    0600    --------------e-----    1001    1001    fe7553c1
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TH    11892    0600    --------------e-----    1001    1001    b236d814
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TJ    372    0600    --------------e-----    1001    1001    a460bf78
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TK    36    0600    --------------e-----    1001    1001    93da0999
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TL    222    0600    --------------e-----    1001    1001    6467450b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TM    134    0600    --------------e-----    1001    1001    844e2db8
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TN    2306    0600    --------------e-----    1001    1001    d27e5a98
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TO    60    0600    --------------e-----    1001    1001    99170f0b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TR    930    0600    --------------e-----    1001    1001    28ef226b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TT    930    0600    --------------e-----    1001    1001    3b765392
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TV    118    0600    --------------e-----    1001    1001    93142269
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TW    776    0600    --------------e-----    1001    1001    fad06624
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/TZ    1772    0600    --------------e-----    1001    1001    0a5f5cd2
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/UA    2227    0600    --------------e-----    1001    1001    c4513acf
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/UG    185    0600    --------------e-----    1001    1001    c5c33e2c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/US    1312    0600    --------------e-----    1001    1001    0299861a
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/UY    1171    0600    --------------e-----    1001    1001    1bf2a846
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/UZ    1002    0600    --------------e-----    1001    1001    91b5c961
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/VC    250    0600    --------------e-----    1001    1001    7a885479
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/VE    566    0600    --------------e-----    1001    1001    c43fbc53
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/VG    76    0600    --------------e-----    1001    1001    1d12164c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/VI    40    0600    --------------e-----    1001    1001    c2530aab
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/VN    2838    0600    --------------e-----    1001    1001    79aa982c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/VU    185    0600    --------------e-----    1001    1001    976c3d27
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/WF    31    0600    --------------e-----    1001    1001    61150769
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/WS    165    0600    --------------e-----    1001    1001    2783311c
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/XK    795    0600    --------------e-----    1001    1001    86496f32
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/YE    1595    0600    --------------e-----    1001    1001    6de828e1
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/YT    634    0600    --------------e-----    1001    1001    de44ca13
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ZA    681    0600    --------------e-----    1001    1001    9314eef4
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ZM    330    0600    --------------e-----    1001    1001    08c371c4
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/ZW    429    0600    --------------e-----    1001    1001    331596c7
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/_metadata/verified_contents.json    23261    0600    --------------e-----    1001    1001    7ff6c55e
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/manifest.fingerprint    66    0664    --------------e-----    1001    1001    43db120b
+/home/pparker/.config/chromium/AutofillStates/2025.6.13.84507/manifest.json    97    0600    --------------e-----    1001    1001    dcf81cd1
+/home/pparker/.config/chromium/BrowserMetrics     directory     0700                              1001      1001
+/home/pparker/.config/chromium/CertificateRevocation    directory    0700        1001    1001
+/home/pparker/.config/chromium/CertificateRevocation/10858    directory    0700        1001    1001
+/home/pparker/.config/chromium/CertificateRevocation/10858/LICENSE    1558    0600    --------------e-----    1001    1001    615add6c
+/home/pparker/.config/chromium/CertificateRevocation/10858/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/CertificateRevocation/10858/_metadata/verified_contents.json    1512    0600    --------------e-----    1001    1001    6a9e03df
+/home/pparker/.config/chromium/CertificateRevocation/10858/crl-set    1191008    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/CertificateRevocation/10858/manifest.fingerprint    66    0664    --------------e-----    1001    1001    1c8e1068
+/home/pparker/.config/chromium/CertificateRevocation/10858/manifest.json    96    0600    --------------e-----    1001    1001    363f1a01
+/home/pparker/.config/chromium/Crash Reports      directory     0700                              1001      1001
+/home/pparker/.config/chromium/Crash Reports/attachments    directory    0700        1001    1001
+/home/pparker/.config/chromium/Crash Reports/completed    directory    0700        1001    1001
+/home/pparker/.config/chromium/Crash Reports/new    directory    0700        1001    1001
+/home/pparker/.config/chromium/Crash Reports/pending    directory    0700        1001    1001
+/home/pparker/.config/chromium/Crash Reports/settings.dat    40    0600    --------------e-----    1001    1001    8b660a13
+/home/pparker/.config/chromium/Crowd Deny         directory     0700                              1001      1001
+/home/pparker/.config/chromium/Crowd Deny/2026.10.22.61    directory    0700        1001    1001
+/home/pparker/.config/chromium/Crowd Deny/2026.10.22.61/Preload Data    329906    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Crowd Deny/2026.10.22.61/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/Crowd Deny/2026.10.22.61/_metadata/verified_contents.json    1768    0600    --------------e-----    1001    1001    546c5560
+/home/pparker/.config/chromium/Crowd Deny/2026.10.22.61/manifest.fingerprint    66    0664    --------------e-----    1001    1001    63c111ed
+/home/pparker/.config/chromium/Crowd Deny/2026.10.22.61/manifest.json    109    0600    --------------e-----    1001    1001    1e811f6c
+/home/pparker/.config/chromium/Default            directory     0700                              1001      1001
+/home/pparker/.config/chromium/Default/Affiliation Database    53248    0600    --------------e-----    1001    1001    aa144d13
+/home/pparker/.config/chromium/Default/Affiliation Database-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/AutofillStrikeDatabase    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/AutofillStrikeDatabase/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/AutofillStrikeDatabase/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/AutofillStrikeDatabase/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Bookmarks    1269    0600    --------------e-----    1001    1001    a3542b7a
+/home/pparker/.config/chromium/Default/Bookmarks.bak    1269    0600    --------------e-----    1001    1001    a3542b7a
+/home/pparker/.config/chromium/Default/BrowsingTopicsSiteData    28672    0600    --------------e-----    1001    1001    f7417540
+/home/pparker/.config/chromium/Default/BrowsingTopicsSiteData-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/BrowsingTopicsState    402    0600    --------------e-----    1001    1001    c4d171db
+/home/pparker/.config/chromium/Default/BudgetDatabase    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/BudgetDatabase/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/BudgetDatabase/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/BudgetDatabase/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/ClientCertificates    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/ClientCertificates/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/ClientCertificates/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/ClientCertificates/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Cookies    20480         0600     --------------e-----     1001      1001      afbcd0f5
+/home/pparker/.config/chromium/Default/Cookies-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/DIPS       36864         0600     --------------e-----     1001      1001      c3f9c824
+/home/pparker/.config/chromium/Default/DIPS-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/DawnGraphiteCache    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/DawnGraphiteCache/data_0    8192    0600    --------------e-----    1001    1001    1fd00279
+/home/pparker/.config/chromium/Default/DawnGraphiteCache/data_1    270336    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/DawnGraphiteCache/data_2    8192    0600    --------------e-----    1001    1001    6100025b
+/home/pparker/.config/chromium/Default/DawnGraphiteCache/data_3    8192    0600    --------------e-----    1001    1001    007a0268
+/home/pparker/.config/chromium/Default/DawnGraphiteCache/index    262512    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/DawnWebGPUCache    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/DawnWebGPUCache/data_0    8192    0600    --------------e-----    1001    1001    1fd00279
+/home/pparker/.config/chromium/Default/DawnWebGPUCache/data_1    270336    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/DawnWebGPUCache/data_2    8192    0600    --------------e-----    1001    1001    6100025b
+/home/pparker/.config/chromium/Default/DawnWebGPUCache/data_3    8192    0600    --------------e-----    1001    1001    007a0268
+/home/pparker/.config/chromium/Default/DawnWebGPUCache/index    262512    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/Download Service    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Download Service/EntryDB    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Download Service/EntryDB/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Download Service/EntryDB/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Download Service/EntryDB/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Download Service/Files    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Extension Rules    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Extension Rules/000003.log    114    0600    --------------e-----    1001    1001    93e40e0b
+/home/pparker/.config/chromium/Default/Extension Rules/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/Extension Rules/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Extension Rules/LOG    233    0600    --------------e-----    1001    1001    f668499d
+/home/pparker/.config/chromium/Default/Extension Rules/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/Extension Scripts    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Extension Scripts/000003.log    57    0600    --------------e-----    1001    1001    01dc0706
+/home/pparker/.config/chromium/Default/Extension Scripts/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/Extension Scripts/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Extension Scripts/LOG    237    0600    --------------e-----    1001    1001    45e64b55
+/home/pparker/.config/chromium/Default/Extension Scripts/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/Extension State    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Extension State/000003.log    171    0600    --------------e-----    1001    1001    b6271510
+/home/pparker/.config/chromium/Default/Extension State/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/Extension State/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Extension State/LOG    273    0600    --------------e-----    1001    1001    4c705166
+/home/pparker/.config/chromium/Default/Extension State/LOG.old    273    0600    --------------e-----    1001    1001    089850f7
+/home/pparker/.config/chromium/Default/Extension State/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/Favicons    28672    0600    --------------e-----    1001    1001    05a45d76
+/home/pparker/.config/chromium/Default/Favicons-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker/EventDB    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/GCM Store    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/GCM Store/Encryption    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/GCM Store/Encryption/000003.log    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/GCM Store/Encryption/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/GCM Store/Encryption/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/GCM Store/Encryption/LOG    283    0600    --------------e-----    1001    1001    8e375472
+/home/pparker/.config/chromium/Default/GCM Store/Encryption/LOG.old    283    0600    --------------e-----    1001    1001    97e55484
+/home/pparker/.config/chromium/Default/GCM Store/Encryption/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/GPUCache    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/GPUCache/data_0    8192    0600    --------------e-----    1001    1001    1fd00279
+/home/pparker/.config/chromium/Default/GPUCache/data_1    270336    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/GPUCache/data_2    8192    0600    --------------e-----    1001    1001    6100025b
+/home/pparker/.config/chromium/Default/GPUCache/data_3    8192    0600    --------------e-----    1001    1001    007a0268
+/home/pparker/.config/chromium/Default/GPUCache/index    262512    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/History    163840        0600     --------------e-----     1001      1001
+/home/pparker/.config/chromium/Default/History-journal    49760    0600    --------------e-----    1001    1001    cd3ccabf
+/home/pparker/.config/chromium/Default/InterestGroups    106496    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/LOCK       0             0600     --------------e-----     1001      1001      00000001
+/home/pparker/.config/chromium/Default/LOG        0             0600     --------------e-----     1001      1001      00000001
+/home/pparker/.config/chromium/Default/LOG.old    0             0600     --------------e-----     1001      1001      00000001
+/home/pparker/.config/chromium/Default/Local Storage    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Local Storage/leveldb    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Local Storage/leveldb/000003.log    778    0600    --------------e-----    1001    1001    e333fb65
+/home/pparker/.config/chromium/Default/Local Storage/leveldb/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/Local Storage/leveldb/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Local Storage/leveldb/LOG    279    0600    --------------e-----    1001    1001    9ef653df
+/home/pparker/.config/chromium/Default/Local Storage/leveldb/LOG.old    279    0600    --------------e-----    1001    1001    9a0453d6
+/home/pparker/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/Login Data    40960    0600    --------------e-----    1001    1001    47024c01
+/home/pparker/.config/chromium/Default/Login Data For Account    40960    0600    --------------e-----    1001    1001    47024c01
+/home/pparker/.config/chromium/Default/Login Data For Account-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Login Data-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/MediaDeviceSalts    24576    0600    --------------e-----    1001    1001    d89bdcf1
+/home/pparker/.config/chromium/Default/MediaDeviceSalts-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Network Action Predictor    45056    0600    --------------e-----    1001    1001    d9e82fdb
+/home/pparker/.config/chromium/Default/Network Action Predictor-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Network Persistent State    2828    0600    --------------e-----    1001    1001    485acbac
+/home/pparker/.config/chromium/Default/PersistentOriginTrials    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/PersistentOriginTrials/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/PersistentOriginTrials/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/PersistentOriginTrials/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Platform Notifications    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Platform Notifications/000003.log    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Platform Notifications/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/Platform Notifications/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Platform Notifications/LOG    287    0600    --------------e-----    1001    1001    973b5733
+/home/pparker/.config/chromium/Default/Platform Notifications/LOG.old    287    0600    --------------e-----    1001    1001    545a56cb
+/home/pparker/.config/chromium/Default/Platform Notifications/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/Preferences    22864    0600    --------------e-----    1001    1001    df6da0b0
+/home/pparker/.config/chromium/Default/PreferredApps    33    0664    --------------e-----    1001    1001    d14a0be2
+/home/pparker/.config/chromium/Default/PrivateAggregation    20480    0600    --------------e-----    1001    1001    2a91c152
+/home/pparker/.config/chromium/Default/PrivateAggregation-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Reporting and NEL    36864    0600    --------------e-----    1001    1001    fa4526f1
+/home/pparker/.config/chromium/Default/Reporting and NEL-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/SCT Auditing Pending Reports    2    0600    --------------e-----    1001    1001    011500b9
+/home/pparker/.config/chromium/Default/Safe Browsing Cookies    20480    0600    --------------e-----    1001    1001    7af4722c
+/home/pparker/.config/chromium/Default/Safe Browsing Cookies-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Secure Preferences    95    0600    --------------e-----    1001    1001    3e9f197d
+/home/pparker/.config/chromium/Default/Segmentation Platform    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SegmentInfoDB    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SegmentInfoDB/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SegmentInfoDB/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SegmentInfoDB/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SignalDB    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SignalDB/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SignalDB/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SignalDB/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SignalStorageConfigDB    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SignalStorageConfigDB/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SignalStorageConfigDB/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Segmentation Platform/SignalStorageConfigDB/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Session Storage    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Session Storage/000003.log    2401    0600    --------------e-----    1001    1001    411a7203
+/home/pparker/.config/chromium/Default/Session Storage/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/Session Storage/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Session Storage/LOG    267    0600    --------------e-----    1001    1001    7c0d4fa1
+/home/pparker/.config/chromium/Default/Session Storage/LOG.old    267    0600    --------------e-----    1001    1001    90174fc4
+/home/pparker/.config/chromium/Default/Session Storage/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/Sessions    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Sessions/Session_13437351298723424    41881    0600    --------------e-----    1001    1001    eef598af
+/home/pparker/.config/chromium/Default/Sessions/Session_13437351572851569    42796    0600    --------------e-----    1001    1001    27f7fb76
+/home/pparker/.config/chromium/Default/Sessions/Tabs_13437351566680614    2741    0600    --------------e-----    1001    1001    d788f6f7
+/home/pparker/.config/chromium/Default/Sessions/Tabs_13437351572999035    2741    0600    --------------e-----    1001    1001    3d74f761
+/home/pparker/.config/chromium/Default/Shared Dictionary    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Shared Dictionary/cache    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Shared Dictionary/cache/index    24    0600    --------------e-----    1001    1001    5180042e
+/home/pparker/.config/chromium/Default/Shared Dictionary/cache/index-dir    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Shared Dictionary/cache/index-dir/the-real-index    48    0600    --------------e-----    1001    1001    f5b80992
+/home/pparker/.config/chromium/Default/Shared Dictionary/db    45056    0600    --------------e-----    1001    1001    fc051fd7
+/home/pparker/.config/chromium/Default/Shared Dictionary/db-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/SharedStorage    4096    0600    --------------e-----    1001    1001    66f90711
+/home/pparker/.config/chromium/Default/SharedStorage-wal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Shortcuts    20480    0600    --------------e-----    1001    1001    4082fa1f
+/home/pparker/.config/chromium/Default/Shortcuts-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Site Characteristics Database    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Site Characteristics Database/000003.log    112    0600    --------------e-----    1001    1001    426217e0
+/home/pparker/.config/chromium/Default/Site Characteristics Database/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/Site Characteristics Database/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Site Characteristics Database/LOG    301    0600    --------------e-----    1001    1001    a9b45bc5
+/home/pparker/.config/chromium/Default/Site Characteristics Database/LOG.old    261    0600    --------------e-----    1001    1001    9c9c5323
+/home/pparker/.config/chromium/Default/Site Characteristics Database/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/Sync Data    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Sync Data/LevelDB    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/Sync Data/LevelDB/000003.log    65    0600    --------------e-----    1001    1001    c10c0ccb
+/home/pparker/.config/chromium/Default/Sync Data/LevelDB/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/Sync Data/LevelDB/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Sync Data/LevelDB/LOG    277    0600    --------------e-----    1001    1001    1e4f516c
+/home/pparker/.config/chromium/Default/Sync Data/LevelDB/LOG.old    277    0600    --------------e-----    1001    1001    d57c50fc
+/home/pparker/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/Top Sites    20480    0600    --------------e-----    1001    1001    6b5c9f84
+/home/pparker/.config/chromium/Default/Top Sites-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/TransportSecurity    857    0600    --------------e-----    1001    1001    318f0e50
+/home/pparker/.config/chromium/Default/Trust Tokens    36864    0600    --------------e-----    1001    1001    6f939ec7
+/home/pparker/.config/chromium/Default/Trust Tokens-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/VideoDecodeStats    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/VideoDecodeStats/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/VideoDecodeStats/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/Visited Links    131072    0664    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/Web Data    126976    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Default/Web Data-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/WebStorage    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/WebStorage/QuotaManager    40960    0600    --------------e-----    1001    1001    f76dce57
+/home/pparker/.config/chromium/Default/WebStorage/QuotaManager-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/WebrtcVideoStats    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/WebrtcVideoStats/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/WebrtcVideoStats/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/blob_storage    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/blob_storage/223837fc-b9ad-4dc9-9287-6c12d4690904    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/chrome_cart_db    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/chrome_cart_db/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/chrome_cart_db/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/chrome_cart_db/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/commerce_subscription_db    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/commerce_subscription_db/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/commerce_subscription_db/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/commerce_subscription_db/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/coupon_db    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/coupon_db/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/coupon_db/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/coupon_db/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/discounts_db    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/discounts_db/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/discounts_db/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/discounts_db/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/heavy_ad_intervention_opt_out.db    16384    0600    --------------e-----    1001    1001    e5569636
+/home/pparker/.config/chromium/Default/heavy_ad_intervention_opt_out.db-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/optimization_guide_hint_cache_store    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/optimization_guide_hint_cache_store/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/optimization_guide_hint_cache_store/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/optimization_guide_hint_cache_store/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/parcel_tracking_db    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/parcel_tracking_db/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/parcel_tracking_db/LOG    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/parcel_tracking_db/LOG.old    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/shared_proto_db    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/shared_proto_db/000003.log    39680    0600    --------------e-----    1001    1001    8628182c
+/home/pparker/.config/chromium/Default/shared_proto_db/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/shared_proto_db/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/shared_proto_db/LOG    273    0600    --------------e-----    1001    1001    9b815220
+/home/pparker/.config/chromium/Default/shared_proto_db/LOG.old    273    0600    --------------e-----    1001    1001    4b2e519d
+/home/pparker/.config/chromium/Default/shared_proto_db/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/shared_proto_db/metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/Default/shared_proto_db/metadata/000003.log    1368    0600    --------------e-----    1001    1001    386e9be8
+/home/pparker/.config/chromium/Default/shared_proto_db/metadata/CURRENT    16    0600    --------------e-----    1001    1001    239d03b0
+/home/pparker/.config/chromium/Default/shared_proto_db/metadata/LOCK    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/Default/shared_proto_db/metadata/LOG    291    0600    --------------e-----    1001    1001    431558fd
+/home/pparker/.config/chromium/Default/shared_proto_db/metadata/LOG.old    291    0600    --------------e-----    1001    1001    f9505880
+/home/pparker/.config/chromium/Default/shared_proto_db/metadata/MANIFEST-000001    41    0600    --------------e-----    1001    1001    36ce0d49
+/home/pparker/.config/chromium/Default/trusted_vault.pb    38    0600    --------------e-----    1001    1001    97c708db
+/home/pparker/.config/chromium/DeferredBrowserMetrics    directory    0700        1001    1001
+/home/pparker/.config/chromium/DeferredBrowserMetrics/BrowserMetrics-6ADD2680-B8E.pma    4194304    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Dictionaries       directory     0700                              1001      1001
+/home/pparker/.config/chromium/Dictionaries/en-US-10-1.bdic    451968    0664    --------------e-----    1001    1001
+/home/pparker/.config/chromium/FileTypePolicies    directory    0700        1001    1001
+/home/pparker/.config/chromium/FileTypePolicies/145.0.7584.0    directory    0700        1001    1001
+/home/pparker/.config/chromium/FileTypePolicies/145.0.7584.0/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/FileTypePolicies/145.0.7584.0/_metadata/verified_contents.json    1439    0600    --------------e-----    1001    1001    363ee79e
+/home/pparker/.config/chromium/FileTypePolicies/145.0.7584.0/download_file_types.pb    8033    0600    --------------e-----    1001    1001    e2d3e2c2
+/home/pparker/.config/chromium/FileTypePolicies/145.0.7584.0/manifest.fingerprint    66    0664    --------------e-----    1001    1001    5bd51275
+/home/pparker/.config/chromium/FileTypePolicies/145.0.7584.0/manifest.json    86    0600    --------------e-----    1001    1001    84cf1906
+/home/pparker/.config/chromium/First Run          0             0664     --------------e-----     1001      1001      00000001
+/home/pparker/.config/chromium/FirstPartySetsPreloaded    directory    0700        1001    1001
+/home/pparker/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0    directory    0700        1001    1001
+/home/pparker/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/LICENSE    1558    0600    --------------e-----    1001    1001    615add6c
+/home/pparker/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/_metadata/verified_contents.json    1864    0600    --------------e-----    1001    1001    d34275f7
+/home/pparker/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/manifest.fingerprint    66    0664    --------------e-----    1001    1001    5f0612cc
+/home/pparker/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/manifest.json    85    0600    --------------e-----    1001    1001    56f31847
+/home/pparker/.config/chromium/FirstPartySetsPreloaded/2025.7.24.0/sets.json    10367    0600    --------------e-----    1001    1001    f9134b3a
+/home/pparker/.config/chromium/GrShaderCache      directory     0700                              1001      1001
+/home/pparker/.config/chromium/GrShaderCache/data_0    8192    0600    --------------e-----    1001    1001    1fd00279
+/home/pparker/.config/chromium/GrShaderCache/data_1    270336    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/GrShaderCache/data_2    8192    0600    --------------e-----    1001    1001    6100025b
+/home/pparker/.config/chromium/GrShaderCache/data_3    8192    0600    --------------e-----    1001    1001    007a0268
+/home/pparker/.config/chromium/GrShaderCache/index    262512    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/GraphiteDawnCache    directory    0700        1001    1001
+/home/pparker/.config/chromium/GraphiteDawnCache/data_0    8192    0600    --------------e-----    1001    1001    1fd00279
+/home/pparker/.config/chromium/GraphiteDawnCache/data_1    270336    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/GraphiteDawnCache/data_2    8192    0600    --------------e-----    1001    1001    6100025b
+/home/pparker/.config/chromium/GraphiteDawnCache/data_3    8192    0600    --------------e-----    1001    1001    007a0268
+/home/pparker/.config/chromium/GraphiteDawnCache/index    262512    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Last Version       14            0664     --------------e-----     1001      1001      149302c1
+/home/pparker/.config/chromium/Local State        7226          0600     --------------e-----     1001      1001      6933cae7
+/home/pparker/.config/chromium/Local Traces       directory     0700                              1001      1001
+/home/pparker/.config/chromium/MEIPreload         directory     0700                              1001      1001
+/home/pparker/.config/chromium/MEIPreload/1.1.0.3    directory    0700        1001    1001
+/home/pparker/.config/chromium/MEIPreload/1.1.0.3/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/MEIPreload/1.1.0.3/_metadata/verified_contents.json    1766    0600    --------------e-----    1001    1001    98d15c15
+/home/pparker/.config/chromium/MEIPreload/1.1.0.3/manifest.fingerprint    66    0664    --------------e-----    1001    1001    44821168
+/home/pparker/.config/chromium/MEIPreload/1.1.0.3/manifest.json    202    0600    --------------e-----    1001    1001    3cdf3ffc
+/home/pparker/.config/chromium/MEIPreload/1.1.0.3/preloaded_data.pb    8219    0600    --------------e-----    1001    1001    fd589ced
+/home/pparker/.config/chromium/NativeMessagingHosts    directory    0700        1001    1001
+/home/pparker/.config/chromium/OnDeviceHeadSuggestModel    directory    0700        1001    1001
+/home/pparker/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14    directory    0700        1001    1001
+/home/pparker/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14/_metadata/verified_contents.json    1796    0600    --------------e-----    1001    1001    cff95e46
+/home/pparker/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14/cr_en-us_500000_index.bin    7928141    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14/manifest.fingerprint    66    0664    --------------e-----    1001    1001    49ec11f5
+/home/pparker/.config/chromium/OnDeviceHeadSuggestModel/20251024.824731831.14/manifest.json    108    0600    --------------e-----    1001    1001    ef021e17
+/home/pparker/.config/chromium/OptimizationHints    directory    0700        1001    1001
+/home/pparker/.config/chromium/OptimizationHints/765    directory    0700        1001    1001
+/home/pparker/.config/chromium/OptimizationHints/765/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/OptimizationHints/765/_metadata/verified_contents.json    1766    0600    --------------e-----    1001    1001    0a125d14
+/home/pparker/.config/chromium/OptimizationHints/765/manifest.fingerprint    66    0664    --------------e-----    1001    1001    35971156
+/home/pparker/.config/chromium/OptimizationHints/765/manifest.json    108    0600    --------------e-----    1001    1001    1a1a2030
+/home/pparker/.config/chromium/OptimizationHints/765/optimization-hints.pb    568973    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/OriginTrials       directory     0700                              1001      1001
+/home/pparker/.config/chromium/PKIMetadata        directory     0700                              1001      1001
+/home/pparker/.config/chromium/PKIMetadata/1815    directory    0700        1001    1001
+/home/pparker/.config/chromium/PKIMetadata/1815/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/PKIMetadata/1815/_metadata/verified_contents.json    2080    0600    --------------e-----    1001    1001    18adc44b
+/home/pparker/.config/chromium/PKIMetadata/1815/crs.pb    350640    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/PKIMetadata/1815/ct_config.pb    68323    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/PKIMetadata/1815/kp_pinslist.pb    10637    0600    --------------e-----    1001    1001    45b2c9b4
+/home/pparker/.config/chromium/PKIMetadata/1815/manifest.fingerprint    66    0664    --------------e-----    1001    1001    390911b5
+/home/pparker/.config/chromium/PKIMetadata/1815/manifest.json    73    0600    --------------e-----    1001    1001    3cab1564
+/home/pparker/.config/chromium/PKIMetadata/1815/mtc_config.pb    9133    0600    --------------e-----    1001    1001    3caed11d
+/home/pparker/.config/chromium/PrivacySandboxAttestationsPreloaded    directory    0700        1001    1001
+/home/pparker/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0    directory    0700        1001    1001
+/home/pparker/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0/_metadata/verified_contents.json    1792    0600    --------------e-----    1001    1001    c5b56444
+/home/pparker/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0/manifest.fingerprint    66    0664    --------------e-----    1001    1001    56101255
+/home/pparker/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0/manifest.json    97    0600    --------------e-----    1001    1001    df9a1d40
+/home/pparker/.config/chromium/PrivacySandboxAttestationsPreloaded/2025.6.16.0/privacy-sandbox-attestations.dat    7689    0600    --------------e-----    1001    1001    7dbd3ffc
+/home/pparker/.config/chromium/SSLErrorAssistant    directory    0700        1001    1001
+/home/pparker/.config/chromium/SSLErrorAssistant/7    directory    0700        1001    1001
+/home/pparker/.config/chromium/SSLErrorAssistant/7/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/SSLErrorAssistant/7/_metadata/verified_contents.json    1765    0600    --------------e-----    1001    1001    cc4952f7
+/home/pparker/.config/chromium/SSLErrorAssistant/7/manifest.fingerprint    66    0664    --------------e-----    1001    1001    6c1d1271
+/home/pparker/.config/chromium/SSLErrorAssistant/7/manifest.json    76    0600    --------------e-----    1001    1001    9da1177d
+/home/pparker/.config/chromium/SSLErrorAssistant/7/ssl_error_assistant.pb    2816    0600    --------------e-----    1001    1001    02b17ccf
+/home/pparker/.config/chromium/Safe Browsing      directory     0700                              1001      1001
+/home/pparker/.config/chromium/Safe Browsing/ChromeExtMalware.store    106    0600    --------------e-----    1001    1001    99a81c3d
+/home/pparker/.config/chromium/Safe Browsing/ChromeExtMalware.store.32_13437351674634802    1886048    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Safe Browsing/UrlBilling.store    106    0600    --------------e-----    1001    1001    37781e80
+/home/pparker/.config/chromium/Safe Browsing/UrlBilling.store.4_13437351674639487    49700    0600    --------------e-----    1001    1001    d9c5a864
+/home/pparker/.config/chromium/Safe Browsing/UrlCsdDownloadAllowlist.store    105    0600    --------------e-----    1001    1001    be021d3b
+/home/pparker/.config/chromium/Safe Browsing/UrlCsdDownloadAllowlist.store.32_13437351674641025    37344    0600    --------------e-----    1001    1001    bb1c7eb8
+/home/pparker/.config/chromium/Safe Browsing/UrlMalBin.store    106    0600    --------------e-----    1001    1001    a218220a
+/home/pparker/.config/chromium/Safe Browsing/UrlMalBin.store.4_13437351674640572    41328    0600    --------------e-----    1001    1001    6f2d77a9
+/home/pparker/.config/chromium/Safe Browsing/UrlMalware.store    106    0600    --------------e-----    1001    1001    c0b721d2
+/home/pparker/.config/chromium/Safe Browsing/UrlMalware.store.4_13437351674629911    354920    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Safe Browsing/UrlSoceng.store    107    0600    --------------e-----    1001    1001    80c62095
+/home/pparker/.config/chromium/Safe Browsing/UrlSoceng.store.4_13437351674502238    16855560    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Safe Browsing/UrlUws.store    106    0600    --------------e-----    1001    1001    52fe1fa5
+/home/pparker/.config/chromium/Safe Browsing/UrlUws.store.4_13437351674633781    111500    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/SafetyTips         directory     0700                              1001      1001
+/home/pparker/.config/chromium/SafetyTips/3092    directory     0700                              1001      1001
+/home/pparker/.config/chromium/SafetyTips/3092/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/SafetyTips/3092/_metadata/verified_contents.json    1758    0600    --------------e-----    1001    1001    ed8957a9
+/home/pparker/.config/chromium/SafetyTips/3092/manifest.fingerprint    66    0664    --------------e-----    1001    1001    72eb12f2
+/home/pparker/.config/chromium/SafetyTips/3092/manifest.json    72    0600    --------------e-----    1001    1001    287e152a
+/home/pparker/.config/chromium/SafetyTips/3092/safety_tips.pb    178473    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/ShaderCache        directory     0700                              1001      1001
+/home/pparker/.config/chromium/ShaderCache/data_0    8192    0600    --------------e-----    1001    1001    1fd00279
+/home/pparker/.config/chromium/ShaderCache/data_1    270336    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/ShaderCache/data_2    8192    0600    --------------e-----    1001    1001    6100025b
+/home/pparker/.config/chromium/ShaderCache/data_3    8192    0600    --------------e-----    1001    1001    007a0268
+/home/pparker/.config/chromium/ShaderCache/index    262512    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/SingletonCookie    symlink    6389457328073510776
+/home/pparker/.config/chromium/SingletonLock    symlink    mint-2607
+/home/pparker/.config/chromium/SingletonSocket    symlink    /tmp/.org.chromium.Chromium.mO4avs/SingletonSocket
+/home/pparker/.config/chromium/Subresource Filter    directory    0700        1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Indexed Rules    directory    0700        1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Indexed Rules/36    directory    0700        1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Indexed Rules/36/9.72.0    directory    0700        1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Indexed Rules/36/9.72.0/Ruleset Data    250144    0664    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Unindexed Rules    directory    0700        1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Unindexed Rules/9.72.0    directory    0700        1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Unindexed Rules/9.72.0/Filtering Rules    158519    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Unindexed Rules/9.72.0/LICENSE.txt    24623    0600    --------------e-----    1001    1001    9bb18e23
+/home/pparker/.config/chromium/Subresource Filter/Unindexed Rules/9.72.0/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/Subresource Filter/Unindexed Rules/9.72.0/_metadata/verified_contents.json    1529    0600    --------------e-----    1001    1001    53130705
+/home/pparker/.config/chromium/Subresource Filter/Unindexed Rules/9.72.0/manifest.fingerprint    66    0664    --------------e-----    1001    1001    68d8124b
+/home/pparker/.config/chromium/Subresource Filter/Unindexed Rules/9.72.0/manifest.json    114    0600    --------------e-----    1001    1001    2f172310
+/home/pparker/.config/chromium/TpcdMetadata       directory     0700                              1001      1001
+/home/pparker/.config/chromium/TrustTokenKeyCommitments    directory    0700        1001    1001
+/home/pparker/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1    directory    0700        1001    1001
+/home/pparker/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/LICENSE    1558    0600    --------------e-----    1001    1001    615add6c
+/home/pparker/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/_metadata/verified_contents.json    1865    0600    --------------e-----    1001    1001    11937c67
+/home/pparker/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/keys.json    3590    0600    --------------e-----    1001    1001    c97b64bd
+/home/pparker/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/manifest.fingerprint    66    0664    --------------e-----    1001    1001    3b55112e
+/home/pparker/.config/chromium/TrustTokenKeyCommitments/2026.10.12.1/manifest.json    80    0600    --------------e-----    1001    1001    db7816bc
+/home/pparker/.config/chromium/Variations         86            0664     --------------e-----     1001      1001      cc57218c
+/home/pparker/.config/chromium/WidevineCdm        directory     0700                              1001      1001
+/home/pparker/.config/chromium/ZxcvbnData         directory     0700                              1001      1001
+/home/pparker/.config/chromium/ZxcvbnData/3       directory     0700                              1001      1001
+/home/pparker/.config/chromium/ZxcvbnData/3/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/ZxcvbnData/3/_metadata/verified_contents.json    2437    0600    --------------e-----    1001    1001    ccf53c3d
+/home/pparker/.config/chromium/ZxcvbnData/3/english_wikipedia.txt    277015    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/ZxcvbnData/3/female_names.txt    26708    0600    --------------e-----    1001    1001    1844d5a5
+/home/pparker/.config/chromium/ZxcvbnData/3/male_names.txt    6672    0600    --------------e-----    1001    1001    0a70775f
+/home/pparker/.config/chromium/ZxcvbnData/3/manifest.fingerprint    66    0664    --------------e-----    1001    1001    3d6b11fe
+/home/pparker/.config/chromium/ZxcvbnData/3/manifest.json    69    0600    --------------e-----    1001    1001    e8441478
+/home/pparker/.config/chromium/ZxcvbnData/3/passwords.txt    241951    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/ZxcvbnData/3/ranked_dicts    886570    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/ZxcvbnData/3/surnames.txt    76077    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/ZxcvbnData/3/us_tv_and_film.txt    164290    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache    directory    0700        1001    1001
+/home/pparker/.config/chromium/component_crx_cache/eeigpngbgcognadeebkilcpcaedhellh_1.4497d8060d0e53c12b4403aa9ebe7e827d4880bae3f4139a26a4feb7ed64c4a2    263880    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/efniojlnjndmcbiieegkicadnoecjjef_1.4348a0084d1b8423f252a367db1ce7d1276afd0285cf5523feca7b6e56d5d679    444103    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/gcmjkmgdlgnkkcocmoeiminaijmmjnii_1.34ce4871804d747cf5cdafaec2f4befe25ff7333137f72394b0ff5a4e60f6160    186671    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/ggkkehgbnfjpeggfpleeakpidbkibbmn_1.70bcc1c2cb16afb045c97b70f1731fa8a6d01de21662a3edf14143f26336eb06    334076    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/giekcmmlnklenlaomppkphknjmnnpneh_1.3eb16d6c28b502ac4cfee8f4a148df05f4d93229fa36a71db8b08d06329ff18a    5407    0600    --------------e-----    1001    1001    7793d146
+/home/pparker/.config/chromium/component_crx_cache/gonpemdgkjcecdgbnaabipppbmgfggbe_1.56c21927faa028be6ce18c931660eec37e41da4bfbfd47cafa48350f828c0dbd    16701    0600    --------------e-----    1001    1001    7871c3d7
+/home/pparker/.config/chromium/component_crx_cache/hfnkpimlhhgieaddgfemjhofmfblmnib_1.36e7113384d313991e68328ffd78f078e8082532a5be06f3b20b21a701b59590    1196035    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/jamhcnnkihinmdlkakkaopbjbbcngflc_1.c52c62a7c50daf7d3f73ec16977cd4b0ea401710807d5dbe3850941dd1b73a70    1114805    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/jflookgnkcckhobaglndicnbbgbonegd_1.3b1293b1cd2b0b9ebc8c64bf5c6a0407ffad78a0364bbac71c5fe7d3e1bd7657    182599    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/khaoiebndkojlmppeemjhbpbandiljpe_1.970a3e1af7f986ad66e212796dcd4a2db1210f7222cdfaa7d59d491fbe0369af    11360    0600    --------------e-----    1001    1001    41e3ae47
+/home/pparker/.config/chromium/component_crx_cache/kiabhabjdbkjdpjbpigfodbdjmbglcoo_1.d3d7173b45515677b8bdc6bb426086249f99d9e7dbd40987f76709589d5ba687    9470    0600    --------------e-----    1001    1001    ea629e72
+/home/pparker/.config/chromium/component_crx_cache/laoigpblnllgcgjnjnllmfolckpjlhki_1.7b05c14dba04ed522210b733f004cb0e74d7679a653b19bd029f9bc0e6b19903    12491    0600    --------------e-----    1001    1001    8c78f425
+/home/pparker/.config/chromium/component_crx_cache/lmelglejhemejginpboagddgdfbepgmp_1.46d05ed355954bd63911a81603715ac86a8ebc4af71125ba73456e3bdf884f07    573517    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/niikhdgajlphfehepabhhblakbdgeefj_1.38c89b12bb20a8f2751c9c7cd2e31c173a47af08c115e1ecccc2f5151a2cf2c6    12271    0600    --------------e-----    1001    1001    a28cbb37
+/home/pparker/.config/chromium/component_crx_cache/obedbbhbpmojnkanicioggnmelmoomoc_1.23759e3f6d0119a00038b963cec9fb7abafd7b65a35a7e83c7697511db59e6e7    7932363    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/component_crx_cache/ojhpjlocmbogdgmfpkhlaaeamibhnphh_1.545666a4efd056351597bb386aea1368105ededc976ed5650d8682daab9f37ff    878447    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/first_party_sets.db    69632    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/first_party_sets.db-journal    0    0600    --------------e-----    1001    1001    00000001
+/home/pparker/.config/chromium/hyphen-data        directory     0700                              1001      1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0    directory    0700        1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/_metadata    directory    0700        1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/_metadata/verified_contents.json    7328    0600    --------------e-----    1001    1001    00e3bb11
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-af.hyb    72640    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-as.hyb    703    0600    --------------e-----    1001    1001    491c6304
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-be.hyb    6098    0600    --------------e-----    1001    1001    7ebb6b7d
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-bg.hyb    3467    0600    --------------e-----    1001    1001    072ea92b
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-bn.hyb    703    0600    --------------e-----    1001    1001    491c6304
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-cs.hyb    64245    0600    --------------e-----    1001    1001    a0ba6e29
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-cu.hyb    52842    0600    --------------e-----    1001    1001    7c4127a4
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-cy.hyb    35913    0600    --------------e-----    1001    1001    00861937
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-da.hyb    6967    0600    --------------e-----    1001    1001    60d17054
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-de-1901.hyb    121393    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-de-1996.hyb    120412    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-de-ch-1901.hyb    120218    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-el.hyb    4219    0600    --------------e-----    1001    1001    71dd9864
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-en-gb.hyb    46607    0600    --------------e-----    1001    1001    d9ab9042
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-en-us.hyb    59802    0600    --------------e-----    1001    1001    5ff2f3bb
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-es.hyb    14995    0600    --------------e-----    1001    1001    d1501d76
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-et.hyb    21421    0600    --------------e-----    1001    1001    30378afe
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-eu.hyb    665    0600    --------------e-----    1001    1001    d8422141
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-fr.hyb    8165    0600    --------------e-----    1001    1001    7e81eb89
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-ga.hyb    35824    0600    --------------e-----    1001    1001    e5d82a8d
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-gl.hyb    9289    0600    --------------e-----    1001    1001    532bd70d
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-gu.hyb    655    0600    --------------e-----    1001    1001    ee5f6856
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-hi.hyb    687    0600    --------------e-----    1001    1001    6ea96afc
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-hr.hyb    3031    0600    --------------e-----    1001    1001    470a5d8f
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-hu.hyb    317251    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-hy.hyb    605    0600    --------------e-----    1001    1001    f0e31f7c
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-it.hyb    2512    0600    --------------e-----    1001    1001    85988248
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-ka.hyb    9996    0600    --------------e-----    1001    1001    c9edf589
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-kn.hyb    711    0600    --------------e-----    1001    1001    2abf6b33
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-la.hyb    1839    0600    --------------e-----    1001    1001    277abc62
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-lt.hyb    7774    0600    --------------e-----    1001    1001    40f51b90
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-lv.hyb    38602    0600    --------------e-----    1001    1001    8bbbdc24
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-ml.hyb    776    0600    --------------e-----    1001    1001    7400734c
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-mn-cyrl.hyb    5142    0600    --------------e-----    1001    1001    7ded3c89
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-mr.hyb    687    0600    --------------e-----    1001    1001    6ea96afc
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-mul-ethi.hyb    3740    0600    --------------e-----    1001    1001    3a156ac6
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-nb.hyb    145263    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-nl.hyb    77080    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-nn.hyb    145263    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-or.hyb    647    0600    --------------e-----    1001    1001    3233674e
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-pa.hyb    607    0600    --------------e-----    1001    1001    4a6b61fc
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-pt.hyb    1414    0600    --------------e-----    1001    1001    41c341b1
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-ru.hyb    19886    0600    --------------e-----    1001    1001    26391dcf
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-sk.hyb    64103    0600    --------------e-----    1001    1001    9553bcd1
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-sl.hyb    6631    0600    --------------e-----    1001    1001    8f6840b3
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-sq.hyb    2013    0600    --------------e-----    1001    1001    a79817b7
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-sv.hyb    72119    0600    --------------e-----    1001    1001
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-ta.hyb    554    0600    --------------e-----    1001    1001    5afd508c
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-te.hyb    703    0600    --------------e-----    1001    1001    1a5f761d
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-tk.hyb    2712    0600    --------------e-----    1001    1001    21fb18f7
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-uk.hyb    19417    0600    --------------e-----    1001    1001    516d2d63
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/hyph-und-ethi.hyb    3484    0600    --------------e-----    1001    1001    b972272d
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/manifest.fingerprint    66    0664    --------------e-----    1001    1001    5d3611d2
+/home/pparker/.config/chromium/hyphen-data/120.0.6050.0/manifest.json    82    0600    --------------e-----    1001    1001    0a02173e
+/home/pparker/.config/chromium/segmentation_platform    directory    0700        1001    1001
+/home/pparker/.config/chromium/segmentation_platform/ukm_db    49152    0600    --------------e-----    1001    1001    5fa3d935
+/home/pparker/.config/chromium/segmentation_platform/ukm_db-journal    4616    0600    --------------e-----    1001    1001    ed804858
+/home/pparker/.config/dconf                       directory     0700                              1001      1001
+/home/pparker/.config/dconf/user                  13086         0664     --------------e-----     1001      1001      b945892e
+/home/pparker/.config/enchant                     directory     0700                              1001      1001
+/home/pparker/.config/enchant/en_US.dic           0             0664     --------------e-----     1001      1001      00000001
+/home/pparker/.config/enchant/en_US.exc           0             0664     --------------e-----     1001      1001      00000001
+/home/pparker/.config/evolution                   directory     0700                              1001      1001
+/home/pparker/.config/evolution/sources           directory     0700                              1001      1001
+/home/pparker/.config/evolution/sources/system-proxy.source    1033    0664    --------------e-----    1001    1001    229db9a2
+/home/pparker/.config/gtk-3.0                     directory     0700                              1001      1001
+/home/pparker/.config/gtk-3.0/bookmarks           147           0664     --------------e-----     1001      1001      105d3439
+/home/pparker/.config/hexchat                     directory     0755                              1001      1001
+/home/pparker/.config/hexchat/hexchat.conf        263           0644     --------------e-----     1001      1001      6c965c24
+/home/pparker/.config/hexchat/servlist.conf       8453          0644     --------------e-----     1001      1001      70f06016
+/home/pparker/.config/menus                       directory     0775                              1001      1001
+/home/pparker/.config/menus/applications-merged    directory    0775        1001    1001
+/home/pparker/.config/menus/mate-applications-merged    symlink    /home/pparker/.config/menus/applications-merged
+/home/pparker/.config/mimeapps.list               252           0664     --------------e-----     1001      1001      8faa60c4
+/home/pparker/.config/mintmenu                    directory     0775                              1001      1001
+/home/pparker/.config/monitors.xml                846           0664     --------------e-----     1001      1001      1997ef17
+/home/pparker/.config/pulse                       directory     0700                              1001      1001
+/home/pparker/.config/pulse/7bd6478ecf2641bebc989892f835cf85-card-database.tdb    28672    0600    --------------e-----    1001    1001    585d521f
+/home/pparker/.config/pulse/7bd6478ecf2641bebc989892f835cf85-default-sink    1    0600    --------------e-----    1001    1001    000b000b
+/home/pparker/.config/pulse/7bd6478ecf2641bebc989892f835cf85-default-source    1    0600    --------------e-----    1001    1001    000b000b
+/home/pparker/.config/pulse/7bd6478ecf2641bebc989892f835cf85-device-volumes.tdb    12288    0600    --------------e-----    1001    1001    d5a5ad9b
+/home/pparker/.config/pulse/7bd6478ecf2641bebc989892f835cf85-stream-volumes.tdb    696    0600    --------------e-----    1001    1001    51b00845
+/home/pparker/.config/pulse/cookie                256           0600     --------------e-----     1001      1001      aadd7fce
+/home/pparker/.config/qt5ct                       directory     0755                              1001      1001
+/home/pparker/.config/qt5ct/qt5ct.conf            745           0644     --------------e-----     1001      1001      68960272
+/home/pparker/.config/user-dirs.dirs              633           0600     --------------e-----     1001      1001      4506ccac
+/home/pparker/.config/user-dirs.locale            5             0664     --------------e-----     1001      1001      05d001db
+/home/pparker/.config/xed                         directory     0755                              1001      1001
+/home/pparker/.config/xed/accels                  6030          0644     --------------e-----     1001      1001      f30e4a11
+/home/pparker/.gnupg                              directory     0700                              1001      1001
+/home/pparker/.gnupg/pubring.kbx                  32            0600     --------------e-----     1001      1001      5da3065a
+/home/pparker/.gnupg/trustdb.gpg                  1200          0600     --------------e-----     1001      1001      2fb404e7
+/home/pparker/.gtkrc-2.0                          22            0644     --------------e-----     1001      1001      5b4c076f
+/home/pparker/.gtkrc-xfce                         516           0644     --------------e-----     1001      1001      abf7a78a
+/home/pparker/.icons                              directory     0775                              1001      1001
+/home/pparker/.linuxmint                          directory     0775                              1001      1001
+/home/pparker/.linuxmint/mintMenu                 directory     0775                              1001      1001
+/home/pparker/.linuxmint/mintMenu/apt.cache       28265368      0664     --------------e-----     1001      1001
+/home/pparker/.linuxmint/mintupdate               directory     0775                              1001      1001
+/home/pparker/.linuxmint/mintupdate/updates.json    293    0664    --------------e-----    1001    1001    9d1e4678
+/home/pparker/.linuxmint/mintwelcome              directory     0775                              1001      1001
+/home/pparker/.linuxmint/mintwelcome/norun.flag    0    0664    --------------e-----    1001    1001    00000001
+/home/pparker/.local                              directory     0775                              1001      1001
+/home/pparker/.local/share                        directory     0775                              1001      1001
+/home/pparker/.local/share/applications           directory     0775                              1001      1001
+/home/pparker/.local/share/evolution              directory     0700                              1001      1001
+/home/pparker/.local/share/evolution/addressbook    directory    0775        1001    1001
+/home/pparker/.local/share/evolution/addressbook/system    directory    0700        1001    1001
+/home/pparker/.local/share/evolution/addressbook/system/contacts.db    86016    0644    --------------e-----    1001    1001
+/home/pparker/.local/share/evolution/addressbook/system/photos    directory    0700        1001    1001
+/home/pparker/.local/share/evolution/addressbook/trash    directory    0775        1001    1001
+/home/pparker/.local/share/evolution/calendar     directory     0775                              1001      1001
+/home/pparker/.local/share/evolution/calendar/system    directory    0700        1001    1001
+/home/pparker/.local/share/evolution/calendar/system/calendar.ics    173    0664    --------------e-----    1001    1001    245f2d74
+/home/pparker/.local/share/evolution/calendar/trash    directory    0775        1001    1001
+/home/pparker/.local/share/evolution/mail         directory     0775                              1001      1001
+/home/pparker/.local/share/evolution/mail/trash    directory    0775        1001    1001
+/home/pparker/.local/share/evolution/memos        directory     0775                              1001      1001
+/home/pparker/.local/share/evolution/memos/trash    directory    0775        1001    1001
+/home/pparker/.local/share/evolution/tasks        directory     0775                              1001      1001
+/home/pparker/.local/share/evolution/tasks/system    directory    0700        1001    1001
+/home/pparker/.local/share/evolution/tasks/trash    directory    0775        1001    1001
+/home/pparker/.local/share/gvfs-metadata          directory     0700                              1001      1001
+/home/pparker/.local/share/gvfs-metadata/home     1780          0600     --------------e-----     1001      1001      c2537a1e
+/home/pparker/.local/share/gvfs-metadata/home-d2e29641.log    32768    0664    --------------e-----    1001    1001    86a805c1
+/home/pparker/.local/share/gvfs-metadata/uuid-2603-D104    160    0600    --------------e-----    1001    1001    34162500
+/home/pparker/.local/share/gvfs-metadata/uuid-2603-D104-832323fe.log    32768    0664    --------------e-----    1001    1001    867804fd
+/home/pparker/.local/share/gvfs-metadata/uuid-D0D0-7BCA    160    0600    --------------e-----    1001    1001    37bb24f9
+/home/pparker/.local/share/gvfs-metadata/uuid-D0D0-7BCA-4c08fe8e.log    32768    0664    --------------e-----    1001    1001    06280516
+/home/pparker/.local/share/keyrings               directory     0700                              1001      1001
+/home/pparker/.local/share/keyrings/login.keyring    788    0600    --------------e-----    1001    1001    5b1713e8
+/home/pparker/.local/share/keyrings/user.keystore    207    0600    --------------e-----    1001    1001    d5e4436d
+/home/pparker/.local/share/recently-used.xbel     843           0600     --------------e-----     1001      1001      1ce2019b
+/home/pparker/.local/share/webkitgtk              directory     0775                              1001      1001
+/home/pparker/.local/share/webkitgtk/deviceidhashsalts    directory    0775        1001    1001
+/home/pparker/.local/share/webkitgtk/deviceidhashsalts/1    directory    0775        1001    1001
+/home/pparker/.local/share/webkitgtk/storage      directory     0775                              1001      1001
+/home/pparker/.local/share/webkitgtk/storage/salt    8    0600    --------------e-----    1001    1001    0fad02ff
+/home/pparker/.pki                                directory     0700                              1001      1001
+/home/pparker/.pki/nssdb                          directory     0700                              1001      1001
+/home/pparker/.pki/nssdb/cert9.db                 28672         0600     --------------e-----     1001      1001      c80359d5
+/home/pparker/.pki/nssdb/key4.db                  36864         0600     --------------e-----     1001      1001      5699d205
+/home/pparker/.pki/nssdb/pkcs11.txt               448           0600     --------------e-----     1001      1001      e0079693
+/home/pparker/.profile                            807           0644     --------------e-----     1001      1001      0f0f0260
+/home/pparker/.ssh                                directory     0700                              1001      1001
+/home/pparker/.sudo_as_admin_successful           0             0644     --------------e-----     1001      1001      00000001
+/home/pparker/.themes                             directory     0775                              1001      1001
+/home/pparker/.xsession-errors                    7573          0600     --------------e-----     1001      1001      099f469b
+/home/pparker/.xsession-errors.old                6035          0600     --------------e-----     1001      1001      9a042ffb
+/home/pparker/Desktop                             directory     0755                              1001      1001
+/home/pparker/Desktop/Forensics Question 1.txt    1857          0644     --------------e-----     1001      1001      37833923
+/home/pparker/Desktop/NmapSI4.desktop             194           0700     --------------e-----     1001      1001      e98e4497
+/home/pparker/Desktop/README.desktop    symlink    /opt/CyberPatriot/README.desktop
+/home/pparker/Desktop/Scoreboard.desktop    symlink    /opt/CyberPatriot/Scoreboard.desktop
+/home/pparker/Desktop/ScoringReport.desktop    symlink    /opt/CyberPatriot/ScoringReport.desktop
+/home/pparker/Desktop/SetUniqueId.desktop    symlink    /opt/CyberPatriot/SetUniqueId.desktop
+/home/pparker/Desktop/StopScoring.desktop    symlink    /opt/CyberPatriot/StopScoring.desktop
+/home/pparker/Desktop/TechSupport.desktop    symlink    /opt/CyberPatriot/TechSupport.desktop
+/home/pparker/Desktop/chromium-browser.desktop    12414         0700     --------------e-----     1001      1001      1fdc1d1d
+/home/pparker/Desktop/ophcrack.desktop            275           0700     --------------e-----     1001      1001      0a1565e3
+/home/pparker/Desktop/quarterly_report.pdf        232           0755     --------------e-----     0         0         feb80faf
+/home/pparker/Documents                           directory     0755                              1001      1001
+/home/pparker/Downloads                           directory     0755                              1001      1001
+/home/pparker/Music                               directory     0755                              1001      1001
+/home/pparker/Pictures                            directory     0755                              1001      1001
+/home/pparker/Pictures/CP19_Background_Round1.png    1224451    0755    --------------e-----    1001    1001
+/home/pparker/Public                              directory     0755                              1001      1001
+/home/pparker/Templates                           directory     0755                              1001      1001
+/home/pparker/Videos                              directory     0755                              1001      1001
+/home/ppotts                                      directory     0750                              1009      1009
+/home/ppotts/.bash_history    symlink    /dev/null
+/home/ppotts/.bash_logout                         220           0644     --------------e-----     1009      1009      f67c48a0
+/home/ppotts/.bashrc                              3771          0644     --------------e-----     1009      1009      936cdb70
+/home/ppotts/.config                              directory     0755                              1009      1009
+/home/ppotts/.config/caja                         directory     0755                              1009      1009
+/home/ppotts/.config/caja/desktop-metadata        265           0644     --------------e-----     1009      1009      001b5a1d
+/home/ppotts/.config/hexchat                      directory     0755                              1009      1009
+/home/ppotts/.config/hexchat/hexchat.conf         263           0644     --------------e-----     1009      1009      6c965c24
+/home/ppotts/.config/hexchat/servlist.conf        8453          0644     --------------e-----     1009      1009      70f06016
+/home/ppotts/.config/qt5ct                        directory     0755                              1009      1009
+/home/ppotts/.config/qt5ct/qt5ct.conf             745           0644     --------------e-----     1009      1009      68960272
+/home/ppotts/.config/user-dirs.dirs               633           0600     --------------e-----     1009      1009      4506ccac
+/home/ppotts/.config/user-dirs.locale             5             0664     --------------e-----     1009      1009      05d001db
+/home/ppotts/.gtkrc-2.0                           22            0644     --------------e-----     1009      1009      5b4c076f
+/home/ppotts/.gtkrc-xfce                          516           0644     --------------e-----     1009      1009      abf7a78a
+/home/ppotts/.profile                             807           0644     --------------e-----     1009      1009      0f0f0260
+/home/ppotts/Desktop                              directory     0755                              1009      1009
+/home/ppotts/Documents                            directory     0755                              1009      1009
+/home/ppotts/Downloads                            directory     0755                              1009      1009
+/home/ppotts/Music                                directory     0755                              1009      1009
+/home/ppotts/Pictures                             directory     0755                              1009      1009
+/home/ppotts/Public                               directory     0755                              1009      1009
+/home/ppotts/Templates                            directory     0755                              1009      1009
+/home/ppotts/Videos                               directory     0755                              1009      1009
+/home/shuri                                       directory     0750                              1017      1017
+/home/shuri/.bash_history    symlink    /dev/null
+/home/shuri/.bash_logout                          220           0644     --------------e-----     1017      1017      f67c48a0
+/home/shuri/.bashrc                               3771          0644     --------------e-----     1017      1017      936cdb70
+/home/shuri/.config                               directory     0755                              1017      1017
+/home/shuri/.config/caja                          directory     0755                              1017      1017
+/home/shuri/.config/caja/desktop-metadata         265           0644     --------------e-----     1017      1017      001b5a1d
+/home/shuri/.config/hexchat                       directory     0755                              1017      1017
+/home/shuri/.config/hexchat/hexchat.conf          263           0644     --------------e-----     1017      1017      6c965c24
+/home/shuri/.config/hexchat/servlist.conf         8453          0644     --------------e-----     1017      1017      70f06016
+/home/shuri/.config/qt5ct                         directory     0755                              1017      1017
+/home/shuri/.config/qt5ct/qt5ct.conf              745           0644     --------------e-----     1017      1017      68960272
+/home/shuri/.config/user-dirs.dirs                633           0600     --------------e-----     1017      1017      4506ccac
+/home/shuri/.config/user-dirs.locale              5             0664     --------------e-----     1017      1017      05d001db
+/home/shuri/.gtkrc-2.0                            22            0644     --------------e-----     1017      1017      5b4c076f
+/home/shuri/.gtkrc-xfce                           516           0644     --------------e-----     1017      1017      abf7a78a
+/home/shuri/.profile                              807           0644     --------------e-----     1017      1017      0f0f0260
+/home/shuri/Desktop                               directory     0755                              1017      1017
+/home/shuri/Documents                             directory     0755                              1017      1017
+/home/shuri/Downloads                             directory     0755                              1017      1017
+/home/shuri/Music                                 directory     0755                              1017      1017
+/home/shuri/Pictures                              directory     0755                              1017      1017
+/home/shuri/Public                                directory     0755                              1017      1017
+/home/shuri/Templates                             directory     0755                              1017      1017
+/home/shuri/Videos                                directory     0755                              1017      1017
+/home/slang                                       directory     0750                              1019      1019
+/home/slang/.bash_history    symlink    /dev/null
+/home/slang/.bash_logout                          220           0644     --------------e-----     1019      1019      f67c48a0
+/home/slang/.bashrc                               3771          0644     --------------e-----     1019      1019      936cdb70
+/home/slang/.config                               directory     0755                              1019      1019
+/home/slang/.config/caja                          directory     0755                              1019      1019
+/home/slang/.config/caja/desktop-metadata         265           0644     --------------e-----     1019      1019      001b5a1d
+/home/slang/.config/hexchat                       directory     0755                              1019      1019
+/home/slang/.config/hexchat/hexchat.conf          263           0644     --------------e-----     1019      1019      6c965c24
+/home/slang/.config/hexchat/servlist.conf         8453          0644     --------------e-----     1019      1019      70f06016
+/home/slang/.config/qt5ct                         directory     0755                              1019      1019
+/home/slang/.config/qt5ct/qt5ct.conf              745           0644     --------------e-----     1019      1019      68960272
+/home/slang/.config/user-dirs.dirs                633           0600     --------------e-----     1019      1019      4506ccac
+/home/slang/.config/user-dirs.locale              5             0664     --------------e-----     1019      1019      05d001db
+/home/slang/.gtkrc-2.0                            22            0644     --------------e-----     1019      1019      5b4c076f
+/home/slang/.gtkrc-xfce                           516           0644     --------------e-----     1019      1019      abf7a78a
+/home/slang/.profile                              807           0644     --------------e-----     1019      1019      0f0f0260
+/home/slang/Desktop                               directory     0755                              1019      1019
+/home/slang/Documents                             directory     0755                              1019      1019
+/home/slang/Downloads                             directory     0755                              1019      1019
+/home/slang/Music                                 directory     0755                              1019      1019
+/home/slang/Pictures                              directory     0755                              1019      1019
+/home/slang/Public                                directory     0755                              1019      1019
+/home/slang/Templates                             directory     0755                              1019      1019
+/home/slang/Videos                                directory     0755                              1019      1019
+/home/sstrange                                    directory     0750                              1016      1016
+/home/sstrange/.bash_history    symlink    /dev/null
+/home/sstrange/.bash_logout                       220           0644     --------------e-----     1016      1016      f67c48a0
+/home/sstrange/.bashrc                            3771          0644     --------------e-----     1016      1016      936cdb70
+/home/sstrange/.config                            directory     0755                              1016      1016
+/home/sstrange/.config/caja                       directory     0755                              1016      1016
+/home/sstrange/.config/caja/desktop-metadata      265           0644     --------------e-----     1016      1016      001b5a1d
+/home/sstrange/.config/hexchat                    directory     0755                              1016      1016
+/home/sstrange/.config/hexchat/hexchat.conf       263           0644     --------------e-----     1016      1016      6c965c24
+/home/sstrange/.config/hexchat/servlist.conf      8453          0644     --------------e-----     1016      1016      70f06016
+/home/sstrange/.config/qt5ct                      directory     0755                              1016      1016
+/home/sstrange/.config/qt5ct/qt5ct.conf           745           0644     --------------e-----     1016      1016      68960272
+/home/sstrange/.config/user-dirs.dirs             633           0600     --------------e-----     1016      1016      4506ccac
+/home/sstrange/.config/user-dirs.locale           5             0664     --------------e-----     1016      1016      05d001db
+/home/sstrange/.gtkrc-2.0                         22            0644     --------------e-----     1016      1016      5b4c076f
+/home/sstrange/.gtkrc-xfce                        516           0644     --------------e-----     1016      1016      abf7a78a
+/home/sstrange/.profile                           807           0644     --------------e-----     1016      1016      0f0f0260
+/home/sstrange/Desktop                            directory     0755                              1016      1016
+/home/sstrange/Documents                          directory     0755                              1016      1016
+/home/sstrange/Downloads                          directory     0755                              1016      1016
+/home/sstrange/Music                              directory     0755                              1016      1016
+/home/sstrange/Pictures                           directory     0755                              1016      1016
+/home/sstrange/Public                             directory     0755                              1016      1016
+/home/sstrange/Templates                          directory     0755                              1016      1016
+/home/sstrange/Videos                             directory     0755                              1016      1016
+/home/swilson                                     directory     0750                              1008      1008
+/home/swilson/.bash_history    symlink    /dev/null
+/home/swilson/.bash_logout                        220           0644     --------------e-----     1008      1008      f67c48a0
+/home/swilson/.bashrc                             3771          0644     --------------e-----     1008      1008      936cdb70
+/home/swilson/.config                             directory     0755                              1008      1008
+/home/swilson/.config/caja                        directory     0755                              1008      1008
+/home/swilson/.config/caja/desktop-metadata       265           0644     --------------e-----     1008      1008      001b5a1d
+/home/swilson/.config/hexchat                     directory     0755                              1008      1008
+/home/swilson/.config/hexchat/hexchat.conf        263           0644     --------------e-----     1008      1008      6c965c24
+/home/swilson/.config/hexchat/servlist.conf       8453          0644     --------------e-----     1008      1008      70f06016
+/home/swilson/.config/qt5ct                       directory     0755                              1008      1008
+/home/swilson/.config/qt5ct/qt5ct.conf            745           0644     --------------e-----     1008      1008      68960272
+/home/swilson/.config/user-dirs.dirs              633           0600     --------------e-----     1008      1008      4506ccac
+/home/swilson/.config/user-dirs.locale            5             0664     --------------e-----     1008      1008      05d001db
+/home/swilson/.gtkrc-2.0                          22            0644     --------------e-----     1008      1008      5b4c076f
+/home/swilson/.gtkrc-xfce                         516           0644     --------------e-----     1008      1008      abf7a78a
+/home/swilson/.profile                            807           0644     --------------e-----     1008      1008      0f0f0260
+/home/swilson/Desktop                             directory     0755                              1008      1008
+/home/swilson/Documents                           directory     0755                              1008      1008
+/home/swilson/Downloads                           directory     0755                              1008      1008
+/home/swilson/Music                               directory     0755                              1008      1008
+/home/swilson/Pictures                            directory     0755                              1008      1008
+/home/swilson/Public                              directory     0755                              1008      1008
+/home/swilson/Templates                           directory     0755                              1008      1008
+/home/swilson/Videos                              directory     0755                              1008      1008
+/home/tstark                                      directory     0750                              1007      1007
+/home/tstark/.bash_history    symlink    /dev/null
+/home/tstark/.bash_logout                         220           0644     --------------e-----     1007      1007      f67c48a0
+/home/tstark/.bashrc                              3771          0644     --------------e-----     1007      1007      936cdb70
+/home/tstark/.config                              directory     0755                              1007      1007
+/home/tstark/.config/caja                         directory     0755                              1007      1007
+/home/tstark/.config/caja/desktop-metadata        265           0644     --------------e-----     1007      1007      001b5a1d
+/home/tstark/.config/hexchat                      directory     0755                              1007      1007
+/home/tstark/.config/hexchat/hexchat.conf         263           0644     --------------e-----     1007      1007      6c965c24
+/home/tstark/.config/hexchat/servlist.conf        8453          0644     --------------e-----     1007      1007      70f06016
+/home/tstark/.config/qt5ct                        directory     0755                              1007      1007
+/home/tstark/.config/qt5ct/qt5ct.conf             745           0644     --------------e-----     1007      1007      68960272
+/home/tstark/.config/user-dirs.dirs               633           0600     --------------e-----     1007      1007      4506ccac
+/home/tstark/.config/user-dirs.locale             5             0664     --------------e-----     1007      1007      05d001db
+/home/tstark/.gtkrc-2.0                           22            0644     --------------e-----     1007      1007      5b4c076f
+/home/tstark/.gtkrc-xfce                          516           0644     --------------e-----     1007      1007      abf7a78a
+/home/tstark/.profile                             807           0644     --------------e-----     1007      1007      0f0f0260
+/home/tstark/Desktop                              directory     0755                              1007      1007
+/home/tstark/Documents                            directory     0755                              1007      1007
+/home/tstark/Downloads                            directory     0755                              1007      1007
+/home/tstark/Music                                directory     0755                              1007      1007
+/home/tstark/Pictures                             directory     0755                              1007      1007
+/home/tstark/Public                               directory     0755                              1007      1007
+/home/tstark/Templates                            directory     0755                              1007      1007
+/home/tstark/Videos                               directory     0755                              1007      1007
+/home/wmaximoff                                   directory     0750                              1011      1011
+/home/wmaximoff/.bash_history    symlink    /dev/null
+/home/wmaximoff/.bash_logout                      220           0644     --------------e-----     1011      1011      f67c48a0
+/home/wmaximoff/.bashrc                           3771          0644     --------------e-----     1011      1011      936cdb70
+/home/wmaximoff/.config                           directory     0755                              1011      1011
+/home/wmaximoff/.config/caja                      directory     0755                              1011      1011
+/home/wmaximoff/.config/caja/desktop-metadata     265           0644     --------------e-----     1011      1011      001b5a1d
+/home/wmaximoff/.config/hexchat                   directory     0755                              1011      1011
+/home/wmaximoff/.config/hexchat/hexchat.conf      263           0644     --------------e-----     1011      1011      6c965c24
+/home/wmaximoff/.config/hexchat/servlist.conf     8453          0644     --------------e-----     1011      1011      70f06016
+/home/wmaximoff/.config/qt5ct                     directory     0755                              1011      1011
+/home/wmaximoff/.config/qt5ct/qt5ct.conf          745           0644     --------------e-----     1011      1011      68960272
+/home/wmaximoff/.config/user-dirs.dirs            633           0600     --------------e-----     1011      1011      4506ccac
+/home/wmaximoff/.config/user-dirs.locale          5             0664     --------------e-----     1011      1011      05d001db
+/home/wmaximoff/.gtkrc-2.0                        22            0644     --------------e-----     1011      1011      5b4c076f
+/home/wmaximoff/.gtkrc-xfce                       516           0644     --------------e-----     1011      1011      abf7a78a
+/home/wmaximoff/.profile                          807           0644     --------------e-----     1011      1011      0f0f0260
+/home/wmaximoff/Desktop                           directory     0755                              1011      1011
+/home/wmaximoff/Documents                         directory     0755                              1011      1011
+/home/wmaximoff/Downloads                         directory     0755                              1011      1011
+/home/wmaximoff/Music                             directory     0755                              1011      1011
+/home/wmaximoff/Pictures                          directory     0755                              1011      1011
+/home/wmaximoff/Public                            directory     0755                              1011      1011
+/home/wmaximoff/Templates                         directory     0755                              1011      1011
+/home/wmaximoff/Videos                            directory     0755                              1011      1011

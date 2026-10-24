@@ -1,0 +1,32 @@
+Path                                              Size          Perms    Attrs                    Owner     Group
+--------------------------------------------------------------------------------------------------------------------------------------------
+/tmp                                              directory     1777                              0         0
+/tmp/.ICE-unix                                    directory     1777                              0         0
+/tmp/.ICE-unix/1180                               socket
+/tmp/.Test-unix                                   directory     1777                              0         0
+/tmp/.X0-lock                                     11            0444     --------------e-----     0         0
+/tmp/.X11-unix                                    directory     1777                              0         0
+/tmp/.X11-unix/X0                                 socket
+/tmp/.XIM-unix                                    directory     1777                              0         0
+/tmp/.font-unix                                   directory     1777                              0         0
+/tmp/.org.chromium.Chromium.mO4avs                directory     0700                              1001      1001
+/tmp/.org.chromium.Chromium.mO4avs/SingletonCookie    symlink    6389457328073510776
+/tmp/.org.chromium.Chromium.mO4avs/SingletonSocket    socket
+/tmp/VMwareDnD                                    directory     1777                              0         0
+/tmp/config-err-9R66tP                            0             0600     --------------e-----     1001      1001
+/tmp/mintUpdate                                   directory     0777                              1001      1001
+/tmp/mintUpdate/bsj_u6et                          390           0666     --------------e-----     1001      1001
+/tmp/pulse-PKdhtXMmr18n                           directory     0700                              0         0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-ModemManager.service-1gzlPL    directory    0700        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-ModemManager.service-1gzlPL/tmp    directory    1777        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-apache2.service-RYYViu    directory    0700        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-apache2.service-RYYViu/tmp    directory    1777        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-ntp.service-4R3mKK    directory    0700        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-ntp.service-4R3mKK/tmp    directory    1777        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-systemd-logind.service-kBgt34    directory    0700        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-systemd-logind.service-kBgt34/tmp    directory    1777        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-systemd-resolved.service-HGu7fT    directory    0700        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-systemd-resolved.service-HGu7fT/tmp    directory    1777        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-upower.service-hRltdV    directory    0700        0    0
+/tmp/systemd-private-64ab55f1f448487390fbfeed32bc2a55-upower.service-hRltdV/tmp    directory    1777        0    0
+/tmp/vmware-root_768-2999133183                   directory     0700                              0         0

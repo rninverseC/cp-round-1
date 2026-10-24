@@ -1,0 +1,28 @@
+Path                                              Size          Perms    Attrs                    Owner     Group
+--------------------------------------------------------------------------------------------------------------------------------------------
+/tmp                                              directory     1777                              0         0
+/tmp/.ICE-unix                                    directory     1777                              0         0
+/tmp/.ICE-unix/927                                socket
+/tmp/.Test-unix                                   directory     1777                              0         0
+/tmp/.X0-lock                                     11            0444     --------------e-----     0         0
+/tmp/.X11-unix                                    directory     1777                              0         0
+/tmp/.X11-unix/X0                                 socket
+/tmp/.XIM-unix                                    directory     1777                              0         0
+/tmp/.font-unix                                   directory     1777                              0         0
+/tmp/VMwareDnD                                    directory     1777                              0         0
+/tmp/config-err-7HpbXU                            0             0600     --------------e-----     1000      1000
+/tmp/mintUpdate                                   directory     0777                              1000      1000
+/tmp/mintUpdate/0rbcvqnl                          336           0666     --------------e-----     1000      1000
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-ModemManager.service-ubZuRs    directory    0700        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-ModemManager.service-ubZuRs/tmp    directory    1777        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-colord.service-vX3776    directory    0700        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-colord.service-vX3776/tmp    directory    1777        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-systemd-logind.service-jPwj1y    directory    0700        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-systemd-logind.service-jPwj1y/tmp    directory    1777        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-systemd-resolved.service-0jWE8v    directory    0700        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-systemd-resolved.service-0jWE8v/tmp    directory    1777        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-systemd-timesyncd.service-ZkXkwN    directory    0700        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-systemd-timesyncd.service-ZkXkwN/tmp    directory    1777        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-upower.service-qGCRKU    directory    0700        0    0
+/tmp/systemd-private-b4f0a7fc120247d5b6ed7704aa0eb417-upower.service-qGCRKU/tmp    directory    1777        0    0
+/tmp/vmware-root_802-2991202885                   directory     0700                              0         0
