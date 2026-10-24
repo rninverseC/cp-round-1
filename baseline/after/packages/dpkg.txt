@@ -12,10 +12,6 @@ alsa-ucm-conf					install
 alsa-utils					install
 amd64-microcode					install
 anacron						install
-apache2						install
-apache2-bin					install
-apache2-data					install
-apache2-utils					install
 apg						install
 app-install-data				install
 apparmor					install
@@ -74,7 +70,6 @@ caja-open-terminal				install
 caja-sendto					install
 caja-wallpaper					install
 casper						install
-celluloid					install
 chromium					install
 chromium-browser				install
 cifs-utils					install
@@ -95,6 +90,7 @@ coreutils					install
 cpio						install
 cpp						install
 cpp-11						install
+cpp-12						install
 cracklib-runtime				install
 cron						install
 cryptsetup					install
@@ -294,6 +290,7 @@ gawk						install
 gcc						install
 gcc-11						install
 gcc-11-base:amd64				install
+gcc-12						install
 gcc-12-base:amd64				install
 gcr						install
 gdb						install
@@ -419,7 +416,6 @@ gvfs-fuse					install
 gvfs-libs:amd64					install
 gzip						install
 hdparm						install
-hexchat						install
 hexchat-common					install
 hfsprogs					install
 hicolor-icon-theme				install
@@ -451,7 +447,6 @@ hyphen-it					install
 hyphen-pt-br					install
 hyphen-pt-pt					install
 hyphen-ru					install
-hypnotix					install
 i965-va-driver:amd64				install
 ideviceinstaller				install
 ieee-data					install
@@ -486,6 +481,7 @@ iucode-tool					install
 iw						install
 java-common					install
 jfsutils					install
+jq						install
 kbd						install
 kerneloops					install
 keyboard-configuration				install
@@ -514,16 +510,13 @@ libaom3:amd64					install
 libapparmor1:amd64				install
 libappstream-glib8:amd64			install
 libappstream4:amd64				install
-libapr1:amd64					install
-libaprutil1:amd64				install
-libaprutil1-dbd-sqlite3:amd64			install
-libaprutil1-ldap:amd64				install
 libapt-pkg-perl					install
 libapt-pkg6.0:amd64				install
 libarchive-zip-perl				install
 libarchive13:amd64				install
 libargon2-1:amd64				install
 libasan6:amd64					install
+libasan8:amd64					install
 libasound2:amd64				install
 libasound2-data					install
 libasound2-plugins:amd64			install
@@ -588,8 +581,11 @@ libbsd0:amd64					install
 libbz2-1.0:amd64				install
 libc-ares2:amd64				install
 libc-bin					install
+libc-dev-bin					install
+libc-devtools					install
 libc6:amd64					install
 libc6-dbg:amd64					install
+libc6-dev:amd64					install
 libcaca0:amd64					install
 libcairo-gobject-perl:amd64			install
 libcairo-gobject2:amd64				install
@@ -645,6 +641,7 @@ libconst-fast-perl				install
 libcpanel-json-xs-perl:amd64			install
 libcpufreq0					install
 libcrack2:amd64					install
+libcrypt-dev:amd64				install
 libcrypt1:amd64					install
 libcryptsetup12:amd64				install
 libctf-nobfd0:amd64				install
@@ -774,6 +771,7 @@ libftdi1-2:amd64				install
 libfuse2:amd64					install
 libfuse3-3:amd64				install
 libfwupd2:amd64					install
+libfwupd3:amd64					install
 libfwupdplugin5:amd64				install
 libgail-3-0:amd64				install
 libgail-common:amd64				install
@@ -784,6 +782,7 @@ libgbm1:amd64					install
 libgc1:amd64					install
 libgcab-1.0-0:amd64				install
 libgcc-11-dev:amd64				install
+libgcc-12-dev:amd64				install
 libgcc-s1:amd64					install
 libgck-1-0:amd64				install
 libgcr-base-3-1:amd64				install
@@ -939,6 +938,7 @@ libjcat1:amd64					install
 libjpeg-turbo-progs				install
 libjpeg-turbo8:amd64				install
 libjpeg8:amd64					install
+libjq1:amd64					install
 libjs-mathjax					install
 libjson-c5:amd64				install
 libjson-glib-1.0-0:amd64			install
@@ -963,7 +963,6 @@ libldb2:amd64					install
 liblibreoffice-java				install
 liblightdm-gobject-1-0:amd64			install
 liblilv-0-0:amd64				install
-liblinear4:amd64				install
 liblirc-client0:amd64				install
 liblist-compare-perl				install
 liblist-moreutils-perl				install
@@ -971,6 +970,7 @@ liblist-moreutils-xs-perl			install
 liblist-someutils-perl				install
 liblist-utilsby-perl				install
 libllvm13:amd64					install
+libllvm15:amd64					install
 liblmdb0:amd64					install
 liblocale-gettext-perl				install
 liblouis-data					install
@@ -981,7 +981,6 @@ liblouisutdml9:amd64				install
 liblsan0:amd64					install
 libltdl7:amd64					install
 liblua5.2-0:amd64				install
-liblua5.3-0:amd64				install
 liblvm2cmd2.03:amd64				install
 liblwp-mediatypes-perl				install
 liblwp-protocol-https-perl			install
@@ -1018,7 +1017,6 @@ libmetacity3:amd64				install
 libmfx1:amd64					install
 libmhash2:amd64					install
 libminiupnpc17:amd64				install
-libminizip1:amd64				install
 libmm-glib0:amd64				install
 libmnl0:amd64					install
 libmodule-implementation-perl			install
@@ -1076,6 +1074,7 @@ libnorm1:amd64					install
 libnotify-bin					install
 libnotify4:amd64				install
 libnpth0:amd64					install
+libnsl-dev:amd64				install
 libnsl2:amd64					install
 libnspr4:amd64					install
 libnss-mdns:amd64				install
@@ -1088,6 +1087,7 @@ libnumber-compare-perl				install
 libnvpair3linux					install
 libodfgen-0.1-1:amd64				install
 libogg0:amd64					install
+libonig5:amd64					install
 liboobs-1-5:amd64				install
 libopenal-data					install
 libopenal1:amd64				install
@@ -1160,6 +1160,7 @@ libpopt0:amd64					install
 libpostproc55:amd64				install
 libproc-processtable-perl:amd64			install
 libprocps8:amd64				install
+libprotobuf-c1:amd64				install
 libprotobuf23:amd64				install
 libproxy1-plugin-gsettings:amd64		install
 libproxy1-plugin-networkmanager:amd64		install
@@ -1177,22 +1178,11 @@ libpython3.10-stdlib:amd64			install
 libqmi-glib5:amd64				install
 libqmi-proxy					install
 libqpdf28:amd64					install
-libqt5charts5:amd64				install
 libqt5core5a:amd64				install
 libqt5dbus5:amd64				install
 libqt5gui5:amd64				install
 libqt5network5:amd64				install
-libqt5positioning5:amd64			install
-libqt5printsupport5:amd64			install
-libqt5qml5:amd64				install
-libqt5qmlmodels5:amd64				install
-libqt5quick5:amd64				install
-libqt5quickwidgets5:amd64			install
 libqt5svg5:amd64				install
-libqt5webchannel5:amd64				install
-libqt5webengine-data				install
-libqt5webenginecore5:amd64			install
-libqt5webenginewidgets5:amd64			install
 libqt5widgets5:amd64				install
 libquadmath0:amd64				install
 librabbitmq4:amd64				install
@@ -1204,7 +1194,6 @@ libraw20:amd64					install
 librda-common					install
 librda0:amd64					install
 librdf0:amd64					install
-libre2-9:amd64					install
 libreadline8:amd64				install
 libreoffice-base				install
 libreoffice-base-core				install
@@ -1365,11 +1354,13 @@ libtimezonemap-data				install
 libtimezonemap1:amd64				install
 libtinfo6:amd64					install
 libtirpc-common					install
+libtirpc-dev:amd64				install
 libtirpc3:amd64					install
 libtotem-plparser-common			install
 libtotem-plparser18:amd64			install
 libtry-tiny-perl				install
 libtsan0:amd64					install
+libtsan2:amd64					install
 libtspi1					install
 libtss2-esys-3.0.2-0:amd64			install
 libtss2-mu0:amd64				install
@@ -1553,13 +1544,18 @@ lintian						install
 linux-base					install
 linux-firmware					install
 linux-generic					install
+linux-headers-5.15.0-198			install
+linux-headers-5.15.0-198-generic		install
 linux-headers-5.15.0-41				install
 linux-headers-5.15.0-41-generic			install
 linux-headers-generic				install
+linux-image-5.15.0-198-generic			install
 linux-image-5.15.0-41-generic			install
 linux-image-generic				install
 linux-libc-dev:amd64				install
+linux-modules-5.15.0-198-generic		install
 linux-modules-5.15.0-41-generic			install
+linux-modules-extra-5.15.0-198-generic		install
 linux-modules-extra-5.15.0-41-generic		install
 linux-sound-base				install
 linuxmint-keyring				install
@@ -1576,7 +1572,6 @@ lshw						install
 lsof						install
 lto-disabled-list				install
 ltrace						install
-lua-lpeg:amd64					install
 lvm2						install
 lzip						install
 lzop						install
@@ -1685,19 +1680,15 @@ net-tools					install
 netbase						install
 netcat-openbsd					install
 netpbm						install
+netplan-generator				install
 netplan.io					install
 network-manager					install
 network-manager-config-connectivity-ubuntu	install
 network-manager-gnome				install
-network-manager-openvpn				install
-network-manager-openvpn-gnome			install
 network-manager-pptp				install
 network-manager-pptp-gnome			install
 networkd-dispatcher				install
 nftables					install
-nmap						install
-nmap-common					install
-nmapsi4						install
 notification-daemon				install
 ntfs-3g						install
 ntp						install
@@ -1715,8 +1706,6 @@ openssh-client					install
 openssh-server					install
 openssh-sftp-server				install
 openssl						install
-openvpn						install
-ophcrack					install
 orca						install
 os-prober					install
 p11-kit						install
@@ -1814,6 +1803,7 @@ python3-filelock				install
 python3-gdbm:amd64				install
 python3-gi					install
 python3-gi-cairo				install
+python3-gnupg					install
 python3-grpcio					install
 python3-httplib2				install
 python3-icu					install
@@ -1837,6 +1827,7 @@ python3-more-itertools				install
 python3-nacl					install
 python3-netaddr					install
 python3-netifaces:amd64				install
+python3-netplan					install
 python3-oauthlib				install
 python3-packaging				install
 python3-parted					install
@@ -1892,10 +1883,8 @@ redshift-gtk					install
 reiserfsprogs					install
 rename						install
 rfkill						install
-rhythmbox					install
 rhythmbox-data					install
-rhythmbox-plugin-tray-icon			install
-rhythmbox-plugins				install
+rpcsvc-proto					install
 rsync						install
 rsyslog						install
 rtkit						install
@@ -1917,7 +1906,6 @@ simple-scan					install
 slick-greeter					install
 smbclient					install
 sound-theme-freedesktop				install
-sox						install
 speech-dispatcher				install
 speech-dispatcher-audio-plugins:amd64		install
 speech-dispatcher-espeak-ng			install
@@ -1937,6 +1925,7 @@ system-config-printer-udev			install
 system-tools-backends				install
 systemd						install
 systemd-coredump				install
+systemd-hwe-hwdb				install
 systemd-sysv					install
 systemd-timesyncd				deinstall
 sysvinit-utils					install
@@ -1954,8 +1943,7 @@ time						install
 timeshift					install
 tnftp						install
 tpm-udev					install
-transmission-common				install
-transmission-gtk				install
+tree						install
 tzdata						install
 ubuntu-dbgsym-keyring				install
 ubuntu-drivers-common				install
@@ -2014,6 +2002,7 @@ xapp-appimage-thumbnailer			install
 xapp-epub-thumbnailer				install
 xapp-mp3-thumbnailer				install
 xapp-raw-thumbnailer				install
+xapp-symbolic-icons				install
 xapp-thumbnailers-common			install
 xapps-common					install
 xauth						install

@@ -13,6 +13,7 @@ Path                                              Size          Perms    Attrs  
 /root/.fltk                                       directory     0700                              0         0
 /root/.fltk/fltk.org                              directory     0700                              0         0
 /root/.fltk/fltk.org/fltk.prefs                   94            0644     --------------e-----     0         0         bd5c1e1c
+/root/.lesshst                                    20            0600     --------------e-----     0         0         4ece0736
 /root/.local                                      directory     0700                              0         0
 /root/.local/share                                directory     0700                              0         0
 /root/.local/share/keyrings                       directory     0700                              0         0

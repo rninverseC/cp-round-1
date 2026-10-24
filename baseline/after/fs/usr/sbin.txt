@@ -2,15 +2,8 @@ Path                                              Size          Perms    Attrs  
 --------------------------------------------------------------------------------------------------------------------------------------------
 /usr/sbin                                         directory     0755                              0         0
 /usr/sbin/MAKEDEV                                 53293         0755     --------------e-----     0         0
-/usr/sbin/ModemManager                            1985440       0755     --------------e-----     0         0
-/usr/sbin/NetworkManager                          3251464       0755     --------------e-----     0         0
-/usr/sbin/a2disconf    symlink    a2enmod
-/usr/sbin/a2dismod    symlink    a2enmod
-/usr/sbin/a2dissite    symlink    a2enmod
-/usr/sbin/a2enconf    symlink    a2enmod
-/usr/sbin/a2enmod                                 16276         0755     --------------e-----     0         0
-/usr/sbin/a2ensite    symlink    a2enmod
-/usr/sbin/a2query                                 9870          0755     --------------e-----     0         0
+/usr/sbin/ModemManager                            2194240       0755     --------------e-----     0         0
+/usr/sbin/NetworkManager                          3255560       0755     --------------e-----     0         0
 /usr/sbin/aa-remove-unknown                       3068          0755     --------------e-----     0         0
 /usr/sbin/aa-status                               64120         0755     --------------e-----     0         0
 /usr/sbin/aa-teardown                             137           0755     --------------e-----     0         0
@@ -21,21 +14,18 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/addgnupghome                            3075          0755     --------------e-----     0         0
 /usr/sbin/addgroup    symlink    adduser
 /usr/sbin/adduser                                 38247         0755     --------------e-----     0         0
-/usr/sbin/agetty                                  56888         0755     --------------e-----     0         0
+/usr/sbin/agetty                                  56896         0755     --------------e-----     0         0
 /usr/sbin/alsa                                    5576          0755     --------------e-----     0         0
 /usr/sbin/alsa-info                               28679         0755     --------------e-----     0         0
 /usr/sbin/alsabat-test                            4136          0755     --------------e-----     0         0
 /usr/sbin/alsactl                                 122416        0755     --------------e-----     0         0
 /usr/sbin/anacron                                 34992         0755     --------------e-----     0         0
-/usr/sbin/apache2                                 758672        0755     --------------e-----     0         0
-/usr/sbin/apache2ctl                              7229          0755     --------------e-----     0         0
-/usr/sbin/apachectl    symlink    apache2ctl
-/usr/sbin/apparmor_parser                         1535648       0755     --------------e-----     0         0
+/usr/sbin/apparmor_parser                         1548064       0755     --------------e-----     0         0
 /usr/sbin/apparmor_status    symlink    aa-status
 /usr/sbin/applygnupgdefaults                      2217          0755     --------------e-----     0         0
 /usr/sbin/aptd                                    1394          0755     --------------e-----     0         0
-/usr/sbin/arc_summary                             34393         0755     --------------e-----     0         0
-/usr/sbin/arcstat                                 16851         0755     --------------e-----     0         0
+/usr/sbin/arc_summary                             34751         0755     --------------e-----     0         0
+/usr/sbin/arcstat                                 16856         0755     --------------e-----     0         0
 /usr/sbin/arp                                     63088         0755     --------------e-----     0         0
 /usr/sbin/arpd                                    26960         0755     --------------e-----     0         0
 /usr/sbin/arptables    symlink    /etc/alternatives/arptables
@@ -50,10 +40,10 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/badblocks                               35144         0755     --------------e-----     0         0
 /usr/sbin/biosdecode                              23760         0755     --------------e-----     0         0
 /usr/sbin/blkdeactivate                           16351         0755     --------------e-----     0         0
-/usr/sbin/blkdiscard                              22904         0755     --------------e-----     0         0
-/usr/sbin/blkid                                   51616         0755     --------------e-----     0         0
-/usr/sbin/blkzone                                 35192         0755     --------------e-----     0         0
-/usr/sbin/blockdev                                31096         0755     --------------e-----     0         0
+/usr/sbin/blkdiscard                              22912         0755     --------------e-----     0         0
+/usr/sbin/blkid                                   51624         0755     --------------e-----     0         0
+/usr/sbin/blkzone                                 35200         0755     --------------e-----     0         0
+/usr/sbin/blockdev                                31104         0755     --------------e-----     0         0
 /usr/sbin/bluetoothd    symlink    ../lib/bluetooth/bluetoothd
 /usr/sbin/bridge                                  94712         0755     --------------e-----     0         0
 /usr/sbin/brltty    symlink    /bin/brltty
@@ -64,17 +54,16 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/casper-new-uuid                         2726          0755     --------------e-----     0         0
 /usr/sbin/casper-snapshot                         7482          0755     --------------e-----     0         0
 /usr/sbin/casper-stop                             4237          0755     --------------e-----     0         0
-/usr/sbin/cfdisk                                  97000         0755     --------------e-----     0         0
+/usr/sbin/cfdisk                                  97008         0755     --------------e-----     0         0
 /usr/sbin/cgdisk                                  154096        0755     --------------e-----     0         0
 /usr/sbin/chat                                    35136         0755     --------------e-----     0         0
-/usr/sbin/chcpu                                   31096         0755     --------------e-----     0         0
-/usr/sbin/check_forensic                          952           0755     --------------e-----     0         0
+/usr/sbin/chcpu                                   31104         0755     --------------e-----     0         0
 /usr/sbin/chgpasswd                               59528         0755     --------------e-----     0         0
-/usr/sbin/chmem                                   35192         0755     --------------e-----     0         0
+/usr/sbin/chmem                                   35200         0755     --------------e-----     0         0
 /usr/sbin/chpasswd                                55464         0755     --------------e-----     0         0
-/usr/sbin/chroot                                  39424         0755     --------------e-----     0         0
+/usr/sbin/chroot                                  39432         0755     --------------e-----     0         0
 /usr/sbin/cifs.idmap                              14720         0755     --------------e-----     0         0
-/usr/sbin/cifs.upcall                             39512         0755     --------------e-----     0         0
+/usr/sbin/cifs.upcall                             43608         0755     --------------e-----     0         0
 /usr/sbin/cpgr                                    symlink       cppw
 /usr/sbin/cppw                                    49448         0755     --------------e-----     0         0
 /usr/sbin/cracklib-check                          14488         0755     --------------e-----     0         0
@@ -87,9 +76,9 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/cryptdisks_stop                         844           0755     --------------e-----     0         0
 /usr/sbin/cryptsetup                              173616        0755     --------------e-----     0         0
 /usr/sbin/cryptsetup-reencrypt                    92544         0755     --------------e-----     0         0
-/usr/sbin/cryptsetup-ssh                          28192         0755     --------------e-----     0         0
-/usr/sbin/ctrlaltdel                              14712         0755     --------------e-----     0         0
-/usr/sbin/cups-browsed                            219856        0755     --------------e-----     0         0
+/usr/sbin/cryptsetup-ssh                          24096         0755     --------------e-----     0         0
+/usr/sbin/ctrlaltdel                              14720         0755     --------------e-----     0         0
+/usr/sbin/cups-browsed                            199376        0755     --------------e-----     0         0
 /usr/sbin/cups-genppdupdate                       28832         0755     --------------e-----     0         0
 /usr/sbin/cupsaccept                              14648         0755     --------------e-----     0         0
 /usr/sbin/cupsctl                                 14720         0755     --------------e-----     0         0
@@ -107,16 +96,16 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/deluser                                 16495         0755     --------------e-----     0         0
 /usr/sbin/depmod    symlink    /bin/kmod
 /usr/sbin/devlink                                 146288        0755     --------------e-----     0         0
-/usr/sbin/dhclient                                453264        0755     --------------e-----     0         0
+/usr/sbin/dhclient                                453280        0755     --------------e-----     0         0
 /usr/sbin/dhclient-script                         16304         0755     --------------e-----     0         0
-/usr/sbin/dkms                                    143186        0755     --------------e-----     0         0
-/usr/sbin/dmeventd                                51584         0755     --------------e-----     0         0
-/usr/sbin/dmidecode                               113648        0755     --------------e-----     0         0
+/usr/sbin/dkms                                    143423        0755     --------------e-----     0         0
+/usr/sbin/dmeventd                                51592         0755     --------------e-----     0         0
+/usr/sbin/dmidecode                               125936        0755     --------------e-----     0         0
 /usr/sbin/dmraid                                  29192         0755     --------------e-----     0         0
 /usr/sbin/dmraid-activate                         7208          0755     --------------e-----     0         0
-/usr/sbin/dmsetup                                 175112        0755     --------------e-----     0         0
+/usr/sbin/dmsetup                                 175128        0755     --------------e-----     0         0
 /usr/sbin/dmstats    symlink    dmsetup
-/usr/sbin/dnsmasq                                 454336        0755     --------------e-----     0         0
+/usr/sbin/dnsmasq                                 500032        0755     --------------e-----     0         0
 /usr/sbin/dosfsck    symlink    fsck.fat
 /usr/sbin/dosfslabel    symlink    fatlabel
 /usr/sbin/dpkg-preconfigure                       3663          0755     --------------e-----     0         0
@@ -143,14 +132,14 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/exfatlabel                              18920         0755     --------------e-----     0         0
 /usr/sbin/faillock                                14488         0755     --------------e-----     0         0
 /usr/sbin/fatlabel                                39304         0755     --------------e-----     0         0
-/usr/sbin/fdisk                                   113064        0755     --------------e-----     0         0
+/usr/sbin/fdisk                                   113072        0755     --------------e-----     0         0
 /usr/sbin/filefrag                                18760         0755     --------------e-----     0         0
-/usr/sbin/findfs                                  14712         0755     --------------e-----     0         0
+/usr/sbin/findfs                                  14720         0755     --------------e-----     0         0
 /usr/sbin/fixparts                                59880         0755     --------------e-----     0         0
 /usr/sbin/fsadm                                   24519         0755     --------------e-----     0         0
-/usr/sbin/fsck                                    43432         0755     --------------e-----     0         0
+/usr/sbin/fsck                                    43440         0755     --------------e-----     0         0
 /usr/sbin/fsck.btrfs                              1185          0755     --------------e-----     0         0
-/usr/sbin/fsck.cramfs                             31160         0755     --------------e-----     0         0
+/usr/sbin/fsck.cramfs                             31168         0755     --------------e-----     0         0
 /usr/sbin/fsck.exfat                              39728         0755     --------------e-----     0         0
 /usr/sbin/fsck.ext2    symlink    e2fsck
 /usr/sbin/fsck.ext3    symlink    e2fsck
@@ -159,15 +148,15 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/fsck.hfs    symlink    fsck.hfsplus
 /usr/sbin/fsck.hfsplus                            279504        0755     --------------e-----     0         0
 /usr/sbin/fsck.jfs                                394640        0755     --------------e-----     0         0
-/usr/sbin/fsck.minix                              55704         0755     --------------e-----     0         0
+/usr/sbin/fsck.minix                              55712         0755     --------------e-----     0         0
 /usr/sbin/fsck.msdos    symlink    fsck.fat
 /usr/sbin/fsck.reiserfs                           282           0755     --------------e-----     0         0
 /usr/sbin/fsck.vfat    symlink    fsck.fat
-/usr/sbin/fsck.xfs                                1968          0755     --------------e-----     0         0
+/usr/sbin/fsck.xfs                                1940          0755     --------------e-----     0         0
 /usr/sbin/fsck.zfs                                762           0755     --------------e-----     0         0
-/usr/sbin/fsfreeze                                14712         0755     --------------e-----     0         0
+/usr/sbin/fsfreeze                                14720         0755     --------------e-----     0         0
 /usr/sbin/fstab-decode                            18744         0755     --------------e-----     0         0
-/usr/sbin/fstrim                                  43384         0755     --------------e-----     0         0
+/usr/sbin/fstrim                                  43392         0755     --------------e-----     0         0
 /usr/sbin/gdisk                                   178672        0755     --------------e-----     0         0
 /usr/sbin/genl                                    92608         0755     --------------e-----     0         0
 /usr/sbin/getcap                                  14648         0755     --------------e-----     0         0
@@ -184,16 +173,15 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/grub-bios-setup    symlink    ../lib/grub/i386-pc/grub-bios-setup
 /usr/sbin/grub-install                            1204128       0755     --------------e-----     0         0
 /usr/sbin/grub-macbless                           951408        0755     --------------e-----     0         0
-/usr/sbin/grub-mkconfig                           8803          0755     --------------e-----     0         0
+/usr/sbin/grub-mkconfig                           8805          0755     --------------e-----     0         0
 /usr/sbin/grub-mkdevicemap                        220880        0755     --------------e-----     0         0
 /usr/sbin/grub-probe                              963952        0755     --------------e-----     0         0
-/usr/sbin/grub-reboot                             4839          0755     --------------e-----     0         0
-/usr/sbin/grub-set-default                        3554          0755     --------------e-----     0         0
+/usr/sbin/grub-reboot                             4841          0755     --------------e-----     0         0
+/usr/sbin/grub-set-default                        3556          0755     --------------e-----     0         0
 /usr/sbin/guest-account                           6660          0755     --------------e-----     0         0
 /usr/sbin/halt    symlink    /bin/systemctl
 /usr/sbin/hdparm                                  142776        0755     --------------e-----     0         0
-/usr/sbin/httxt2dbm                               14648         0755     --------------e-----     0         0
-/usr/sbin/hwclock                                 51704         0755     --------------e-----     0         0
+/usr/sbin/hwclock                                 51712         0755     --------------e-----     0         0
 /usr/sbin/iconvconfig                             31128         0755     --------------e-----     0         0
 /usr/sbin/ifconfig                                79024         0755     --------------e-----     0         0
 /usr/sbin/ifdown                                  symlink       ifup
@@ -204,7 +192,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/install-docs                            12350         0755     --------------e-----     0         0
 /usr/sbin/install-sgmlcatalog                     4551          0755     --------------e-----     0         0
 /usr/sbin/installkernel                           2659          0755     --------------e-----     0         0
-/usr/sbin/integritysetup                          59464         0755     --------------e-----     0         0
+/usr/sbin/integritysetup                          55368         0755     --------------e-----     0         0
 /usr/sbin/invoke-rc.d                             16507         0755     --------------e-----     0         0
 /usr/sbin/ip    symlink    /bin/ip
 /usr/sbin/ip6tables    symlink    /etc/alternatives/ip6tables
@@ -220,7 +208,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/ip6tables-save    symlink    /etc/alternatives/ip6tables-save
 /usr/sbin/ip6tables-translate    symlink    xtables-nft-multi
 /usr/sbin/ipmaddr                                 18744         0755     --------------e-----     0         0
-/usr/sbin/ipp-usb                                 5412720       0755     --------------e-----     0         0
+/usr/sbin/ipp-usb                                 5429168       0755     --------------e-----     0         0
 /usr/sbin/ippeveprinter                           182664        0755     --------------e-----     0         0
 /usr/sbin/iptables    symlink    /etc/alternatives/iptables
 /usr/sbin/iptables-apply                          7057          0755     --------------e-----     0         0
@@ -239,7 +227,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/irqbalance-ui                           35208         0755     --------------e-----     0         0
 /usr/sbin/isadump                                 14648         0755     --------------e-----     0         0
 /usr/sbin/isaset                                  14648         0755     --------------e-----     0         0
-/usr/sbin/isosize                                 14712         0755     --------------e-----     0         0
+/usr/sbin/isosize                                 14720         0755     --------------e-----     0         0
 /usr/sbin/ispell-autobuildhash                    15937         0755     --------------e-----     0         0
 /usr/sbin/iucode-tool    symlink    iucode_tool
 /usr/sbin/iucode_tool                             59736         0755     --------------e-----     0         0
@@ -260,8 +248,8 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/kerneloops                              30872         0755     --------------e-----     0         0
 /usr/sbin/key.dns_resolver                        31120         0755     --------------e-----     0         0
 /usr/sbin/killall5                                31112         0755     --------------e-----     0         0
-/usr/sbin/kpartx                                  43168         0755     --------------e-----     0         0
-/usr/sbin/ldattach                                27000         0755     --------------e-----     0         0
+/usr/sbin/kpartx                                  47272         0755     --------------e-----     0         0
+/usr/sbin/ldattach                                27008         0755     --------------e-----     0         0
 /usr/sbin/ldconfig                                387           0755     --------------e-----     0         0
 /usr/sbin/ldconfig.real                           1213960       0755     --------------e-----     0         0
 /usr/sbin/lightdm                                 268520        0755     --------------e-----     0         0
@@ -269,7 +257,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/locale-gen                              4398          0755     --------------e-----     0         0
 /usr/sbin/logrotate                               104696        0755     --------------e-----     0         0
 /usr/sbin/logsave                                 14496         0755     --------------e-----     0         0
-/usr/sbin/losetup                                 72200         0755     --------------e-----     0         0
+/usr/sbin/losetup                                 72208         0755     --------------e-----     0         0
 /usr/sbin/lpadmin                                 35128         0755     --------------e-----     0         0
 /usr/sbin/lpc                                     14696         0755     --------------e-----     0         0
 /usr/sbin/lpinfo                                  14648         0755     --------------e-----     0         0
@@ -282,11 +270,11 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/lvcreate                                symlink       lvm
 /usr/sbin/lvdisplay                               symlink       lvm
 /usr/sbin/lvextend                                symlink       lvm
-/usr/sbin/lvm                                     3027680       0755     --------------e-----     0         0
+/usr/sbin/lvm                                     3027544       0755     --------------e-----     0         0
 /usr/sbin/lvmconfig                               symlink       lvm
 /usr/sbin/lvmdiskscan                             symlink       lvm
 /usr/sbin/lvmdump                                 10312         0755     --------------e-----     0         0
-/usr/sbin/lvmpolld                                242008        0755     --------------e-----     0         0
+/usr/sbin/lvmpolld                                241864        0755     --------------e-----     0         0
 /usr/sbin/lvmsadc                                 symlink       lvm
 /usr/sbin/lvmsar                                  symlink       lvm
 /usr/sbin/lvreduce                                symlink       lvm
@@ -301,10 +289,10 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/mii-tool                                27376         0755     --------------e-----     0         0
 /usr/sbin/mkdosfs    symlink    mkfs.fat
 /usr/sbin/mke2fs                                  133752        0755     --------------e-----     0         0
-/usr/sbin/mkfs                                    14712         0755     --------------e-----     0         0
-/usr/sbin/mkfs.bfs                                22904         0755     --------------e-----     0         0
+/usr/sbin/mkfs                                    14720         0755     --------------e-----     0         0
+/usr/sbin/mkfs.bfs                                22912         0755     --------------e-----     0         0
 /usr/sbin/mkfs.btrfs                              482560        0755     --------------e-----     0         0
-/usr/sbin/mkfs.cramfs                             35128         0755     --------------e-----     0         0
+/usr/sbin/mkfs.cramfs                             35144         0755     --------------e-----     0         0
 /usr/sbin/mkfs.exfat                              31112         0755     --------------e-----     0         0
 /usr/sbin/mkfs.ext2    symlink    mke2fs
 /usr/sbin/mkfs.ext3    symlink    mke2fs
@@ -313,18 +301,18 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/mkfs.hfs    symlink    mkfs.hfsplus
 /usr/sbin/mkfs.hfsplus                            45424         0755     --------------e-----     0         0
 /usr/sbin/mkfs.jfs                                55448         0755     --------------e-----     0         0
-/usr/sbin/mkfs.minix                              43400         0755     --------------e-----     0         0
+/usr/sbin/mkfs.minix                              43408         0755     --------------e-----     0         0
 /usr/sbin/mkfs.msdos    symlink    mkfs.fat
 /usr/sbin/mkfs.ntfs    symlink    mkntfs
 /usr/sbin/mkfs.reiserfs    symlink    mkreiserfs
 /usr/sbin/mkfs.vfat    symlink    mkfs.fat
-/usr/sbin/mkfs.xfs                                391952        0755     --------------e-----     0         0
+/usr/sbin/mkfs.xfs                                391960        0755     --------------e-----     0         0
 /usr/sbin/mkhomedir_helper                        22704         0755     --------------e-----     0         0
 /usr/sbin/mkinitramfs                             12453         0755     --------------e-----     0         0
 /usr/sbin/mklost+found                            14648         0755     --------------e-----     0         0
 /usr/sbin/mkntfs                                  72072         0755     --------------e-----     0         0
 /usr/sbin/mkreiserfs                              117528        0755     --------------e-----     0         0
-/usr/sbin/mkswap                                  47488         0755     --------------e-----     0         0
+/usr/sbin/mkswap                                  47496         0755     --------------e-----     0         0
 /usr/sbin/modinfo    symlink    /bin/kmod
 /usr/sbin/modprobe    symlink    /bin/kmod
 /usr/sbin/mount.cifs                              52296         4755     --------------e-----     0         0
@@ -337,7 +325,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/mount.ntfs    symlink    mount.ntfs-3g
 /usr/sbin/mount.ntfs-3g    symlink    /bin/ntfs-3g
 /usr/sbin/mount.smb3    symlink    mount.cifs
-/usr/sbin/mount.zfs                               22832         0755     --------------e-----     0         0
+/usr/sbin/mount.zfs                               22840         0755     --------------e-----     0         0
 /usr/sbin/nameif                                  14824         0755     --------------e-----     0         0
 /usr/sbin/netplan    symlink    ../share/netplan/netplan.script
 /usr/sbin/newusers                                76520         0755     --------------e-----     0         0
@@ -355,8 +343,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/ntpdate                                 85272         0755     --------------e-----     0         0
 /usr/sbin/ntpdate-debian                          534           0755     --------------e-----     0         0
 /usr/sbin/ntptime                                 22792         0755     --------------e-----     0         0
-/usr/sbin/on_ac_power                             2228          0755     --------------e-----     0         0
-/usr/sbin/openvpn                                 838080        0755     --------------e-----     0         0
+/usr/sbin/on_ac_power                             3788          0755     --------------e-----     0         0
 /usr/sbin/ownership                               14792         0755     --------------e-----     0         0
 /usr/sbin/pam-auth-update                         20992         0755     --------------e-----     0         0
 /usr/sbin/pam_extrausers_chkpwd                   22680         2755     --------------e-----     0         42
@@ -367,7 +354,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/parted                                  88472         0755     --------------e-----     0         0
 /usr/sbin/partprobe                               14720         0755     --------------e-----     0         0
 /usr/sbin/pccardctl                               22904         0755     --------------e-----     0         0
-/usr/sbin/pivot_root                              14712         0755     --------------e-----     0         0
+/usr/sbin/pivot_root                              14720         0755     --------------e-----     0         0
 /usr/sbin/plipconfig                              14648         0755     --------------e-----     0         0
 /usr/sbin/plocate-build                           47568         0755     --------------e-----     0         0
 /usr/sbin/plymouthd                               154168        0755     --------------e-----     0         0
@@ -398,7 +385,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/pwunconv                                43016         0755     --------------e-----     0         0
 /usr/sbin/rarp                                    33104         0755     --------------e-----     0         0
 /usr/sbin/rdate                                   18584         0755     --------------e-----     0         0
-/usr/sbin/readprofile                             22936         0755     --------------e-----     0         0
+/usr/sbin/readprofile                             22944         0755     --------------e-----     0         0
 /usr/sbin/reboot    symlink    /bin/systemctl
 /usr/sbin/reiserfsck                              285872        0755     --------------e-----     0         0
 /usr/sbin/reiserfstune                            117736        0755     --------------e-----     0         0
@@ -408,18 +395,18 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/request-key                             26944         0755     --------------e-----     0         0
 /usr/sbin/resize2fs                               67896         0755     --------------e-----     0         0
 /usr/sbin/resize_reiserfs                         108960        0755     --------------e-----     0         0
-/usr/sbin/rfkill                                  30936         0755     --------------e-----     0         0
+/usr/sbin/rfkill                                  30952         0755     --------------e-----     0         0
 /usr/sbin/rmmod    symlink    /bin/kmod
 /usr/sbin/rmt    symlink    /etc/alternatives/rmt
 /usr/sbin/rmt-tar                                 59976         0755     --------------e-----     0         0
 /usr/sbin/route                                   65808         0755     --------------e-----     0         0
 /usr/sbin/rsyslogd                                785600        0755     --------------e-----     0         0
 /usr/sbin/rtacct                                  28992         0755     --------------e-----     0         0
-/usr/sbin/rtcwake                                 35192         0755     --------------e-----     0         0
+/usr/sbin/rtcwake                                 35200         0755     --------------e-----     0         0
 /usr/sbin/rtkitctl                                14720         0755     --------------e-----     0         0
 /usr/sbin/rtmon                                   92560         0755     --------------e-----     0         0
 /usr/sbin/runlevel    symlink    /bin/systemctl
-/usr/sbin/runuser                                 55672         0755     --------------e-----     0         0
+/usr/sbin/runuser                                 55680         0755     --------------e-----     0         0
 /usr/sbin/samba_kcc                               12188         0755     --------------e-----     0         0
 /usr/sbin/saned                                   72400         0755     --------------e-----     0         0
 /usr/sbin/select-default-ispell                   3303          0755     --------------e-----     0         0
@@ -429,30 +416,29 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/setcap                                  14648         0755     --------------e-----     0         0
 /usr/sbin/setvesablank                            14568         0755     --------------e-----     0         0
 /usr/sbin/setvtrgb                                14632         0755     --------------e-----     0         0
-/usr/sbin/sfdisk                                  104824        0755     --------------e-----     0         0
+/usr/sbin/sfdisk                                  104832        0755     --------------e-----     0         0
 /usr/sbin/sgdisk                                  166384        0755     --------------e-----     0         0
 /usr/sbin/shadowconfig                            885           0755     --------------e-----     0         0
 /usr/sbin/shutdown    symlink    /bin/systemctl
 /usr/sbin/slattach                                36944         0755     --------------e-----     0         0
 /usr/sbin/slick-greeter                           420072        0755     --------------e-----     0         0
-/usr/sbin/split-logfile                           2415          0755     --------------e-----     0         0
-/usr/sbin/sshd                                    917192        0755     --------------e-----     0         0
+/usr/sbin/sshd                                    921288        0755     --------------e-----     0         0
 /usr/sbin/start-stop-daemon                       48488         0755     --------------e-----     0         0
-/usr/sbin/sudo_logsrvd                            204896        0755     --------------e-----     0         0
-/usr/sbin/sudo_sendlog                            109904        0755     --------------e-----     0         0
-/usr/sbin/sulogin                                 43384         0755     --------------e-----     0         0
-/usr/sbin/swaplabel                               22904         0755     --------------e-----     0         0
-/usr/sbin/swapoff                                 22904         0755     --------------e-----     0         0
-/usr/sbin/swapon                                  43384         0755     --------------e-----     0         0
-/usr/sbin/switch_root                             18808         0755     --------------e-----     0         0
+/usr/sbin/sudo_logsrvd                            204904        0755     --------------e-----     0         0
+/usr/sbin/sudo_sendlog                            109912        0755     --------------e-----     0         0
+/usr/sbin/sulogin                                 43392         0755     --------------e-----     0         0
+/usr/sbin/swaplabel                               18816         0755     --------------e-----     0         0
+/usr/sbin/swapoff                                 22912         0755     --------------e-----     0         0
+/usr/sbin/swapon                                  43392         0755     --------------e-----     0         0
+/usr/sbin/switch_root                             22912         0755     --------------e-----     0         0
 /usr/sbin/synaptic                                680168        0755     --------------e-----     0         0
 /usr/sbin/sync-available                          1451          0755     --------------e-----     0         0
 /usr/sbin/sysctl                                  30960         0755     --------------e-----     0         0
 /usr/sbin/system-tools-backends                   34968         0755     --------------e-----     0         0
 /usr/sbin/tarcat                                  936           0755     --------------e-----     0         0
-/usr/sbin/tc                                      628816        0755     --------------e-----     0         0
+/usr/sbin/tc                                      632912        0755     --------------e-----     0         0
 /usr/sbin/telinit    symlink    /bin/systemctl
-/usr/sbin/thermald                                547432        0755     --------------e-----     0         0
+/usr/sbin/thermald                                567912        0755     --------------e-----     0         0
 /usr/sbin/tipc                                    92608         0755     --------------e-----     0         0
 /usr/sbin/tune.exfat                              19048         0755     --------------e-----     0         0
 /usr/sbin/tune2fs                                 105016        0755     --------------e-----     0         0
@@ -465,7 +451,7 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/umount.udisks2                          14640         0755     --------------e-----     0         0
 /usr/sbin/unix_chkpwd                             26776         2755     --------------e-----     0         42
 /usr/sbin/unix_update                             30872         0755     --------------e-----     0         0
-/usr/sbin/update-ca-certificates                  5394          0755     --------------e-----     0         0
+/usr/sbin/update-ca-certificates                  5418          0755     --------------e-----     0         0
 /usr/sbin/update-catalog                          9366          0755     --------------e-----     0         0
 /usr/sbin/update-cracklib                         1182          0755     --------------e-----     0         0
 /usr/sbin/update-default-aspell    symlink    update-dictcommon-aspell
@@ -498,14 +484,14 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/usb_modeswitch                          61096         0755     --------------e-----     0         0
 /usr/sbin/usb_modeswitch_dispatcher               27418         0755     --------------e-----     0         0
 /usr/sbin/usbmuxd                                 88680         0755     --------------e-----     0         0
-/usr/sbin/useradd                                 126624        0755     --------------e-----     0         0
+/usr/sbin/useradd                                 130720        0755     --------------e-----     0         0
 /usr/sbin/userdel                                 88936         0755     --------------e-----     0         0
 /usr/sbin/usermod                                 126424        0755     --------------e-----     0         0
-/usr/sbin/uuidd                                   31576         0755     --------------e-----     0         0
+/usr/sbin/uuidd                                   31592         0755     --------------e-----     0         0
 /usr/sbin/validlocale                             1773          0755     --------------e-----     0         0
 /usr/sbin/vcstime                                 14488         0755     --------------e-----     0         0
 /usr/sbin/vdpa                                    31296         0755     --------------e-----     0         0
-/usr/sbin/veritysetup                             48904         0755     --------------e-----     0         0
+/usr/sbin/veritysetup                             44808         0755     --------------e-----     0         0
 /usr/sbin/vgcfgbackup                             symlink       lvm
 /usr/sbin/vgcfgrestore                            symlink       lvm
 /usr/sbin/vgchange                                symlink       lvm
@@ -527,46 +513,46 @@ Path                                              Size          Perms    Attrs  
 /usr/sbin/vgsplit                                 symlink       lvm
 /usr/sbin/vigr                                    symlink       vipw
 /usr/sbin/vipw                                    57888         0755     --------------e-----     0         0
-/usr/sbin/visudo                                  225056        0755     --------------e-----     0         0
+/usr/sbin/visudo                                  225064        0755     --------------e-----     0         0
 /usr/sbin/vpddecode                               14928         0755     --------------e-----     0         0
-/usr/sbin/wipefs                                  39288         0755     --------------e-----     0         0
+/usr/sbin/wipefs                                  39296         0755     --------------e-----     0         0
 /usr/sbin/wpa_action                              1735          0755     --------------e-----     0         0
 /usr/sbin/wpa_cli                                 143680        0755     --------------e-----     0         0
 /usr/sbin/wpa_supplicant                          3397048       0755     --------------e-----     0         0
 /usr/sbin/xfs_admin                               1407          0755     --------------e-----     0         0
 /usr/sbin/xfs_bmap                                695           0755     --------------e-----     0         0
-/usr/sbin/xfs_copy                                84448         0755     --------------e-----     0         0
-/usr/sbin/xfs_db                                  668080        0755     --------------e-----     0         0
-/usr/sbin/xfs_estimate                            14496         0755     --------------e-----     0         0
+/usr/sbin/xfs_copy                                84464         0755     --------------e-----     0         0
+/usr/sbin/xfs_db                                  668096        0755     --------------e-----     0         0
+/usr/sbin/xfs_estimate                            14504         0755     --------------e-----     0         0
 /usr/sbin/xfs_freeze                              800           0755     --------------e-----     0         0
-/usr/sbin/xfs_fsr                                 43184         0755     --------------e-----     0         0
-/usr/sbin/xfs_growfs                              39192         0755     --------------e-----     0         0
+/usr/sbin/xfs_fsr                                 43192         0755     --------------e-----     0         0
+/usr/sbin/xfs_growfs                              39200         0755     --------------e-----     0         0
 /usr/sbin/xfs_info                                1294          0755     --------------e-----     0         0
-/usr/sbin/xfs_io                                  204336        0755     --------------e-----     0         0
-/usr/sbin/xfs_logprint                            80200         0755     --------------e-----     0         0
-/usr/sbin/xfs_mdrestore                           26792         0755     --------------e-----     0         0
+/usr/sbin/xfs_io                                  204344        0755     --------------e-----     0         0
+/usr/sbin/xfs_logprint                            80208         0755     --------------e-----     0         0
+/usr/sbin/xfs_mdrestore                           26800         0755     --------------e-----     0         0
 /usr/sbin/xfs_metadump                            782           0755     --------------e-----     0         0
 /usr/sbin/xfs_mkfile                              1040          0755     --------------e-----     0         0
 /usr/sbin/xfs_ncheck                              685           0755     --------------e-----     0         0
-/usr/sbin/xfs_quota                               92320         0755     --------------e-----     0         0
-/usr/sbin/xfs_repair                              613752        0755     --------------e-----     0         0
-/usr/sbin/xfs_rtcp                                18576         0755     --------------e-----     0         0
-/usr/sbin/xfs_scrub                               108800        0755     --------------e-----     0         0
+/usr/sbin/xfs_quota                               92328         0755     --------------e-----     0         0
+/usr/sbin/xfs_repair                              613768        0755     --------------e-----     0         0
+/usr/sbin/xfs_rtcp                                18584         0755     --------------e-----     0         0
+/usr/sbin/xfs_scrub                               108816        0755     --------------e-----     0         0
 /usr/sbin/xfs_scrub_all                           6006          0755     --------------e-----     0         0
-/usr/sbin/xfs_spaceman                            43304         0755     --------------e-----     0         0
+/usr/sbin/xfs_spaceman                            43320         0755     --------------e-----     0         0
 /usr/sbin/xtables-legacy-multi                    99272         0755     --------------e-----     0         0
 /usr/sbin/xtables-monitor    symlink    xtables-nft-multi
 /usr/sbin/xtables-nft-multi                       224296        0755     --------------e-----     0         0
-/usr/sbin/zdb                                     187272        0755     --------------e-----     0         0
-/usr/sbin/zed                                     101152        0755     --------------e-----     0         0
+/usr/sbin/zdb                                     187280        0755     --------------e-----     0         0
+/usr/sbin/zed                                     101168        0755     --------------e-----     0         0
 /usr/sbin/zerofree                                14488         0755     --------------e-----     0         0
-/usr/sbin/zfs                                     143728        0755     --------------e-----     0         0
-/usr/sbin/zfs_ids_to_path                         14640         0755     --------------e-----     0         0
-/usr/sbin/zgenhostid                              14640         0755     --------------e-----     0         0
-/usr/sbin/zhack                                   22832         0755     --------------e-----     0         0
+/usr/sbin/zfs                                     143736        0755     --------------e-----     0         0
+/usr/sbin/zfs_ids_to_path                         14648         0755     --------------e-----     0         0
+/usr/sbin/zgenhostid                              14648         0755     --------------e-----     0         0
+/usr/sbin/zhack                                   22840         0755     --------------e-----     0         0
 /usr/sbin/zic                                     63816         0755     --------------e-----     0         0
-/usr/sbin/zpool                                   220208        0755     --------------e-----     0         0
-/usr/sbin/zramctl                                 55816         0755     --------------e-----     0         0
-/usr/sbin/zstream                                 31024         0755     --------------e-----     0         0
+/usr/sbin/zpool                                   220216        0755     --------------e-----     0         0
+/usr/sbin/zramctl                                 55824         0755     --------------e-----     0         0
+/usr/sbin/zstream                                 31040         0755     --------------e-----     0         0
 /usr/sbin/zstreamdump    symlink    zstream
-/usr/sbin/zvol_wait                               2905          0755     --------------e-----     0         0
+/usr/sbin/zvol_wait                               2878          0755     --------------e-----     0         0

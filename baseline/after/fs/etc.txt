@@ -7,6 +7,7 @@ Path                                              Size          Perms    Attrs  
 /etc/.java/.systemPrefs/.systemRootModFile        0             0644     --------------e-----     0         0         00000001
 /etc/.pwd.lock                                    0             0600     --------------e-----     0         0         00000001
 /etc/ModemManager                                 directory     0755                              0         0
+/etc/ModemManager/connection.d                    directory     0755                              0         0
 /etc/ModemManager/fcc-unlock.d                    directory     0755                              0         0
 /etc/NetworkManager                               directory     0755                              0         0
 /etc/NetworkManager/NetworkManager.conf           98            0644     --------------e-----     0         0         057623ae
@@ -339,200 +340,6 @@ Path                                              Size          Perms    Attrs  
 /etc/alternatives/yacc    symlink    /usr/bin/bison.yacc
 /etc/alternatives/yaccman    symlink    /usr/share/man/man1/bison.yacc.1.gz
 /etc/anacrontab                                   335           0644     --------------e-----     0         0         61d57156
-/etc/apache2                                      directory     0755                              0         0
-/etc/apache2/apache2.conf                         7224          0644     --------------e-----     0         0         4fdca329
-/etc/apache2/conf-available                       directory     0755                              0         0
-/etc/apache2/conf-available/charset.conf          315           0644     --------------e-----     0         0         00246c98
-/etc/apache2/conf-available/localized-error-pages.conf    3224    0644    --------------e-----    0    0    011d2512
-/etc/apache2/conf-available/other-vhosts-access-log.conf    189    0644    --------------e-----    0    0    e5a34291
-/etc/apache2/conf-available/security.conf         2174          0644     --------------e-----     0         0         82b5ee34
-/etc/apache2/conf-available/serve-cgi-bin.conf    455           0644     --------------e-----     0         0         a7938e99
-/etc/apache2/conf-enabled                         directory     0755                              0         0
-/etc/apache2/conf-enabled/charset.conf    symlink    ../conf-available/charset.conf
-/etc/apache2/conf-enabled/localized-error-pages.conf    symlink    ../conf-available/localized-error-pages.conf
-/etc/apache2/conf-enabled/other-vhosts-access-log.conf    symlink    ../conf-available/other-vhosts-access-log.conf
-/etc/apache2/conf-enabled/security.conf    symlink    ../conf-available/security.conf
-/etc/apache2/conf-enabled/serve-cgi-bin.conf    symlink    ../conf-available/serve-cgi-bin.conf
-/etc/apache2/envvars                              1782          0644     --------------e-----     0         0         e0c75325
-/etc/apache2/magic                                31063         0644     --------------e-----     0         0         0185210e
-/etc/apache2/mods-available                       directory     0755                              0         0
-/etc/apache2/mods-available/access_compat.load    100           0644     --------------e-----     0         0         3665250a
-/etc/apache2/mods-available/actions.conf          377           0644     --------------e-----     0         0         38c782a8
-/etc/apache2/mods-available/actions.load          66            0644     --------------e-----     0         0         42d318b0
-/etc/apache2/mods-available/alias.conf            843           0644     --------------e-----     0         0         ca741a97
-/etc/apache2/mods-available/alias.load            62            0644     --------------e-----     0         0         d95e16e2
-/etc/apache2/mods-available/allowmethods.load     76            0644     --------------e-----     0         0         626e1cf4
-/etc/apache2/mods-available/asis.load             76            0644     --------------e-----     0         0         071d1b40
-/etc/apache2/mods-available/auth_basic.load       94            0644     --------------e-----     0         0         56482286
-/etc/apache2/mods-available/auth_digest.load      96            0644     --------------e-----     0         0         a4082382
-/etc/apache2/mods-available/auth_form.load        100           0644     --------------e-----     0         0         3de8250e
-/etc/apache2/mods-available/authn_anon.load       72            0644     --------------e-----     0         0         e7231b24
-/etc/apache2/mods-available/authn_core.load       72            0644     --------------e-----     0         0         e68e1b1e
-/etc/apache2/mods-available/authn_dbd.load        85            0644     --------------e-----     0         0         0e521eb4
-/etc/apache2/mods-available/authn_dbm.load        70            0644     --------------e-----     0         0         ab3f1a32
-/etc/apache2/mods-available/authn_file.load       72            0644     --------------e-----     0         0         e47b1b0c
-/etc/apache2/mods-available/authn_socache.load    78            0644     --------------e-----     0         0         964e1d78
-/etc/apache2/mods-available/authnz_fcgi.load      74            0644     --------------e-----     0         0         21541bf2
-/etc/apache2/mods-available/authnz_ldap.load      90            0644     --------------e-----     0         0         c284210d
-/etc/apache2/mods-available/authz_core.load       72            0644     --------------e-----     0         0         e9b21b36
-/etc/apache2/mods-available/authz_dbd.load        96            0644     --------------e-----     0         0         8f3e2320
-/etc/apache2/mods-available/authz_dbm.load        92            0644     --------------e-----     0         0         17aa21e8
-/etc/apache2/mods-available/authz_groupfile.load    104    0644    --------------e-----    0    0    e845271c
-/etc/apache2/mods-available/authz_host.load       94            0644     --------------e-----     0         0         672622fe
-/etc/apache2/mods-available/authz_owner.load      74            0644     --------------e-----     0         0         2a0c1c3a
-/etc/apache2/mods-available/authz_user.load       94            0644     --------------e-----     0         0         67a12300
-/etc/apache2/mods-available/autoindex.conf        3374          0644     --------------e-----     0         0         a4345b97
-/etc/apache2/mods-available/autoindex.load        70            0644     --------------e-----     0         0         b2851a70
-/etc/apache2/mods-available/brotli.load           64            0644     --------------e-----     0         0         10cc17e6
-/etc/apache2/mods-available/buffer.load           64            0644     --------------e-----     0         0         0cae17c2
-/etc/apache2/mods-available/cache.load            62            0644     --------------e-----     0         0         d4aa16b6
-/etc/apache2/mods-available/cache_disk.conf       889           0644     --------------e-----     0         0         273f2634
-/etc/apache2/mods-available/cache_disk.load       89            0644     --------------e-----     0         0         8ccc2028
-/etc/apache2/mods-available/cache_socache.load    95            0644     --------------e-----     0         0         5ad2227e
-/etc/apache2/mods-available/cern_meta.load        70            0644     --------------e-----     0         0         a9c71a2a
-/etc/apache2/mods-available/cgi.load              58            0644     --------------e-----     0         0         7a3a1534
-/etc/apache2/mods-available/cgid.conf             115           0644     --------------e-----     0         0         fd6d26f8
-/etc/apache2/mods-available/cgid.load             60            0644     --------------e-----     0         0         a77a15fc
-/etc/apache2/mods-available/charset_lite.load     76            0644     --------------e-----     0         0         5ab61cbc
-/etc/apache2/mods-available/data.load             60            0644     --------------e-----     0         0         a8171602
-/etc/apache2/mods-available/dav.load              93            0644     --------------e-----     0         0         f168205a
-/etc/apache2/mods-available/dav_fs.conf           83            0644     --------------e-----     0         0         35271a28
-/etc/apache2/mods-available/dav_fs.load           79            0644     --------------e-----     0         0         58da1c59
-/etc/apache2/mods-available/dav_lock.load         68            0644     --------------e-----     0         0         72a71954
-/etc/apache2/mods-available/dbd.load              58            0644     --------------e-----     0         0         78721522
-/etc/apache2/mods-available/deflate.conf          460           0644     --------------e-----     0         0         e32fa1fd
-/etc/apache2/mods-available/deflate.load          84            0644     --------------e-----     0         0         fae11e68
-/etc/apache2/mods-available/dialup.load           64            0644     --------------e-----     0         0         0d8517cc
-/etc/apache2/mods-available/dir.conf              157           0644     --------------e-----     0         0         34743693
-/etc/apache2/mods-available/dir.load              58            0644     --------------e-----     0         0         7c9a154c
-/etc/apache2/mods-available/dump_io.load          64            0644     --------------e-----     0         0         114017ea
-/etc/apache2/mods-available/echo.load             60            0644     --------------e-----     0         0         a90c160c
-/etc/apache2/mods-available/env.load              58            0644     --------------e-----     0         0         7e9c1560
-/etc/apache2/mods-available/expires.load          66            0644     --------------e-----     0         0         46d918ce
-/etc/apache2/mods-available/ext_filter.load       72            0644     --------------e-----     0         0         e9e81b3a
-/etc/apache2/mods-available/file_cache.load       89            0644     --------------e-----     0         0         8b0d2012
-/etc/apache2/mods-available/filter.load           64            0644     --------------e-----     0         0         0f4e17da
-/etc/apache2/mods-available/headers.load          66            0644     --------------e-----     0         0         3df71886
-/etc/apache2/mods-available/heartbeat.load        176           0644     --------------e-----     0         0         8d1b3f29
-/etc/apache2/mods-available/heartmonitor.load     182           0644     --------------e-----     0         0         251c4201
-/etc/apache2/mods-available/http2.conf            1240          0644     --------------e-----     0         0         749869d3
-/etc/apache2/mods-available/http2.load            62            0644     --------------e-----     0         0         d53016b2
-/etc/apache2/mods-available/ident.load            62            0644     --------------e-----     0         0         db8016f6
-/etc/apache2/mods-available/imagemap.load         68            0644     --------------e-----     0         0         72471950
-/etc/apache2/mods-available/include.load          82            0644     --------------e-----     0         0         b9521da8
-/etc/apache2/mods-available/info.conf             402           0644     --------------e-----     0         0         a3df829b
-/etc/apache2/mods-available/info.load             60            0644     --------------e-----     0         0         abe31626
-/etc/apache2/mods-available/lbmethod_bybusyness.load    116    0644    --------------e-----    0    0    f1642c1b
-/etc/apache2/mods-available/lbmethod_byrequests.load    116    0644    --------------e-----    0    0    f1542c1b
-/etc/apache2/mods-available/lbmethod_bytraffic.load    114    0644    --------------e-----    0    0    89bd2ae1
-/etc/apache2/mods-available/lbmethod_heartbeat.load    114    0644    --------------e-----    0    0    86032acd
-/etc/apache2/mods-available/ldap.conf             121           0644     --------------e-----     0         0         fbdb2911
-/etc/apache2/mods-available/ldap.load             60            0644     --------------e-----     0         0         a9921610
-/etc/apache2/mods-available/log_debug.load        70            0644     --------------e-----     0         0         a8671a1e
-/etc/apache2/mods-available/log_forensic.load     76            0644     --------------e-----     0         0         5bf11cc2
-/etc/apache2/mods-available/lua.load              58            0644     --------------e-----     0         0         7d681552
-/etc/apache2/mods-available/macro.load            62            0644     --------------e-----     0         0         db2616f2
-/etc/apache2/mods-available/md.load               56            0644     --------------e-----     0         0         4f0a1470
-/etc/apache2/mods-available/mime.conf             7696          0644     --------------e-----     0         0         10f78d58
-/etc/apache2/mods-available/mime.load             60            0644     --------------e-----     0         0         ab29161e
-/etc/apache2/mods-available/mime_magic.conf       120           0644     --------------e-----     0         0         8f6727d0
-/etc/apache2/mods-available/mime_magic.load       72            0644     --------------e-----     0         0         de9c1ade
-/etc/apache2/mods-available/mpm_event.conf        668           0644     --------------e-----     0         0         04afe7d4
-/etc/apache2/mods-available/mpm_event.load        106           0644     --------------e-----     0         0         44eb27b5
-/etc/apache2/mods-available/mpm_prefork.conf      571           0644     --------------e-----     0         0         1d91c89f
-/etc/apache2/mods-available/mpm_prefork.load      108           0644     --------------e-----     0         0         9420288c
-/etc/apache2/mods-available/mpm_worker.conf       836           0644     --------------e-----     0         0         d4d02080
-/etc/apache2/mods-available/mpm_worker.load       107           0644     --------------e-----     0         0         6b53282d
-/etc/apache2/mods-available/negotiation.conf      724           0644     --------------e-----     0         0         3300f34d
-/etc/apache2/mods-available/negotiation.load      74            0644     --------------e-----     0         0         245a1c10
-/etc/apache2/mods-available/proxy.conf            822           0644     --------------e-----     0         0         d4cd0bbc
-/etc/apache2/mods-available/proxy.load            62            0644     --------------e-----     0         0         e5a01752
-/etc/apache2/mods-available/proxy_ajp.load        87            0644     --------------e-----     0         0         73c42032
-/etc/apache2/mods-available/proxy_balancer.conf    347    0644    --------------e-----    0    0    d4c87096
-/etc/apache2/mods-available/proxy_balancer.load    115    0644    --------------e-----    0    0    aa792b1e
-/etc/apache2/mods-available/proxy_connect.load    95            0644     --------------e-----     0         0         909b2390
-/etc/apache2/mods-available/proxy_express.load    95            0644     --------------e-----     0         0         98d523d0
-/etc/apache2/mods-available/proxy_fcgi.load       89            0644     --------------e-----     0         0         b54920ee
-/etc/apache2/mods-available/proxy_fdpass.load     93            0644     --------------e-----     0         0         475622be
-/etc/apache2/mods-available/proxy_ftp.conf        189           0644     --------------e-----     0         0         934b3e40
-/etc/apache2/mods-available/proxy_ftp.load        87            0644     --------------e-----     0         0         77342050
-/etc/apache2/mods-available/proxy_hcheck.load     93            0644     --------------e-----     0         0         40e92288
-/etc/apache2/mods-available/proxy_html.conf       2511          0644     --------------e-----     0         0         6b865b54
-/etc/apache2/mods-available/proxy_html.load       97            0644     --------------e-----     0         0         c51123ff
-/etc/apache2/mods-available/proxy_http.load       89            0644     --------------e-----     0         0         be62213c
-/etc/apache2/mods-available/proxy_http2.load      97            0644     --------------e-----     0         0         bc1923b2
-/etc/apache2/mods-available/proxy_scgi.load       89            0644     --------------e-----     0         0         b87c2108
-/etc/apache2/mods-available/proxy_uwsgi.load      91            0644     --------------e-----     0         0         0631221a
-/etc/apache2/mods-available/proxy_wstunnel.load    97    0644    --------------e-----    0    0    e80d24bc
-/etc/apache2/mods-available/ratelimit.load        85            0644     --------------e-----     0         0         1ec01f17
-/etc/apache2/mods-available/reflector.load        70            0644     --------------e-----     0         0         af791a5a
-/etc/apache2/mods-available/remoteip.load         68            0644     --------------e-----     0         0         7b231998
-/etc/apache2/mods-available/reqtimeout.conf       1190          0644     --------------e-----     0         0         d0fb994b
-/etc/apache2/mods-available/reqtimeout.load       72            0644     --------------e-----     0         0         f0251b6c
-/etc/apache2/mods-available/request.load          66            0644     --------------e-----     0         0         48d518e0
-/etc/apache2/mods-available/rewrite.load          66            0644     --------------e-----     0         0         478b18d2
-/etc/apache2/mods-available/sed.load              58            0644     --------------e-----     0         0         7c381546
-/etc/apache2/mods-available/session.load          66            0644     --------------e-----     0         0         47df18d6
-/etc/apache2/mods-available/session_cookie.load    99    0644    --------------e-----    0    0    1e1724f6
-/etc/apache2/mods-available/session_crypto.load    99    0644    --------------e-----    0    0    27e02544
-/etc/apache2/mods-available/session_dbd.load      93            0644     --------------e-----     0         0         3a202256
-/etc/apache2/mods-available/setenvif.conf         1280          0644     --------------e-----     0         0         64a7b687
-/etc/apache2/mods-available/setenvif.load         68            0644     --------------e-----     0         0         7b101996
-/etc/apache2/mods-available/slotmem_plain.load    78            0644     --------------e-----     0         0         9ef01db6
-/etc/apache2/mods-available/slotmem_shm.load      74            0644     --------------e-----     0         0         27181c1e
-/etc/apache2/mods-available/socache_dbm.load      74            0644     --------------e-----     0         0         16221b9e
-/etc/apache2/mods-available/socache_memcache.load    84    0644    --------------e-----    0    0    4b4c1f9e
-/etc/apache2/mods-available/socache_redis.load    78            0644     --------------e-----     0         0         92a81d66
-/etc/apache2/mods-available/socache_shmcb.load    78            0644     --------------e-----     0         0         90821d52
-/etc/apache2/mods-available/speling.load          66            0644     --------------e-----     0         0         43e518b2
-/etc/apache2/mods-available/ssl.conf              3110          0644     --------------e-----     0         0         cb060c97
-/etc/apache2/mods-available/ssl.load              97            0644     --------------e-----     0         0         bc0d236a
-/etc/apache2/mods-available/status.conf           749           0644     --------------e-----     0         0         9bb1f9fe
-/etc/apache2/mods-available/status.load           64            0644     --------------e-----     0         0         163c1816
-/etc/apache2/mods-available/substitute.load       72            0644     --------------e-----     0         0         f3fc1b86
-/etc/apache2/mods-available/suexec.load           64            0644     --------------e-----     0         0         118917e8
-/etc/apache2/mods-available/unique_id.load        70            0644     --------------e-----     0         0         b0011a54
-/etc/apache2/mods-available/userdir.conf          324           0644     --------------e-----     0         0         98456ec2
-/etc/apache2/mods-available/userdir.load          66            0644     --------------e-----     0         0         46a918ca
-/etc/apache2/mods-available/usertrack.load        70            0644     --------------e-----     0         0         b41b1a76
-/etc/apache2/mods-available/vhost_alias.load      74            0644     --------------e-----     0         0         24501c08
-/etc/apache2/mods-available/xml2enc.load          66            0644     --------------e-----     0         0         36c91840
-/etc/apache2/mods-enabled                         directory     0755                              0         0
-/etc/apache2/mods-enabled/access_compat.load    symlink    ../mods-available/access_compat.load
-/etc/apache2/mods-enabled/alias.conf    symlink    ../mods-available/alias.conf
-/etc/apache2/mods-enabled/alias.load    symlink    ../mods-available/alias.load
-/etc/apache2/mods-enabled/auth_basic.load    symlink    ../mods-available/auth_basic.load
-/etc/apache2/mods-enabled/authn_core.load    symlink    ../mods-available/authn_core.load
-/etc/apache2/mods-enabled/authn_file.load    symlink    ../mods-available/authn_file.load
-/etc/apache2/mods-enabled/authz_core.load    symlink    ../mods-available/authz_core.load
-/etc/apache2/mods-enabled/authz_host.load    symlink    ../mods-available/authz_host.load
-/etc/apache2/mods-enabled/authz_user.load    symlink    ../mods-available/authz_user.load
-/etc/apache2/mods-enabled/autoindex.conf    symlink    ../mods-available/autoindex.conf
-/etc/apache2/mods-enabled/autoindex.load    symlink    ../mods-available/autoindex.load
-/etc/apache2/mods-enabled/deflate.conf    symlink    ../mods-available/deflate.conf
-/etc/apache2/mods-enabled/deflate.load    symlink    ../mods-available/deflate.load
-/etc/apache2/mods-enabled/dir.conf    symlink    ../mods-available/dir.conf
-/etc/apache2/mods-enabled/dir.load    symlink    ../mods-available/dir.load
-/etc/apache2/mods-enabled/env.load    symlink    ../mods-available/env.load
-/etc/apache2/mods-enabled/filter.load    symlink    ../mods-available/filter.load
-/etc/apache2/mods-enabled/mime.conf    symlink    ../mods-available/mime.conf
-/etc/apache2/mods-enabled/mime.load    symlink    ../mods-available/mime.load
-/etc/apache2/mods-enabled/mpm_event.conf    symlink    ../mods-available/mpm_event.conf
-/etc/apache2/mods-enabled/mpm_event.load    symlink    ../mods-available/mpm_event.load
-/etc/apache2/mods-enabled/negotiation.conf    symlink    ../mods-available/negotiation.conf
-/etc/apache2/mods-enabled/negotiation.load    symlink    ../mods-available/negotiation.load
-/etc/apache2/mods-enabled/reqtimeout.conf    symlink    ../mods-available/reqtimeout.conf
-/etc/apache2/mods-enabled/reqtimeout.load    symlink    ../mods-available/reqtimeout.load
-/etc/apache2/mods-enabled/setenvif.conf    symlink    ../mods-available/setenvif.conf
-/etc/apache2/mods-enabled/setenvif.load    symlink    ../mods-available/setenvif.load
-/etc/apache2/mods-enabled/status.conf    symlink    ../mods-available/status.conf
-/etc/apache2/mods-enabled/status.load    symlink    ../mods-available/status.load
-/etc/apache2/ports.conf                           320           0644     --------------e-----     0         0         7dab6ad5
-/etc/apache2/sites-available                      directory     0755                              0         0
-/etc/apache2/sites-available/000-default.conf     1332          0644     --------------e-----     0         0         e66ecb4f
-/etc/apache2/sites-available/default-ssl.conf     6338          0644     --------------e-----     0         0         75db354f
-/etc/apache2/sites-enabled                        directory     0755                              0         0
-/etc/apache2/sites-enabled/000-default.conf    symlink    ../sites-available/000-default.conf
 /etc/apg.conf                                     433           0644     --------------e-----     0         0         afbd84c8
 /etc/apm                                          directory     0755                              0         0
 /etc/apm/resume.d                                 directory     0755                              0         0
@@ -579,9 +386,9 @@ Path                                              Size          Perms    Attrs  
 /etc/apparmor.d/abstractions/dconf                344           0644     --------------e-----     0         0         eee2757d
 /etc/apparmor.d/abstractions/dovecot-common       675           0644     --------------e-----     0         0         bd78ca6a
 /etc/apparmor.d/abstractions/dri-common           542           0644     --------------e-----     0         0         c5919b9c
-/etc/apparmor.d/abstractions/dri-enumerate        392           0644     --------------e-----     0         0         703188cf
+/etc/apparmor.d/abstractions/dri-enumerate        393           0644     --------------e-----     0         0         a2668a38
 /etc/apparmor.d/abstractions/enchant              2220          0644     --------------e-----     0         0         a3464c71
-/etc/apparmor.d/abstractions/exo-open             2071          0644     --------------e-----     0         0         bdf9b8c1
+/etc/apparmor.d/abstractions/exo-open             1921          0644     --------------e-----     0         0         4ce687cd
 /etc/apparmor.d/abstractions/fcitx                558           0644     --------------e-----     0         0         0f17a2fe
 /etc/apparmor.d/abstractions/fcitx-strict         821           0644     --------------e-----     0         0         676ffaa7
 /etc/apparmor.d/abstractions/fonts                2278          0644     --------------e-----     0         0         12888aba
@@ -615,10 +422,10 @@ Path                                              Size          Perms    Attrs  
 /etc/apparmor.d/abstractions/nvidia               751           0644     --------------e-----     0         0         2a91fa12
 /etc/apparmor.d/abstractions/opencl               370           0644     --------------e-----     0         0         13c38134
 /etc/apparmor.d/abstractions/opencl-common        516           0644     --------------e-----     0         0         67e9afe9
-/etc/apparmor.d/abstractions/opencl-intel         672           0644     --------------e-----     0         0         d560e356
+/etc/apparmor.d/abstractions/opencl-intel         673           0644     --------------e-----     0         0         c247e4bf
 /etc/apparmor.d/abstractions/opencl-mesa          636           0644     --------------e-----     0         0         94eed285
-/etc/apparmor.d/abstractions/opencl-nvidia        895           0644     --------------e-----     0         0         c3762cbc
-/etc/apparmor.d/abstractions/opencl-pocl          2912          0644     --------------e-----     0         0         8292ce1f
+/etc/apparmor.d/abstractions/opencl-nvidia        896           0644     --------------e-----     0         0         8acc2e25
+/etc/apparmor.d/abstractions/opencl-pocl          2916          0644     --------------e-----     0         0         3b09d3c3
 /etc/apparmor.d/abstractions/openssl              648           0644     --------------e-----     0         0         d73fbf7c
 /etc/apparmor.d/abstractions/orbit2               197           0644     --------------e-----     0         0         ad3f40e0
 /etc/apparmor.d/abstractions/p11-kit              999           0644     --------------e-----     0         0         fc432e47
@@ -637,6 +444,7 @@ Path                                              Size          Perms    Attrs  
 /etc/apparmor.d/abstractions/ruby                 1008          0644     --------------e-----     0         0         bebe273a
 /etc/apparmor.d/abstractions/samba                1159          0644     --------------e-----     0         0         e9b36106
 /etc/apparmor.d/abstractions/smbpass              581           0644     --------------e-----     0         0         e6e1aac3
+/etc/apparmor.d/abstractions/snap_browsers        1672          0644     --------------e-----     0         0         b1093b3f
 /etc/apparmor.d/abstractions/ssl_certs            1560          0644     --------------e-----     0         0         13f3e86b
 /etc/apparmor.d/abstractions/ssl_keys             938           0644     --------------e-----     0         0         050d1cff
 /etc/apparmor.d/abstractions/svn-repositories     1760          0644     --------------e-----     0         0         1a3c0eab
@@ -672,7 +480,7 @@ Path                                              Size          Perms    Attrs  
 /etc/apparmor.d/abstractions/user-tmp             760           0644     --------------e-----     0         0         8593d431
 /etc/apparmor.d/abstractions/user-write           972           0644     --------------e-----     0         0         1efa0d9f
 /etc/apparmor.d/abstractions/video                231           0644     --------------e-----     0         0         737f4d73
-/etc/apparmor.d/abstractions/vulkan               1085          0644     --------------e-----     0         0         902671a6
+/etc/apparmor.d/abstractions/vulkan               1089          0644     --------------e-----     0         0         6f17774a
 /etc/apparmor.d/abstractions/wayland              645           0644     --------------e-----     0         0         d945c2ed
 /etc/apparmor.d/abstractions/web-data             811           0644     --------------e-----     0         0         df4ced05
 /etc/apparmor.d/abstractions/winbind              882           0644     --------------e-----     0         0         615308a0
@@ -701,14 +509,14 @@ Path                                              Size          Perms    Attrs  
 /etc/apparmor.d/local/usr.sbin.ntpd               0             0644     --------------e-----     0         0         00000001
 /etc/apparmor.d/local/usr.sbin.rsyslogd           0             0644     --------------e-----     0         0         00000001
 /etc/apparmor.d/lsb_release                       1339          0644     --------------e-----     0         0         d019bea6
-/etc/apparmor.d/nvidia_modprobe                   1189          0644     --------------e-----     0         0         f452838e
-/etc/apparmor.d/sbin.dhclient                     3222          0644     --------------e-----     0         0         26b844b4
+/etc/apparmor.d/nvidia_modprobe                   1190          0644     --------------e-----     0         0         809984f7
+/etc/apparmor.d/sbin.dhclient                     3500          0644     --------------e-----     0         0         5f899e35
 /etc/apparmor.d/tunables                          directory     0755                              0         0
 /etc/apparmor.d/tunables/alias                    624           0644     --------------e-----     0         0         f01bb761
 /etc/apparmor.d/tunables/apparmorfs               375           0644     --------------e-----     0         0         338e7382
 /etc/apparmor.d/tunables/dovecot                  804           0644     --------------e-----     0         0         4006f690
 /etc/apparmor.d/tunables/etc                      1077          0644     --------------e-----     0         0         2801603e
-/etc/apparmor.d/tunables/global                   759           0644     --------------e-----     0         0         0933eb6b
+/etc/apparmor.d/tunables/global                   785           0644     --------------e-----     0         0         9217f525
 /etc/apparmor.d/tunables/home                     982           0644     --------------e-----     0         0         417432fe
 /etc/apparmor.d/tunables/home.d                   directory     0755                              0         0
 /etc/apparmor.d/tunables/home.d/site.local        634           0644     --------------e-----     0         0         7bb7bd77
@@ -723,12 +531,13 @@ Path                                              Size          Perms    Attrs  
 /etc/apparmor.d/tunables/securityfs               405           0644     --------------e-----     0         0         4c7c7e9a
 /etc/apparmor.d/tunables/share                    819           0644     --------------e-----     0         0         a5d42670
 /etc/apparmor.d/tunables/sys                      378           0644     --------------e-----     0         0         06a471c7
+/etc/apparmor.d/tunables/system                   5055          0644     --------------e-----     0         0         d3621bbd
 /etc/apparmor.d/tunables/xdg-user-dirs            867           0644     --------------e-----     0         0         91ba09cc
 /etc/apparmor.d/tunables/xdg-user-dirs.d          directory     0755                              0         0
 /etc/apparmor.d/tunables/xdg-user-dirs.d/site.local    730    0644    --------------e-----    0    0    b19dd1c5
 /etc/apparmor.d/usr.bin.man                       3448          0644     --------------e-----     0         0         b13d80f7
 /etc/apparmor.d/usr.bin.redshift                  1520          0644     --------------e-----     0         0         d458df1c
-/etc/apparmor.d/usr.bin.tcpdump                   1421          0644     --------------e-----     0         0         e55cc287
+/etc/apparmor.d/usr.bin.tcpdump                   1687          0644     --------------e-----     0         0         2afb1247
 /etc/apparmor.d/usr.lib.libreoffice.program.oosplash    1519    0644    --------------e-----    0    0    952ec812
 /etc/apparmor.d/usr.lib.libreoffice.program.senddoc    1227    0644    --------------e-----    0    0    ae5b726e
 /etc/apparmor.d/usr.lib.libreoffice.program.soffice.bin    10740    0644    --------------e-----    0    0    7b2f2900
@@ -757,6 +566,7 @@ Path                                              Size          Perms    Attrs  
 /etc/apt/apt.conf.d/50command-not-found           625           0644     --------------e-----     0         0         1357c0e8
 /etc/apt/apt.conf.d/70debconf                     182           0644     --------------e-----     0         0         a3be3f14
 /etc/apt/apt.conf.d/90mintsystem                  84            0644     --------------e-----     0         0         4bcc1925
+/etc/apt/apt.conf.d/auto_updates                  5654          0755     --------------e-----     0         0         243aa09c
 /etc/apt/auth.conf.d                              directory     0755                              0         0
 /etc/apt/keyrings                                 directory     0755                              0         0
 /etc/apt/preferences.d                            directory     0755                              0         0
@@ -765,7 +575,7 @@ Path                                              Size          Perms    Attrs  
 /etc/apt/preferences.d/official-package-repositories.pref    218    0644    --------------e-----    0    0    8de749d6
 /etc/apt/sources.list                             353           0644     --------------e-----     0         0         c4dc783d
 /etc/apt/sources.list.d                           directory     0755                              0         0
-/etc/apt/sources.list.d/official-package-repositories.list    506    0644    --------------e-----    0    0    bb9ebcc8
+/etc/apt/sources.list.d/official-package-repositories.list    420    0644    --------------e-----    0    0    a9ab9eaf
 /etc/apt/trusted.gpg.d                            directory     0755                              0         0
 /etc/apt/trusted.gpg.d/linuxmint-keyring.gpg      2228          0644     --------------e-----     0         0         14b125f6
 /etc/apt/trusted.gpg.d/ubuntu-defaults.chroot.key.gpg    7801    0644    --------------e-----    0    0    1b31b51e
@@ -784,7 +594,7 @@ Path                                              Size          Perms    Attrs  
 /etc/bindresvport.blacklist                       367           0644     --------------e-----     0         0         513874ff
 /etc/binfmt.d                                     directory     0755                              0         0
 /etc/bluetooth                                    directory     0755                              0         0
-/etc/bluetooth/input.conf                         927           0644     --------------e-----     0         0         7e47488b
+/etc/bluetooth/input.conf                         906           0644     --------------e-----     0         0         8e15408e
 /etc/bluetooth/main.conf                          3870          0644     --------------e-----     0         0         87882e38
 /etc/bluetooth/network.conf                       120           0644     --------------e-----     0         0         101a2af4
 /etc/brlapi.key                                   33            0640     --------------e-----     0         0         a0910932
@@ -1275,15 +1085,16 @@ Path                                              Size          Perms    Attrs  
 /etc/brltty.conf                                  29219         0644     --------------e-----     0         0         3a409c15
 /etc/ca-certificates                              directory     0755                              0         0
 /etc/ca-certificates/update.d                     directory     0755                              0         0
-/etc/ca-certificates/update.d/jks-keystore        2683          0755     --------------e-----     0         0         f9052ba7
-/etc/ca-certificates.conf                         5529          0644     --------------e-----     0         0         cb5feb8d
+/etc/ca-certificates/update.d/jks-keystore        3034          0755     --------------e-----     0         0         979a8602
+/etc/ca-certificates.conf                         7191          0644     --------------e-----     0         0         48c5286a
+/etc/ca-certificates.conf.dpkg-old                5529          0644     --------------e-----     0         0         cb5feb8d
 /etc/casper.conf                                  429           0644     --------------e-----     0         0         0f848bf0
 /etc/chatscripts                                  directory     2750                              0         30
 /etc/chatscripts/gprs                             950           0644     --------------e-----     0         0         cb141ac5
 /etc/chatscripts/pap                              653           0644     --------------e-----     0         0         d956cdff
 /etc/chatscripts/provider                         656           0640     --------------e-----     0         30        bb65ce88
 /etc/chromium                                     directory     0755                              0         0
-/etc/chromium/master_preferences                  1079          0644     --------------e-----     0         0         cdca5b30
+/etc/chromium/master_preferences                  1107          0644     --------------e-----     0         0         8f6c63b2
 /etc/cifs-utils                                   directory     0755                              0         0
 /etc/cifs-utils/idmap-plugin    symlink    /etc/alternatives/idmap-plugin
 /etc/compizconfig                                 directory     0755                              0         0
@@ -1340,7 +1151,6 @@ Path                                              Size          Perms    Attrs  
 /etc/cron.daily                                   directory     0755                              0         0
 /etc/cron.daily/.placeholder                      102           0644     --------------e-----     0         0         4da3220c
 /etc/cron.daily/0anacron                          311           0755     --------------e-----     0         0         19066a2c
-/etc/cron.daily/apache2                           539           0755     --------------e-----     0         0         8f2fa6e8
 /etc/cron.daily/apt-compat                        1478          0755     --------------e-----     0         0         1397cc52
 /etc/cron.daily/aptitude                          314           0755     --------------e-----     0         0         a2276b0f
 /etc/cron.daily/cracklib-runtime                  384           0755     --------------e-----     0         0         889a7a2c
@@ -1362,8 +1172,8 @@ Path                                              Size          Perms    Attrs  
 /etc/cryptsetup-initramfs                         directory     0755                              0         0
 /etc/cryptsetup-initramfs/conf-hook               1644          0644     --------------e-----     0         0         58f72e1b
 /etc/cups                                         directory     0755                              0         7
-/etc/cups/cups-browsed.conf                       30850         0644     --------------e-----     0         0         d045dcc2
-/etc/cups/cups-files.conf                         2860          0644     --------------e-----     0         0         11f2de50
+/etc/cups/cups-browsed.conf                       30199         0644     --------------e-----     0         0         f7adfc6d
+/etc/cups/cups-files.conf                         2939          0644     --------------e-----     0         0         83e3fa77
 /etc/cups/cupsd.conf                              6561          0644     --------------e-----     0         0         46edb4b9
 /etc/cups/interfaces                              directory     0755                              0         0
 /etc/cups/ppd                                     directory     0755                              0         7
@@ -1371,8 +1181,8 @@ Path                                              Size          Perms    Attrs  
 /etc/cups/raw.types                               211           0644     --------------e-----     0         0         44c849db
 /etc/cups/snmp.conf                               142           0644     --------------e-----     0         0         f56c2ee5
 /etc/cups/ssl                                     directory     0700                              0         7
-/etc/cups/subscriptions.conf                      381           0640     --------------e-----     0         7         68c080d3
-/etc/cups/subscriptions.conf.O                    91            0640     --------------e-----     0         7         bc3d1f4c
+/etc/cups/subscriptions.conf                      381           0640     --------------e-----     0         7         609780c3
+/etc/cups/subscriptions.conf.O                    91            0640     --------------e-----     0         7         bc411f4e
 /etc/cupshelpers                                  directory     0755                              0         0
 /etc/cupshelpers/preferreddrivers.xml             10525         0644     --------------e-----     0         0         1c6f035b
 /etc/dbus-1                                       directory     0755                              0         0
@@ -1408,7 +1218,6 @@ Path                                              Size          Perms    Attrs  
 /etc/default/alsa                                 638           0644     --------------e-----     0         0         c7ccd2fc
 /etc/default/amd64-microcode                      328           0644     --------------e-----     0         0         f2066f2e
 /etc/default/anacron                              830           0644     --------------e-----     0         0         55030e13
-/etc/default/apache-htcacheclean                  556           0644     --------------e-----     0         0         b96ab18d
 /etc/default/avahi-daemon                         219           0644     --------------e-----     0         0         21204a47
 /etc/default/cacerts                              384           0600     --------------e-----     0         0         889a891e
 /etc/default/console-setup                        285           0644     --------------e-----     0         0         6aba5480
@@ -1429,13 +1238,12 @@ Path                                              Size          Perms    Attrs  
 /etc/default/networking                           1032          0644     --------------e-----     0         0         148f5b31
 /etc/default/ntp                                  15            0644     --------------e-----     0         0         23cb0405
 /etc/default/ntpdate                              456           0644     --------------e-----     0         0         e7a89933
-/etc/default/openvpn                              1184          0644     --------------e-----     0         0         ee488dec
 /etc/default/rsync                                2062          0644     --------------e-----     0         0         538fb46b
 /etc/default/saned                                110           0644     --------------e-----     0         0         53db25e8
 /etc/default/ssh                                  133           0644     --------------e-----     0         0         2ac12cef
 /etc/default/ufw                                  1897          0644     --------------e-----     0         0         5abb800d
 /etc/default/useradd                              1118          0644     --------------e-----     0         0         8292753c
-/etc/default/zfs                                  4206          0644     --------------e-----     0         0         e7029077
+/etc/default/zfs                                  4336          0644     --------------e-----     0         0         89b8bbb1
 /etc/deluser.conf                                 604           0644     --------------e-----     0         0         c2ffca43
 /etc/depmod.d                                     directory     0755                              0         0
 /etc/depmod.d/ubuntu.conf                         31            0644     --------------e-----     0         0         c02d0b9e
@@ -1444,6 +1252,7 @@ Path                                              Size          Perms    Attrs  
 /etc/dhcp/dhclient-enter-hooks.d                  directory     0755                              0         0
 /etc/dhcp/dhclient-enter-hooks.d/avahi-autoipd    1132          0755     --------------e-----     0         0         b07961e0
 /etc/dhcp/dhclient-enter-hooks.d/debug    symlink    ../debug
+/etc/dhcp/dhclient-enter-hooks.d/resolved-enter    421    0755    --------------e-----    0    0    d23e9090
 /etc/dhcp/dhclient-enter-hooks.d/samba            1910          0755     --------------e-----     0         0         24b8564c
 /etc/dhcp/dhclient-exit-hooks.d                   directory     0755                              0         0
 /etc/dhcp/dhclient-exit-hooks.d/debug    symlink    ../debug
@@ -1690,16 +1499,13 @@ Path                                              Size          Perms    Attrs  
 /etc/fstab                                        731           0644     --------------e-----     0         0         3c89daf1
 /etc/fuse.conf                                    694           0644     --------------e-----     0         0         428df204
 /etc/fwupd                                        directory     0755                              0         0
-/etc/fwupd/daemon.conf                            1930          0644     --------------e-----     0         0         b7c5a387
-/etc/fwupd/redfish.conf                           406           0644     --------------e-----     0         0         05a8842e
+/etc/fwupd/bios-settings.d                        directory     0755                              0         0
+/etc/fwupd/bios-settings.d/README.md              1038          0644     --------------e-----     0         0         2e1d729c
+/etc/fwupd/fwupd.conf                             51            0644     --------------e-----     0         0         ca0c120f
 /etc/fwupd/remotes.d                              directory     0755                              0         0
-/etc/fwupd/remotes.d/dell-esrt.conf               247           0644     --------------e-----     0         0         406759df
-/etc/fwupd/remotes.d/lvfs-testing.conf            363           0644     --------------e-----     0         0         2d398498
-/etc/fwupd/remotes.d/lvfs.conf                    406           0644     --------------e-----     0         0         9ba796b4
-/etc/fwupd/remotes.d/vendor-directory.conf        296           0644     --------------e-----     0         0         53aa6bd4
-/etc/fwupd/remotes.d/vendor.conf                  317           0644     --------------e-----     0         0         291c7379
-/etc/fwupd/thunderbolt.conf                       274           0644     --------------e-----     0         0         8e72627f
-/etc/fwupd/uefi_capsule.conf                      785           0644     --------------e-----     0         0         181b0f97
+/etc/fwupd/remotes.d/lvfs-testing.conf            442           0644     --------------e-----     0         0         1305a2d2
+/etc/fwupd/remotes.d/lvfs.conf                    436           0644     --------------e-----     0         0         86b3a159
+/etc/fwupd/remotes.d/vendor-directory.conf        282           0644     --------------e-----     0         0         972766b9
 /etc/gai.conf                                     2584          0644     --------------e-----     0         0         891b28d4
 /etc/gdb                                          directory     0755                              0         0
 /etc/gdb/gdbinit                                  39            0644     --------------e-----     0         0         0d360d8c
@@ -1726,22 +1532,22 @@ Path                                              Size          Perms    Attrs  
 /etc/groff                                        directory     0755                              0         0
 /etc/groff/man.local                              1048          0644     --------------e-----     0         0         cbf342b0
 /etc/groff/mdoc.local                             1042          0644     --------------e-----     0         0         873640a6
-/etc/group                                        2893          0644     --------------e-----     0         0         8570078e
-/etc/group-                                       2903          0644     --------------e-----     0         0         ab400b88
+/etc/group                                        2912          0644     --------------e-----     0         0         bf780d9f
+/etc/group-                                       2930          0644     --------------e-----     0         0         97da1377
 /etc/grub.d                                       directory     0755                              0         0
 /etc/grub.d/00_header                             10627         0755     --------------e-----     0         0         e524cd6b
 /etc/grub.d/05_debian_theme                       6260          0755     --------------e-----     0         0         a68fe654
 /etc/grub.d/10_linux                              18683         0755     --------------e-----     0         0         3693eaf7
 /etc/grub.d/10_linux_zfs                          43031         0755     --------------e-----     0         0         8e36da7e
-/etc/grub.d/20_linux_xen                          14180         0755     --------------e-----     0         0         3108a74f
+/etc/grub.d/20_linux_xen                          14387         0755     --------------e-----     0         0         dc38eb7d
 /etc/grub.d/30_os-prober                          13369         0755     --------------e-----     0         0         3ed2e4b5
 /etc/grub.d/30_uefi-firmware                      1372          0755     --------------e-----     0         0         3152b67a
-/etc/grub.d/35_fwupd                              700           0755     --------------e-----     0         0         c012d9a8
+/etc/grub.d/35_fwupd                              744           0755     --------------e-----     0         0         469ee535
 /etc/grub.d/40_custom                             214           0755     --------------e-----     0         0         d1b947ea
 /etc/grub.d/41_custom                             215           0755     --------------e-----     0         0         9b6c489a
 /etc/grub.d/README                                483           0644     --------------e-----     0         0         5ea8a75a
-/etc/gshadow                                      2645          0640     --------------e-----     0         42        bb7db8ca
-/etc/gshadow-                                     2655          0640     --------------e-----     0         42        0660bcc4
+/etc/gshadow                                      2661          0640     --------------e-----     0         42        f0a9bdda
+/etc/gshadow-                                     2676          0640     --------------e-----     0         42        cd53c2c1
 /etc/gss                                          directory     0755                              0         0
 /etc/gss/mech.d                                   directory     0755                              0         0
 /etc/gtk-2.0                                      directory     0755                              0         0
@@ -2030,8 +1836,6 @@ Path                                              Size          Perms    Attrs  
 /etc/init.d/acpid                                 2269          0755     --------------e-----     0         0         cf51b21c
 /etc/init.d/alsa-utils                            5574          0755     --------------e-----     0         0         8dcc8641
 /etc/init.d/anacron                               2055          0755     --------------e-----     0         0         70d17a27
-/etc/init.d/apache-htcacheclean                   2489          0755     --------------e-----     0         0         b857f51d
-/etc/init.d/apache2                               8181          0755     --------------e-----     0         0         b57bea9c
 /etc/init.d/apparmor                              3740          0755     --------------e-----     0         0         11a7a8d4
 /etc/init.d/avahi-daemon                          2401          0755     --------------e-----     0         0         b326b195
 /etc/init.d/bluetooth                             2968          0755     --------------e-----     0         0         185ba6f4
@@ -2057,7 +1861,6 @@ Path                                              Size          Perms    Attrs  
 /etc/init.d/networking                            4486          0755     --------------e-----     0         0         60a08ffd
 /etc/init.d/ntp                                   1494          0755     --------------e-----     0         0         89b1bf99
 /etc/init.d/open-vm-tools                         1846          0755     --------------e-----     0         0         f5353974
-/etc/init.d/openvpn                               9138          0755     --------------e-----     0         0         dced8ad5
 /etc/init.d/plymouth                              1386          0755     --------------e-----     0         0         0a2591a8
 /etc/init.d/plymouth-log                          760           0755     --------------e-----     0         0         c60af018
 /etc/init.d/procps                                959           0755     --------------e-----     0         0         84a933cb
@@ -2070,7 +1873,7 @@ Path                                              Size          Perms    Attrs  
 /etc/init.d/ufw                                   2083          0755     --------------e-----     0         0         234367d3
 /etc/init.d/uuidd                                 1306          0755     --------------e-----     0         0         bcb984e6
 /etc/init.d/x11-common                            2762          0755     --------------e-----     0         0         b7442183
-/etc/init.d/zfs-import                            8424          0755     --------------e-----     0         0         6aafde7f
+/etc/init.d/zfs-import                            8421          0755     --------------e-----     0         0         7897dda1
 /etc/init.d/zfs-mount                             5268          0755     --------------e-----     0         0         4d0a5a9b
 /etc/init.d/zfs-share                             2051          0755     --------------e-----     0         0         c73a77c9
 /etc/init.d/zfs-zed                               2658          0755     --------------e-----     0         0         39862097
@@ -2114,21 +1917,21 @@ Path                                              Size          Perms    Attrs  
 /etc/java-11-openjdk                              directory     0755                              0         0
 /etc/java-11-openjdk/accessibility.properties     391           0644     --------------e-----     0         0         5f3a86e4
 /etc/java-11-openjdk/jfr                          directory     0755                              0         0
-/etc/java-11-openjdk/jfr/default.jfc              30451         0644     --------------e-----     0         0         00b16695
-/etc/java-11-openjdk/jfr/profile.jfc              30409         0644     --------------e-----     0         0         646b54d0
+/etc/java-11-openjdk/jfr/default.jfc              30913         0644     --------------e-----     0         0         50f8fc05
+/etc/java-11-openjdk/jfr/profile.jfc              30871         0644     --------------e-----     0         0         68b5ea40
 /etc/java-11-openjdk/jvm-amd64.cfg                54            0644     --------------e-----     0         0         da5110ad
 /etc/java-11-openjdk/logging.properties           2731          0644     --------------e-----     0         0         db0154e0
 /etc/java-11-openjdk/management                   directory     0755                              0         0
 /etc/java-11-openjdk/management/jmxremote.access    3997    0644    --------------e-----    0    0    8b092ae2
 /etc/java-11-openjdk/management/management.properties    14292    0644    --------------e-----    0    0    8f7768cd
-/etc/java-11-openjdk/net.properties               6373          0644     --------------e-----     0         0         bb6592f2
+/etc/java-11-openjdk/net.properties               7206          0644     --------------e-----     0         0         e3c8b390
 /etc/java-11-openjdk/psfont.properties.ja         3793          0644     --------------e-----     0         0         82b80d42
 /etc/java-11-openjdk/psfontj2d.properties         11390         0644     --------------e-----     0         0         796c36b8
 /etc/java-11-openjdk/security                     directory     0755                              0         0
 /etc/java-11-openjdk/security/blocked.certs       2488          0644     --------------e-----     0         0         e3c730aa
-/etc/java-11-openjdk/security/default.policy      9596          0644     --------------e-----     0         0         dabde71d
-/etc/java-11-openjdk/security/java.policy         2180          0644     --------------e-----     0         0         ca77e5a6
-/etc/java-11-openjdk/security/java.security       57442         0644     --------------e-----     0         0         99e5f9e3
+/etc/java-11-openjdk/security/default.policy      9811          0644     --------------e-----     0         0         a1102d83
+/etc/java-11-openjdk/security/java.policy         2293          0644     --------------e-----     0         0         c7a40a1d
+/etc/java-11-openjdk/security/java.security       63650         0644     --------------e-----     0         0         ddd3289a
 /etc/java-11-openjdk/security/nss.cfg             106           0644     --------------e-----     0         0         ce2326e2
 /etc/java-11-openjdk/security/policy              directory     0755                              0         0
 /etc/java-11-openjdk/security/policy/README.txt    2390    0644    --------------e-----    0    0    59a72523
@@ -2139,7 +1942,7 @@ Path                                              Size          Perms    Attrs  
 /etc/java-11-openjdk/security/policy/unlimited    directory     0755                              0         0
 /etc/java-11-openjdk/security/policy/unlimited/default_US_export.policy    146    0644    --------------e-----    0    0    eb1c31cd
 /etc/java-11-openjdk/security/policy/unlimited/default_local.policy    193    0644    --------------e-----    0    0    fa634440
-/etc/java-11-openjdk/security/public_suffix_list.dat    232578    0644    --------------e-----    0    0
+/etc/java-11-openjdk/security/public_suffix_list.dat    228598    0644    --------------e-----    0    0
 /etc/java-11-openjdk/sound.properties             1210          0644     --------------e-----     0         0         56458b45
 /etc/java-11-openjdk/swing.properties             113           0644     --------------e-----     0         0         efff2824
 /etc/kernel                                       directory     0755                              0         0
@@ -2163,7 +1966,7 @@ Path                                              Size          Perms    Attrs  
 /etc/kernel-img.conf                              110           0644     --------------e-----     0         0         52072663
 /etc/kerneloops.conf                              1308          0644     --------------e-----     0         0         64c1c646
 /etc/keyutils                                     directory     0755                              0         0
-/etc/ld.so.cache                                  66357         0644     --------------e-----     0         0
+/etc/ld.so.cache                                  66456         0644     --------------e-----     0         0
 /etc/ld.so.conf                                   34            0644     --------------e-----     0         0         d1e60b26
 /etc/ld.so.conf.d                                 directory     0755                              0         0
 /etc/ld.so.conf.d/fakeroot-x86_64-linux-gnu.conf    38    0644    --------------e-----    0    0    ff7f0d6d
@@ -2203,7 +2006,7 @@ Path                                              Size          Perms    Attrs  
 /etc/libreoffice/registry/graphicfilter.xcd       85013         0644     --------------e-----     0         0
 /etc/libreoffice/registry/impress.xcd             296041        0644     --------------e-----     0         0
 /etc/libreoffice/registry/lingucomponent.xcd      1692          0644     --------------e-----     0         0         6c6b1f94
-/etc/libreoffice/registry/main.xcd                2188296       0644     --------------e-----     0         0
+/etc/libreoffice/registry/main.xcd                2188922       0644     --------------e-----     0         0
 /etc/libreoffice/registry/math.xcd                24042         0644     --------------e-----     0         0         af969834
 /etc/libreoffice/registry/ogltrans.xcd            715           0644     --------------e-----     0         0         0f65ef24
 /etc/libreoffice/registry/oo-ad-ldap.xcd.sample    symlink    /usr/share/doc/libreoffice-common/examples/oo-ad-ldap.xcd.sample
@@ -2211,7 +2014,7 @@ Path                                              Size          Perms    Attrs  
 /etc/libreoffice/registry/pdfimport.xcd           9288          0644     --------------e-----     0         0         494e223b
 /etc/libreoffice/registry/pyuno.xcd               584           0644     --------------e-----     0         0         3e8bbe21
 /etc/libreoffice/registry/res                     directory     0755                              0         0
-/etc/libreoffice/registry/res/fcfg_langpack_de.xcd    39071    0644    --------------e-----    0    0    ff41cc84
+/etc/libreoffice/registry/res/fcfg_langpack_de.xcd    38985    0644    --------------e-----    0    0    aeaab377
 /etc/libreoffice/registry/res/fcfg_langpack_en-GB.xcd    38774    0644    --------------e-----    0    0    e5a84e43
 /etc/libreoffice/registry/res/fcfg_langpack_en-US.xcd    38775    0644    --------------e-----    0    0    6411690e
 /etc/libreoffice/registry/res/fcfg_langpack_en-ZA.xcd    38783    0644    --------------e-----    0    0    640a611a
@@ -2223,17 +2026,17 @@ Path                                              Size          Perms    Attrs  
 /etc/libreoffice/registry/res/fcfg_langpack_ru.xcd    47455    0644    --------------e-----    0    0    6f1a3c84
 /etc/libreoffice/registry/res/fcfg_langpack_zh-CN.xcd    42015    0644    --------------e-----    0    0    8f28047a
 /etc/libreoffice/registry/res/fcfg_langpack_zh-TW.xcd    42142    0644    --------------e-----    0    0    0c1e126a
-/etc/libreoffice/registry/res/registry_de.xcd     996376        0644     --------------e-----     0         0
-/etc/libreoffice/registry/res/registry_en-GB.xcd    975710    0644    --------------e-----    0    0
+/etc/libreoffice/registry/res/registry_de.xcd     996380        0644     --------------e-----     0         0
+/etc/libreoffice/registry/res/registry_en-GB.xcd    975730    0644    --------------e-----    0    0
 /etc/libreoffice/registry/res/registry_en-ZA.xcd    975475    0644    --------------e-----    0    0
-/etc/libreoffice/registry/res/registry_es.xcd     1009323       0644     --------------e-----     0         0
-/etc/libreoffice/registry/res/registry_fr.xcd     997859        0644     --------------e-----     0         0
-/etc/libreoffice/registry/res/registry_it.xcd     980373        0644     --------------e-----     0         0
-/etc/libreoffice/registry/res/registry_pt-BR.xcd    1006160    0644    --------------e-----    0    0
-/etc/libreoffice/registry/res/registry_pt.xcd     998660        0644     --------------e-----     0         0
-/etc/libreoffice/registry/res/registry_ru.xcd     1401775       0644     --------------e-----     0         0
-/etc/libreoffice/registry/res/registry_zh-CN.xcd    1090451    0644    --------------e-----    0    0
-/etc/libreoffice/registry/res/registry_zh-TW.xcd    1090977    0644    --------------e-----    0    0
+/etc/libreoffice/registry/res/registry_es.xcd     1009151       0644     --------------e-----     0         0
+/etc/libreoffice/registry/res/registry_fr.xcd     997890        0644     --------------e-----     0         0
+/etc/libreoffice/registry/res/registry_it.xcd     980329        0644     --------------e-----     0         0
+/etc/libreoffice/registry/res/registry_pt-BR.xcd    1006150    0644    --------------e-----    0    0
+/etc/libreoffice/registry/res/registry_pt.xcd     998656        0644     --------------e-----     0         0
+/etc/libreoffice/registry/res/registry_ru.xcd     1412230       0644     --------------e-----     0         0
+/etc/libreoffice/registry/res/registry_zh-CN.xcd    1090414    0644    --------------e-----    0    0
+/etc/libreoffice/registry/res/registry_zh-TW.xcd    1090913    0644    --------------e-----    0    0
 /etc/libreoffice/registry/writer.xcd              438704        0644     --------------e-----     0         0
 /etc/libreoffice/registry/xsltfilter.xcd          18364         0644     --------------e-----     0         0         d26eb495
 /etc/libreoffice/soffice.sh                       803           0644     --------------e-----     0         0         2add0f59
@@ -2263,7 +2066,6 @@ Path                                              Size          Perms    Attrs  
 /etc/logrotate.conf                               592           0644     --------------e-----     0         0         8bfbcedc
 /etc/logrotate.d                                  directory     0755                              0         0
 /etc/logrotate.d/alternatives                     120           0644     --------------e-----     0         0         f546296d
-/etc/logrotate.d/apache2                          433           0644     --------------e-----     0         0         15038a5c
 /etc/logrotate.d/apt                              173           0644     --------------e-----     0         0         94bb396b
 /etc/logrotate.d/aptitude                         79            0644     --------------e-----     0         0         280c1a96
 /etc/logrotate.d/bootlog                          91            0644     --------------e-----     0         0         226f1c42
@@ -2296,7 +2098,7 @@ Path                                              Size          Perms    Attrs  
 /etc/machine-id                                   33            0444     --------------e-----     0         0         9e7008f1
 /etc/magic                                        111           0644     --------------e-----     0         0         1ace24b3
 /etc/magic.mime                                   111           0644     --------------e-----     0         0         1ace24b3
-/etc/mailcap                                      34856         0644     --------------e-----     0         0         522f001f
+/etc/mailcap                                      26899         0644     --------------e-----     0         0         c75fc152
 /etc/mailcap.order                                449           0644     --------------e-----     0         0         dad87701
 /etc/manpath.config                               5217          0644     --------------e-----     0         0         26515605
 /etc/mate-settings-daemon                         directory     0755                              0         0
@@ -2319,6 +2121,7 @@ Path                                              Size          Perms    Attrs  
 /etc/modprobe.d/blacklist-oss.conf    symlink    /lib/linux-sound-base/noOSS.modprobe.conf
 /etc/modprobe.d/blacklist-rare-network.conf       583           0644     --------------e-----     0         0         e605c7f9
 /etc/modprobe.d/blacklist.conf                    1518          0644     --------------e-----     0         0         d82e0c14
+/etc/modprobe.d/disable-algif_aead.conf           264           0644     --------------e-----     0         0         623559b2
 /etc/modprobe.d/dkms.conf                         127           0644     --------------e-----     0         0         e2162a83
 /etc/modprobe.d/intel-microcode-blacklist.conf    154           0644     --------------e-----     0         0         92af36a1
 /etc/modprobe.d/iwlwifi.conf                      347           0644     --------------e-----     0         0         38e97909
@@ -2335,8 +2138,7 @@ Path                                              Size          Perms    Attrs  
 /etc/network                                      directory     0755                              0         0
 /etc/network/if-down.d                            directory     0755                              0         0
 /etc/network/if-down.d/avahi-autoipd              1015          0755     --------------e-----     0         0         00232a46
-/etc/network/if-down.d/openvpn                    372           0755     --------------e-----     0         0         70486e59
-/etc/network/if-down.d/resolved                   813           0755     --------------e-----     0         0         c4b803d9
+/etc/network/if-down.d/resolved                   771           0755     --------------e-----     0         0         dde7f4a2
 /etc/network/if-down.d/wpasupplicant    symlink    ../../wpa_supplicant/ifupdown.sh
 /etc/network/if-post-down.d                       directory     0755                              0         0
 /etc/network/if-post-down.d/wireless-tools        1409          0755     --------------e-----     0         0         bcd58554
@@ -2348,8 +2150,7 @@ Path                                              Size          Perms    Attrs  
 /etc/network/if-up.d                              directory     0755                              0         0
 /etc/network/if-up.d/avahi-autoipd                923           0755     --------------e-----     0         0         9eac0cfd
 /etc/network/if-up.d/ethtool                      1685          0755     --------------e-----     0         0         5ceaef2d
-/etc/network/if-up.d/openvpn                      385           0755     --------------e-----     0         0         530e72b8
-/etc/network/if-up.d/resolved                     4718          0755     --------------e-----     0         0         50b15cb8
+/etc/network/if-up.d/resolved                     4677          0755     --------------e-----     0         0         b51a4f4d
 /etc/network/if-up.d/wpasupplicant    symlink    ../../wpa_supplicant/ifupdown.sh
 /etc/network/interfaces                           134           0644     --------------e-----     0         0         e67a2dfc
 /etc/network/interfaces.d                         directory     0755                              0         0
@@ -2370,10 +2171,6 @@ Path                                              Size          Perms    Attrs  
 /etc/ntp.conf                                     2136          0644     --------------e-----     0         0         99a4ee79
 /etc/openal                                       directory     0755                              0         0
 /etc/openal/alsoft.conf                           18838         0644     --------------e-----     0         0         8e00fbea
-/etc/openvpn                                      directory     0755                              0         0
-/etc/openvpn/client                               directory     0755                              0         0
-/etc/openvpn/server                               directory     0755                              0         0
-/etc/openvpn/update-resolv-conf                   1468          0755     --------------e-----     0         0         1e35c1fd
 /etc/opt                                          directory     0755                              0         0
 /etc/os-release    symlink    ../usr/lib/os-release
 /etc/pam.conf                                     552           0644     --------------e-----     0         0         2e2883a0
@@ -2408,8 +2205,8 @@ Path                                              Size          Perms    Attrs  
 /etc/pam.d/sudo-i                                 315           0644     --------------e-----     0         0         209d6e14
 /etc/pam.d/vmtoolsd                               119           0644     --------------e-----     0         0         ab1f2938
 /etc/papersize                                    7             0644     --------------e-----     0         0         0b8a029b
-/etc/passwd                                       3635          0644     --------------e-----     0         0         6145e3fa
-/etc/passwd-                                      3684          0600     --------------e-----     0         0         83def447
+/etc/passwd                                       3669          0644     --------------e-----     0         0         cce4eee6
+/etc/passwd-                                      3758          0644     --------------e-----     0         0         6d560e3e
 /etc/pcmcia                                       directory     0755                              0         0
 /etc/pcmcia/config.opts                           1117          0644     --------------e-----     0         0         70cc6652
 /etc/perl                                         directory     0755                              0         0
@@ -2422,10 +2219,12 @@ Path                                              Size          Perms    Attrs  
 /etc/pki/fwupd                                    directory     0755                              0         0
 /etc/pki/fwupd/GPG-KEY-Linux-Foundation-Firmware    2169    0644    --------------e-----    0    0    5e07bd3f
 /etc/pki/fwupd/GPG-KEY-Linux-Vendor-Firmware-Service    959    0644    --------------e-----    0    0    a7ea35bb
+/etc/pki/fwupd/LVFS-CA-2025PQ.pem                 10406         0644     --------------e-----     0         0         17876211
 /etc/pki/fwupd/LVFS-CA.pem                        1679          0644     --------------e-----     0         0         b5531d27
 /etc/pki/fwupd-metadata                           directory     0755                              0         0
 /etc/pki/fwupd-metadata/GPG-KEY-Linux-Foundation-Metadata    2169    0644    --------------e-----    0    0    ce1bbf9d
 /etc/pki/fwupd-metadata/GPG-KEY-Linux-Vendor-Firmware-Service    959    0644    --------------e-----    0    0    a7ea35bb
+/etc/pki/fwupd-metadata/LVFS-CA-2025PQ.pem        10406         0644     --------------e-----     0         0         17876211
 /etc/pki/fwupd-metadata/LVFS-CA.pem               1679          0644     --------------e-----     0         0         b5531d27
 /etc/pm                                           directory     0755                              0         0
 /etc/pm/config.d                                  directory     0755                              0         0
@@ -2465,6 +2264,7 @@ Path                                              Size          Perms    Attrs  
 /etc/ppp/peers                                    directory     2750                              0         30
 /etc/ppp/peers/provider                           1093          0640     --------------e-----     0         30        0d5c74ca
 /etc/ppp/resolv                                   directory     0755                              0         0
+/etc/printcap    symlink    /run/cups/printcap
 /etc/profile                                      582           0644     --------------e-----     0         0         4247a07e
 /etc/profile.d                                    directory     0755                              0         0
 /etc/profile.d/01-locale-fix.sh                   96            0644     --------------e-----     0         0         4cef2031
@@ -2493,8 +2293,6 @@ Path                                              Size          Perms    Attrs  
 /etc/python3.10/sitecustomize.py                  155           0644     --------------e-----     0         0         e9ee36cf
 /etc/rc0.d                                        directory     0755                              0         0
 /etc/rc0.d/K01alsa-utils    symlink    ../init.d/alsa-utils
-/etc/rc0.d/K01apache-htcacheclean    symlink    ../init.d/apache-htcacheclean
-/etc/rc0.d/K01apache2    symlink    ../init.d/apache2
 /etc/rc0.d/K01avahi-daemon    symlink    ../init.d/avahi-daemon
 /etc/rc0.d/K01bluetooth    symlink    ../init.d/bluetooth
 /etc/rc0.d/K01cryptdisks    symlink    ../init.d/cryptdisks
@@ -2506,7 +2304,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc0.d/K01lvm2-lvmpolld    symlink    ../init.d/lvm2-lvmpolld
 /etc/rc0.d/K01networking    symlink    ../init.d/networking
 /etc/rc0.d/K01open-vm-tools    symlink    ../init.d/open-vm-tools
-/etc/rc0.d/K01openvpn    symlink    ../init.d/openvpn
 /etc/rc0.d/K01plymouth    symlink    ../init.d/plymouth
 /etc/rc0.d/K01pulseaudio-enable-autospawn    symlink    ../init.d/pulseaudio-enable-autospawn
 /etc/rc0.d/K01saned    symlink    ../init.d/saned
@@ -2519,8 +2316,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc0.d/K01zfs-zed    symlink    ../init.d/zfs-zed
 /etc/rc1.d                                        directory     0755                              0         0
 /etc/rc1.d/K01alsa-utils    symlink    ../init.d/alsa-utils
-/etc/rc1.d/K01apache-htcacheclean    symlink    ../init.d/apache-htcacheclean
-/etc/rc1.d/K01apache2    symlink    ../init.d/apache2
 /etc/rc1.d/K01avahi-daemon    symlink    ../init.d/avahi-daemon
 /etc/rc1.d/K01bluetooth    symlink    ../init.d/bluetooth
 /etc/rc1.d/K01cups    symlink    ../init.d/cups
@@ -2530,7 +2325,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc1.d/K01lightdm    symlink    ../init.d/lightdm
 /etc/rc1.d/K01lvm2-lvmpolld    symlink    ../init.d/lvm2-lvmpolld
 /etc/rc1.d/K01open-vm-tools    symlink    ../init.d/open-vm-tools
-/etc/rc1.d/K01openvpn    symlink    ../init.d/openvpn
 /etc/rc1.d/K01pulseaudio-enable-autospawn    symlink    ../init.d/pulseaudio-enable-autospawn
 /etc/rc1.d/K01saned    symlink    ../init.d/saned
 /etc/rc1.d/K01speech-dispatcher    symlink    ../init.d/speech-dispatcher
@@ -2541,11 +2335,9 @@ Path                                              Size          Perms    Attrs  
 /etc/rc1.d/K01zfs-share    symlink    ../init.d/zfs-share
 /etc/rc1.d/K01zfs-zed    symlink    ../init.d/zfs-zed
 /etc/rc2.d                                        directory     0755                              0         0
-/etc/rc2.d/K01apache-htcacheclean    symlink    ../init.d/apache-htcacheclean
 /etc/rc2.d/K01speech-dispatcher    symlink    ../init.d/speech-dispatcher
 /etc/rc2.d/S01acpid    symlink    ../init.d/acpid
 /etc/rc2.d/S01anacron    symlink    ../init.d/anacron
-/etc/rc2.d/S01apache2    symlink    ../init.d/apache2
 /etc/rc2.d/S01avahi-daemon    symlink    ../init.d/avahi-daemon
 /etc/rc2.d/S01bluetooth    symlink    ../init.d/bluetooth
 /etc/rc2.d/S01console-setup.sh    symlink    ../init.d/console-setup.sh
@@ -2561,7 +2353,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc2.d/S01mintsystem    symlink    ../init.d/mintsystem
 /etc/rc2.d/S01ntp    symlink    ../init.d/ntp
 /etc/rc2.d/S01open-vm-tools    symlink    ../init.d/open-vm-tools
-/etc/rc2.d/S01openvpn    symlink    ../init.d/openvpn
 /etc/rc2.d/S01plymouth    symlink    ../init.d/plymouth
 /etc/rc2.d/S01pulseaudio-enable-autospawn    symlink    ../init.d/pulseaudio-enable-autospawn
 /etc/rc2.d/S01rsync    symlink    ../init.d/rsync
@@ -2572,11 +2363,9 @@ Path                                              Size          Perms    Attrs  
 /etc/rc2.d/S01zfs-share    symlink    ../init.d/zfs-share
 /etc/rc2.d/S01zfs-zed    symlink    ../init.d/zfs-zed
 /etc/rc3.d                                        directory     0755                              0         0
-/etc/rc3.d/K01apache-htcacheclean    symlink    ../init.d/apache-htcacheclean
 /etc/rc3.d/K01speech-dispatcher    symlink    ../init.d/speech-dispatcher
 /etc/rc3.d/S01acpid    symlink    ../init.d/acpid
 /etc/rc3.d/S01anacron    symlink    ../init.d/anacron
-/etc/rc3.d/S01apache2    symlink    ../init.d/apache2
 /etc/rc3.d/S01avahi-daemon    symlink    ../init.d/avahi-daemon
 /etc/rc3.d/S01bluetooth    symlink    ../init.d/bluetooth
 /etc/rc3.d/S01console-setup.sh    symlink    ../init.d/console-setup.sh
@@ -2592,7 +2381,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc3.d/S01mintsystem    symlink    ../init.d/mintsystem
 /etc/rc3.d/S01ntp    symlink    ../init.d/ntp
 /etc/rc3.d/S01open-vm-tools    symlink    ../init.d/open-vm-tools
-/etc/rc3.d/S01openvpn    symlink    ../init.d/openvpn
 /etc/rc3.d/S01plymouth    symlink    ../init.d/plymouth
 /etc/rc3.d/S01pulseaudio-enable-autospawn    symlink    ../init.d/pulseaudio-enable-autospawn
 /etc/rc3.d/S01rsync    symlink    ../init.d/rsync
@@ -2603,11 +2391,9 @@ Path                                              Size          Perms    Attrs  
 /etc/rc3.d/S01zfs-share    symlink    ../init.d/zfs-share
 /etc/rc3.d/S01zfs-zed    symlink    ../init.d/zfs-zed
 /etc/rc4.d                                        directory     0755                              0         0
-/etc/rc4.d/K01apache-htcacheclean    symlink    ../init.d/apache-htcacheclean
 /etc/rc4.d/K01speech-dispatcher    symlink    ../init.d/speech-dispatcher
 /etc/rc4.d/S01acpid    symlink    ../init.d/acpid
 /etc/rc4.d/S01anacron    symlink    ../init.d/anacron
-/etc/rc4.d/S01apache2    symlink    ../init.d/apache2
 /etc/rc4.d/S01avahi-daemon    symlink    ../init.d/avahi-daemon
 /etc/rc4.d/S01bluetooth    symlink    ../init.d/bluetooth
 /etc/rc4.d/S01console-setup.sh    symlink    ../init.d/console-setup.sh
@@ -2623,7 +2409,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc4.d/S01mintsystem    symlink    ../init.d/mintsystem
 /etc/rc4.d/S01ntp    symlink    ../init.d/ntp
 /etc/rc4.d/S01open-vm-tools    symlink    ../init.d/open-vm-tools
-/etc/rc4.d/S01openvpn    symlink    ../init.d/openvpn
 /etc/rc4.d/S01plymouth    symlink    ../init.d/plymouth
 /etc/rc4.d/S01pulseaudio-enable-autospawn    symlink    ../init.d/pulseaudio-enable-autospawn
 /etc/rc4.d/S01rsync    symlink    ../init.d/rsync
@@ -2634,11 +2419,9 @@ Path                                              Size          Perms    Attrs  
 /etc/rc4.d/S01zfs-share    symlink    ../init.d/zfs-share
 /etc/rc4.d/S01zfs-zed    symlink    ../init.d/zfs-zed
 /etc/rc5.d                                        directory     0755                              0         0
-/etc/rc5.d/K01apache-htcacheclean    symlink    ../init.d/apache-htcacheclean
 /etc/rc5.d/K01speech-dispatcher    symlink    ../init.d/speech-dispatcher
 /etc/rc5.d/S01acpid    symlink    ../init.d/acpid
 /etc/rc5.d/S01anacron    symlink    ../init.d/anacron
-/etc/rc5.d/S01apache2    symlink    ../init.d/apache2
 /etc/rc5.d/S01avahi-daemon    symlink    ../init.d/avahi-daemon
 /etc/rc5.d/S01bluetooth    symlink    ../init.d/bluetooth
 /etc/rc5.d/S01console-setup.sh    symlink    ../init.d/console-setup.sh
@@ -2654,7 +2437,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc5.d/S01mintsystem    symlink    ../init.d/mintsystem
 /etc/rc5.d/S01ntp    symlink    ../init.d/ntp
 /etc/rc5.d/S01open-vm-tools    symlink    ../init.d/open-vm-tools
-/etc/rc5.d/S01openvpn    symlink    ../init.d/openvpn
 /etc/rc5.d/S01plymouth    symlink    ../init.d/plymouth
 /etc/rc5.d/S01pulseaudio-enable-autospawn    symlink    ../init.d/pulseaudio-enable-autospawn
 /etc/rc5.d/S01rsync    symlink    ../init.d/rsync
@@ -2666,8 +2448,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc5.d/S01zfs-zed    symlink    ../init.d/zfs-zed
 /etc/rc6.d                                        directory     0755                              0         0
 /etc/rc6.d/K01alsa-utils    symlink    ../init.d/alsa-utils
-/etc/rc6.d/K01apache-htcacheclean    symlink    ../init.d/apache-htcacheclean
-/etc/rc6.d/K01apache2    symlink    ../init.d/apache2
 /etc/rc6.d/K01avahi-daemon    symlink    ../init.d/avahi-daemon
 /etc/rc6.d/K01bluetooth    symlink    ../init.d/bluetooth
 /etc/rc6.d/K01cryptdisks    symlink    ../init.d/cryptdisks
@@ -2679,7 +2459,6 @@ Path                                              Size          Perms    Attrs  
 /etc/rc6.d/K01lvm2-lvmpolld    symlink    ../init.d/lvm2-lvmpolld
 /etc/rc6.d/K01networking    symlink    ../init.d/networking
 /etc/rc6.d/K01open-vm-tools    symlink    ../init.d/open-vm-tools
-/etc/rc6.d/K01openvpn    symlink    ../init.d/openvpn
 /etc/rc6.d/K01plymouth    symlink    ../init.d/plymouth
 /etc/rc6.d/K01pulseaudio-enable-autospawn    symlink    ../init.d/pulseaudio-enable-autospawn
 /etc/rc6.d/K01saned    symlink    ../init.d/saned
@@ -2817,7 +2596,7 @@ Path                                              Size          Perms    Attrs  
 /etc/security/limits.d                            directory     0755                              0         0
 /etc/security/namespace.conf                      1637          0644     --------------e-----     0         0         c23b3e28
 /etc/security/namespace.d                         directory     0755                              0         0
-/etc/security/namespace.init                      1016          0755     --------------e-----     0         0         c2411d02
+/etc/security/namespace.init                      1971          0755     --------------e-----     0         0         caf54fb0
 /etc/security/opasswd                             0             0600     --------------e-----     0         0         00000001
 /etc/security/pam_env.conf                        2971          0644     --------------e-----     0         0         0b11d1b8
 /etc/security/pwquality.conf                      2674          0644     --------------e-----     0         0         f92c8fbd
@@ -2847,8 +2626,8 @@ Path                                              Size          Perms    Attrs  
 /etc/sgml/docbook-xml.cat                         376           0644     --------------e-----     0         0         82158009
 /etc/sgml/sgml-data.cat                           652           0644     --------------e-----     0         0         6569de99
 /etc/sgml/xml-core.cat                            45            0644     --------------e-----     0         0         5ba40f9e
-/etc/shadow                                       3011          0640     --------------e-----     0         42        1b9b5864
-/etc/shadow-                                      3013          0640     --------------e-----     0         42        0d4758e0
+/etc/shadow                                       3087          0640     --------------e-----     0         42        b2e37248
+/etc/shadow-                                      3119          0640     --------------e-----     0         42        f9327aeb
 /etc/shells                                       128           0644     --------------e-----     0         0         eb152b3f
 /etc/skel                                         directory     0755                              0         0
 /etc/skel/.bash_logout                            220           0644     --------------e-----     0         0         f67c48a0
@@ -2890,6 +2669,7 @@ Path                                              Size          Perms    Attrs  
 /etc/ssh                                          directory     0755                              0         0
 /etc/ssh/moduli                                   505426        0644     --------------e-----     0         0
 /etc/ssh/ssh_config                               1650          0644     --------------e-----     0         0         1c992260
+/etc/ssh/ssh_config.bak                           1650          0644     --------------e-----     0         0         1c992260
 /etc/ssh/ssh_config.d                             directory     0755                              0         0
 /etc/ssh/ssh_host_ecdsa_key                       505           0600     --------------e-----     0         0         f9f89b56
 /etc/ssh/ssh_host_ecdsa_key.pub                   171           0644     --------------e-----     0         0         0869389d
@@ -2898,159 +2678,143 @@ Path                                              Size          Perms    Attrs  
 /etc/ssh/ssh_host_rsa_key                         2590          0600     --------------e-----     0         0         eede4d4b
 /etc/ssh/ssh_host_rsa_key.pub                     563           0644     --------------e-----     0         0         9e9cbc00
 /etc/ssh/ssh_import_id                            342           0644     --------------e-----     0         0         386f7434
-/etc/ssh/sshd_config                              3239          0644     --------------e-----     0         0         52227620
+/etc/ssh/sshd_config                              3333          0644     --------------e-----     0         0         722793ed
+/etc/ssh/sshd_config.bak                          3239          0644     --------------e-----     0         0         52227620
 /etc/ssh/sshd_config.d                            directory     0755                              0         0
 /etc/ssl                                          directory     0755                              0         0
 /etc/ssl/certs                                    directory     0755                              0         0
 /etc/ssl/certs/002c0b4f.0    symlink    GlobalSign_Root_R46.pem
-/etc/ssl/certs/02265526.0    symlink    Entrust_Root_Certification_Authority_-_G2.pem
-/etc/ssl/certs/03179a64.0    symlink    Staat_der_Nederlanden_EV_Root_CA.pem
+/etc/ssl/certs/0179095f.0    symlink    BJCA_Global_Root_CA1.pem
 /etc/ssl/certs/062cdee6.0    symlink    GlobalSign_Root_CA_-_R3.pem
 /etc/ssl/certs/064e0aa9.0    symlink    QuoVadis_Root_CA_2_G3.pem
 /etc/ssl/certs/06dc52d5.0    symlink    SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
 /etc/ssl/certs/09789157.0    symlink    Starfield_Services_Root_Certificate_Authority_-_G2.pem
 /etc/ssl/certs/0a775a30.0    symlink    GTS_Root_R3.pem
 /etc/ssl/certs/0b1b94ef.0    symlink    CFCA_EV_ROOT.pem
+/etc/ssl/certs/0b9bc432.0    symlink    ISRG_Root_X2.pem
 /etc/ssl/certs/0bf05006.0    symlink    SSL.com_Root_Certification_Authority_ECC.pem
-/etc/ssl/certs/0c31d5ce.0    symlink    ssl-cert-snakeoil.pem
 /etc/ssl/certs/0f5dc4f3.0    symlink    UCA_Extended_Validation_Root.pem
 /etc/ssl/certs/0f6fa695.0    symlink    GDCA_TrustAUTH_R5_ROOT.pem
 /etc/ssl/certs/1001acf7.0    symlink    GTS_Root_R1.pem
-/etc/ssl/certs/106f3e4d.0    symlink    Entrust_Root_Certification_Authority_-_EC1.pem
-/etc/ssl/certs/14bc7599.0    symlink    emSign_ECC_Root_CA_-_G3.pem
-/etc/ssl/certs/1636090b.0    symlink    Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem
-/etc/ssl/certs/18856ac4.0    symlink    SecureSign_RootCA11.pem
+/etc/ssl/certs/1cef98f5.0    symlink    TrustAsia_Global_Root_CA_G4.pem
 /etc/ssl/certs/1d3472b9.0    symlink    GlobalSign_ECC_Root_CA_-_R5.pem
 /etc/ssl/certs/1e08bfd1.0    symlink    IdenTrust_Public_Sector_Root_CA_1.pem
 /etc/ssl/certs/1e09d511.0    symlink    T-TeleSec_GlobalRoot_Class_2.pem
-/etc/ssl/certs/244b5494.0    symlink    DigiCert_High_Assurance_EV_Root_CA.pem
 /etc/ssl/certs/2923b3f9.0    symlink    emSign_Root_CA_-_G1.pem
 /etc/ssl/certs/2ae6433e.0    symlink    CA_Disig_Root_R2.pem
-/etc/ssl/certs/2b349938.0    symlink    AffirmTrust_Commercial.pem
+/etc/ssl/certs/2ccbdda3.0    symlink    TrustAsia_TLS_ECC_Root_CA.pem
+/etc/ssl/certs/30e1580d.0    symlink    OISTE_Server_Root_RSA_G1.pem
 /etc/ssl/certs/32888f65.0    symlink    Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
-/etc/ssl/certs/349f2832.0    symlink    EC-ACC.pem
-/etc/ssl/certs/3513523f.0    symlink    DigiCert_Global_Root_CA.pem
+/etc/ssl/certs/36c6b318.0    symlink    SECOM_TLS_RSA_Root_CA_2024.pem
 /etc/ssl/certs/3bde41ac.0    symlink    Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
-/etc/ssl/certs/3e44d2f7.0    symlink    TrustCor_RootCert_CA-2.pem
-/etc/ssl/certs/3e45d192.0    symlink    Hongkong_Post_Root_CA_1.pem
+/etc/ssl/certs/3e359ba6.0    symlink    BJCA_Global_Root_CA2.pem
 /etc/ssl/certs/3fb36b73.0    symlink    NAVER_Global_Root_Certification_Authority.pem
 /etc/ssl/certs/40193066.0    symlink    Certum_Trusted_Network_CA_2.pem
 /etc/ssl/certs/4042bcee.0    symlink    ISRG_Root_X1.pem
-/etc/ssl/certs/40547a79.0    symlink    COMODO_Certification_Authority.pem
 /etc/ssl/certs/406c9bb1.0    symlink    emSign_Root_CA_-_C1.pem
-/etc/ssl/certs/4304c5e5.0    symlink    Network_Solutions_Certificate_Authority.pem
+/etc/ssl/certs/422cf4bf.0    symlink    SECOM_TLS_ECC_Root_CA_2024.pem
 /etc/ssl/certs/48bec511.0    symlink    Certum_Trusted_Network_CA.pem
-/etc/ssl/certs/4a6481c9.0    symlink    GlobalSign_Root_CA_-_R2.pem
 /etc/ssl/certs/4b718d9b.0    symlink    emSign_ECC_Root_CA_-_C3.pem
 /etc/ssl/certs/4bfab552.0    symlink    Starfield_Root_Certificate_Authority_-_G2.pem
-/etc/ssl/certs/4f316efb.0    symlink    SwissSign_Gold_CA_-_G2.pem
-/etc/ssl/certs/5273a94c.0    symlink    E-Tugra_Certification_Authority.pem
 /etc/ssl/certs/5443e9e3.0    symlink    T-TeleSec_GlobalRoot_Class_3.pem
 /etc/ssl/certs/54657681.0    symlink    Buypass_Class_2_Root_CA.pem
-/etc/ssl/certs/57bcb2da.0    symlink    SwissSign_Silver_CA_-_G2.pem
-/etc/ssl/certs/5ad8a5d6.0    symlink    GlobalSign_Root_CA.pem
-/etc/ssl/certs/5cd81ad7.0    symlink    TeliaSonera_Root_CA_v1.pem
-/etc/ssl/certs/5d3033c5.0    symlink    TrustCor_RootCert_CA-1.pem
-/etc/ssl/certs/5e98733a.0    symlink    Entrust_Root_Certification_Authority_-_G4.pem
+/etc/ssl/certs/5860aaa6.0    symlink    Security_Communication_ECC_RootCA1.pem
+/etc/ssl/certs/5931b5bc.0    symlink    D-TRUST_EV_Root_CA_1_2020.pem
 /etc/ssl/certs/5f15c80c.0    symlink    TWCA_Global_Root_CA.pem
 /etc/ssl/certs/5f618aec.0    symlink    certSIGN_Root_CA_G2.pem
 /etc/ssl/certs/607986c7.0    symlink    DigiCert_Global_Root_G2.pem
-/etc/ssl/certs/626dceaf.0    symlink    GTS_Root_R2.pem
-/etc/ssl/certs/653b494a.0    symlink    Baltimore_CyberTrust_Root.pem
+/etc/ssl/certs/6805c744.0    symlink    OISTE_Server_Root_ECC_G1.pem
 /etc/ssl/certs/68dd7389.0    symlink    Hongkong_Post_Root_CA_3.pem
-/etc/ssl/certs/6b99d060.0    symlink    Entrust_Root_Certification_Authority.pem
+/etc/ssl/certs/6a9bdba3.0    symlink    SecureSign_Root_CA15.pem
 /etc/ssl/certs/6d41d539.0    symlink    Amazon_Root_CA_2.pem
 /etc/ssl/certs/6fa5da56.0    symlink    SSL.com_Root_Certification_Authority_RSA.pem
-/etc/ssl/certs/706f604c.0    symlink    XRamp_Global_CA_Root.pem
 /etc/ssl/certs/749e9e03.0    symlink    QuoVadis_Root_CA_1_G3.pem
 /etc/ssl/certs/75d1b2ed.0    symlink    DigiCert_Trusted_Root_G4.pem
-/etc/ssl/certs/76cb8f92.0    symlink    Cybertrust_Global_Root.pem
-/etc/ssl/certs/76faf6c0.0    symlink    QuoVadis_Root_CA_3.pem
 /etc/ssl/certs/7719f463.0    symlink    Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
 /etc/ssl/certs/773e07ad.0    symlink    OISTE_WISeKey_Global_Root_GC_CA.pem
-/etc/ssl/certs/7aaf71c0.0    symlink    TrustCor_ECA-1.pem
+/etc/ssl/certs/7a3adc42.0    symlink    vTrus_Root_CA.pem
+/etc/ssl/certs/7a780d93.0    symlink    Certainly_Root_R1.pem
 /etc/ssl/certs/7f3d5d1d.0    symlink    DigiCert_Assured_ID_Root_G3.pem
+/etc/ssl/certs/7fa05551.0    symlink    Telekom_Security_TLS_RSA_Root_2023.pem
 /etc/ssl/certs/8160b96c.0    symlink    Microsec_e-Szigno_Root_CA_2009.pem
+/etc/ssl/certs/8508e720.0    symlink    Certainly_Root_E1.pem
+/etc/ssl/certs/865fbdf9.0    symlink    SSL.com_TLS_ECC_Root_CA_2022.pem
+/etc/ssl/certs/878d9bca.0    symlink    SecureSign_Root_CA14.pem
 /etc/ssl/certs/8cb5ee0f.0    symlink    Amazon_Root_CA_3.pem
-/etc/ssl/certs/8d86cdd1.0    symlink    certSIGN_ROOT_CA.pem
 /etc/ssl/certs/8d89cda1.0    symlink    Microsoft_ECC_Root_Certificate_Authority_2017.pem
+/etc/ssl/certs/8f103249.0    symlink    Telia_Root_CA_v2.pem
+/etc/ssl/certs/9046744a.0    symlink    Sectigo_Public_Server_Authentication_Root_R46.pem
+/etc/ssl/certs/90c5a3c8.0    symlink    HiPKI_Root_CA_-_G1.pem
 /etc/ssl/certs/930ac5d2.0    symlink    Actalis_Authentication_Root_CA.pem
-/etc/ssl/certs/93bc0acc.0    symlink    AffirmTrust_Networking.pem
 /etc/ssl/certs/9482e63a.0    symlink    Certum_EC-384_CA.pem
+/etc/ssl/certs/9846683b.0    symlink    DigiCert_TLS_ECC_P384_Root_G5.pem
 /etc/ssl/certs/988a38cb.0    symlink    NetLock_Arany_=Class_Gold=_Főtanúsítvány.pem
-/etc/ssl/certs/9b5697b0.0    symlink    Trustwave_Global_ECC_P256_Certification_Authority.pem
-/etc/ssl/certs/9c8dfbd4.0    symlink    AffirmTrust_Premium_ECC.pem
+/etc/ssl/certs/9b46e03d.0    symlink    Atos_TrustedRoot_Root_CA_RSA_TLS_2021.pem
+/etc/ssl/certs/9bf03295.0    symlink    TrustAsia_Global_Root_CA_G3.pem
+/etc/ssl/certs/9cd9d94b.0    symlink    Telia_RSA_TLS_Root_CA_v3.pem
 /etc/ssl/certs/9d04f354.0    symlink    DigiCert_Assured_ID_Root_G2.pem
+/etc/ssl/certs/9e654b62.0    symlink    SwissSign_RSA_TLS_Root_CA_2022_-_1.pem
+/etc/ssl/certs/9ef4a08a.0    symlink    D-TRUST_BR_Root_CA_1_2020.pem
+/etc/ssl/certs/9f727ac7.0    symlink    HARICA_TLS_RSA_Root_CA_2021.pem
 /etc/ssl/certs/ACCVRAIZ1.pem    symlink    /usr/share/ca-certificates/mozilla/ACCVRAIZ1.crt
 /etc/ssl/certs/AC_RAIZ_FNMT-RCM.pem    symlink    /usr/share/ca-certificates/mozilla/AC_RAIZ_FNMT-RCM.crt
 /etc/ssl/certs/AC_RAIZ_FNMT-RCM_SERVIDORES_SEGUROS.pem    symlink    /usr/share/ca-certificates/mozilla/AC_RAIZ_FNMT-RCM_SERVIDORES_SEGUROS.crt
 /etc/ssl/certs/ANF_Secure_Server_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/ANF_Secure_Server_Root_CA.crt
 /etc/ssl/certs/Actalis_Authentication_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Actalis_Authentication_Root_CA.crt
-/etc/ssl/certs/AffirmTrust_Commercial.pem    symlink    /usr/share/ca-certificates/mozilla/AffirmTrust_Commercial.crt
-/etc/ssl/certs/AffirmTrust_Networking.pem    symlink    /usr/share/ca-certificates/mozilla/AffirmTrust_Networking.crt
-/etc/ssl/certs/AffirmTrust_Premium.pem    symlink    /usr/share/ca-certificates/mozilla/AffirmTrust_Premium.crt
-/etc/ssl/certs/AffirmTrust_Premium_ECC.pem    symlink    /usr/share/ca-certificates/mozilla/AffirmTrust_Premium_ECC.crt
 /etc/ssl/certs/Amazon_Root_CA_1.pem    symlink    /usr/share/ca-certificates/mozilla/Amazon_Root_CA_1.crt
 /etc/ssl/certs/Amazon_Root_CA_2.pem    symlink    /usr/share/ca-certificates/mozilla/Amazon_Root_CA_2.crt
 /etc/ssl/certs/Amazon_Root_CA_3.pem    symlink    /usr/share/ca-certificates/mozilla/Amazon_Root_CA_3.crt
 /etc/ssl/certs/Amazon_Root_CA_4.pem    symlink    /usr/share/ca-certificates/mozilla/Amazon_Root_CA_4.crt
-/etc/ssl/certs/Atos_TrustedRoot_2011.pem    symlink    /usr/share/ca-certificates/mozilla/Atos_TrustedRoot_2011.crt
+/etc/ssl/certs/Atos_TrustedRoot_Root_CA_ECC_TLS_2021.pem    symlink    /usr/share/ca-certificates/mozilla/Atos_TrustedRoot_Root_CA_ECC_TLS_2021.crt
+/etc/ssl/certs/Atos_TrustedRoot_Root_CA_RSA_TLS_2021.pem    symlink    /usr/share/ca-certificates/mozilla/Atos_TrustedRoot_Root_CA_RSA_TLS_2021.crt
 /etc/ssl/certs/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem    symlink    /usr/share/ca-certificates/mozilla/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.crt
-/etc/ssl/certs/Baltimore_CyberTrust_Root.pem    symlink    /usr/share/ca-certificates/mozilla/Baltimore_CyberTrust_Root.crt
+/etc/ssl/certs/BJCA_Global_Root_CA1.pem    symlink    /usr/share/ca-certificates/mozilla/BJCA_Global_Root_CA1.crt
+/etc/ssl/certs/BJCA_Global_Root_CA2.pem    symlink    /usr/share/ca-certificates/mozilla/BJCA_Global_Root_CA2.crt
 /etc/ssl/certs/Buypass_Class_2_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Buypass_Class_2_Root_CA.crt
 /etc/ssl/certs/Buypass_Class_3_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Buypass_Class_3_Root_CA.crt
 /etc/ssl/certs/CA_Disig_Root_R2.pem    symlink    /usr/share/ca-certificates/mozilla/CA_Disig_Root_R2.crt
 /etc/ssl/certs/CFCA_EV_ROOT.pem    symlink    /usr/share/ca-certificates/mozilla/CFCA_EV_ROOT.crt
-/etc/ssl/certs/COMODO_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/COMODO_Certification_Authority.crt
 /etc/ssl/certs/COMODO_ECC_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/COMODO_ECC_Certification_Authority.crt
 /etc/ssl/certs/COMODO_RSA_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/COMODO_RSA_Certification_Authority.crt
-/etc/ssl/certs/Certigna.pem    symlink    /usr/share/ca-certificates/mozilla/Certigna.crt
+/etc/ssl/certs/Certainly_Root_E1.pem    symlink    /usr/share/ca-certificates/mozilla/Certainly_Root_E1.crt
+/etc/ssl/certs/Certainly_Root_R1.pem    symlink    /usr/share/ca-certificates/mozilla/Certainly_Root_R1.crt
 /etc/ssl/certs/Certigna_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Certigna_Root_CA.crt
 /etc/ssl/certs/Certum_EC-384_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Certum_EC-384_CA.crt
 /etc/ssl/certs/Certum_Trusted_Network_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Certum_Trusted_Network_CA.crt
 /etc/ssl/certs/Certum_Trusted_Network_CA_2.pem    symlink    /usr/share/ca-certificates/mozilla/Certum_Trusted_Network_CA_2.crt
 /etc/ssl/certs/Certum_Trusted_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Certum_Trusted_Root_CA.crt
-/etc/ssl/certs/Comodo_AAA_Services_root.pem    symlink    /usr/share/ca-certificates/mozilla/Comodo_AAA_Services_root.crt
-/etc/ssl/certs/Cybertrust_Global_Root.pem    symlink    /usr/share/ca-certificates/mozilla/Cybertrust_Global_Root.crt
+/etc/ssl/certs/D-TRUST_BR_Root_CA_1_2020.pem    symlink    /usr/share/ca-certificates/mozilla/D-TRUST_BR_Root_CA_1_2020.crt
+/etc/ssl/certs/D-TRUST_BR_Root_CA_2_2023.pem    symlink    /usr/share/ca-certificates/mozilla/D-TRUST_BR_Root_CA_2_2023.crt
+/etc/ssl/certs/D-TRUST_EV_Root_CA_1_2020.pem    symlink    /usr/share/ca-certificates/mozilla/D-TRUST_EV_Root_CA_1_2020.crt
+/etc/ssl/certs/D-TRUST_EV_Root_CA_2_2023.pem    symlink    /usr/share/ca-certificates/mozilla/D-TRUST_EV_Root_CA_2_2023.crt
 /etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_2009.pem    symlink    /usr/share/ca-certificates/mozilla/D-TRUST_Root_Class_3_CA_2_2009.crt
 /etc/ssl/certs/D-TRUST_Root_Class_3_CA_2_EV_2009.pem    symlink    /usr/share/ca-certificates/mozilla/D-TRUST_Root_Class_3_CA_2_EV_2009.crt
-/etc/ssl/certs/DigiCert_Assured_ID_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_Assured_ID_Root_CA.crt
 /etc/ssl/certs/DigiCert_Assured_ID_Root_G2.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_Assured_ID_Root_G2.crt
 /etc/ssl/certs/DigiCert_Assured_ID_Root_G3.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_Assured_ID_Root_G3.crt
-/etc/ssl/certs/DigiCert_Global_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_Global_Root_CA.crt
 /etc/ssl/certs/DigiCert_Global_Root_G2.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_Global_Root_G2.crt
 /etc/ssl/certs/DigiCert_Global_Root_G3.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_Global_Root_G3.crt
-/etc/ssl/certs/DigiCert_High_Assurance_EV_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_High_Assurance_EV_Root_CA.crt
+/etc/ssl/certs/DigiCert_TLS_ECC_P384_Root_G5.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_TLS_ECC_P384_Root_G5.crt
+/etc/ssl/certs/DigiCert_TLS_RSA4096_Root_G5.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_TLS_RSA4096_Root_G5.crt
 /etc/ssl/certs/DigiCert_Trusted_Root_G4.pem    symlink    /usr/share/ca-certificates/mozilla/DigiCert_Trusted_Root_G4.crt
-/etc/ssl/certs/E-Tugra_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/E-Tugra_Certification_Authority.crt
-/etc/ssl/certs/EC-ACC.pem    symlink    /usr/share/ca-certificates/mozilla/EC-ACC.crt
-/etc/ssl/certs/Entrust.net_Premium_2048_Secure_Server_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Entrust.net_Premium_2048_Secure_Server_CA.crt
-/etc/ssl/certs/Entrust_Root_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/Entrust_Root_Certification_Authority.crt
-/etc/ssl/certs/Entrust_Root_Certification_Authority_-_EC1.pem    symlink    /usr/share/ca-certificates/mozilla/Entrust_Root_Certification_Authority_-_EC1.crt
-/etc/ssl/certs/Entrust_Root_Certification_Authority_-_G2.pem    symlink    /usr/share/ca-certificates/mozilla/Entrust_Root_Certification_Authority_-_G2.crt
-/etc/ssl/certs/Entrust_Root_Certification_Authority_-_G4.pem    symlink    /usr/share/ca-certificates/mozilla/Entrust_Root_Certification_Authority_-_G4.crt
 /etc/ssl/certs/GDCA_TrustAUTH_R5_ROOT.pem    symlink    /usr/share/ca-certificates/mozilla/GDCA_TrustAUTH_R5_ROOT.crt
-/etc/ssl/certs/GLOBALTRUST_2020.pem    symlink    /usr/share/ca-certificates/mozilla/GLOBALTRUST_2020.crt
 /etc/ssl/certs/GTS_Root_R1.pem    symlink    /usr/share/ca-certificates/mozilla/GTS_Root_R1.crt
-/etc/ssl/certs/GTS_Root_R2.pem    symlink    /usr/share/ca-certificates/mozilla/GTS_Root_R2.crt
 /etc/ssl/certs/GTS_Root_R3.pem    symlink    /usr/share/ca-certificates/mozilla/GTS_Root_R3.crt
 /etc/ssl/certs/GTS_Root_R4.pem    symlink    /usr/share/ca-certificates/mozilla/GTS_Root_R4.crt
 /etc/ssl/certs/GlobalSign_ECC_Root_CA_-_R4.pem    symlink    /usr/share/ca-certificates/mozilla/GlobalSign_ECC_Root_CA_-_R4.crt
 /etc/ssl/certs/GlobalSign_ECC_Root_CA_-_R5.pem    symlink    /usr/share/ca-certificates/mozilla/GlobalSign_ECC_Root_CA_-_R5.crt
-/etc/ssl/certs/GlobalSign_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/GlobalSign_Root_CA.crt
-/etc/ssl/certs/GlobalSign_Root_CA_-_R2.pem    symlink    /usr/share/ca-certificates/mozilla/GlobalSign_Root_CA_-_R2.crt
 /etc/ssl/certs/GlobalSign_Root_CA_-_R3.pem    symlink    /usr/share/ca-certificates/mozilla/GlobalSign_Root_CA_-_R3.crt
 /etc/ssl/certs/GlobalSign_Root_CA_-_R6.pem    symlink    /usr/share/ca-certificates/mozilla/GlobalSign_Root_CA_-_R6.crt
 /etc/ssl/certs/GlobalSign_Root_E46.pem    symlink    /usr/share/ca-certificates/mozilla/GlobalSign_Root_E46.crt
 /etc/ssl/certs/GlobalSign_Root_R46.pem    symlink    /usr/share/ca-certificates/mozilla/GlobalSign_Root_R46.crt
-/etc/ssl/certs/Go_Daddy_Class_2_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Go_Daddy_Class_2_CA.crt
 /etc/ssl/certs/Go_Daddy_Root_Certificate_Authority_-_G2.pem    symlink    /usr/share/ca-certificates/mozilla/Go_Daddy_Root_Certificate_Authority_-_G2.crt
+/etc/ssl/certs/HARICA_TLS_ECC_Root_CA_2021.pem    symlink    /usr/share/ca-certificates/mozilla/HARICA_TLS_ECC_Root_CA_2021.crt
+/etc/ssl/certs/HARICA_TLS_RSA_Root_CA_2021.pem    symlink    /usr/share/ca-certificates/mozilla/HARICA_TLS_RSA_Root_CA_2021.crt
 /etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem    symlink    /usr/share/ca-certificates/mozilla/Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.crt
-/etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem    symlink    /usr/share/ca-certificates/mozilla/Hellenic_Academic_and_Research_Institutions_RootCA_2011.crt
 /etc/ssl/certs/Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem    symlink    /usr/share/ca-certificates/mozilla/Hellenic_Academic_and_Research_Institutions_RootCA_2015.crt
-/etc/ssl/certs/Hongkong_Post_Root_CA_1.pem    symlink    /usr/share/ca-certificates/mozilla/Hongkong_Post_Root_CA_1.crt
+/etc/ssl/certs/HiPKI_Root_CA_-_G1.pem    symlink    /usr/share/ca-certificates/mozilla/HiPKI_Root_CA_-_G1.crt
 /etc/ssl/certs/Hongkong_Post_Root_CA_3.pem    symlink    /usr/share/ca-certificates/mozilla/Hongkong_Post_Root_CA_3.crt
 /etc/ssl/certs/ISRG_Root_X1.pem    symlink    /usr/share/ca-certificates/mozilla/ISRG_Root_X1.crt
+/etc/ssl/certs/ISRG_Root_X2.pem    symlink    /usr/share/ca-certificates/mozilla/ISRG_Root_X2.crt
 /etc/ssl/certs/IdenTrust_Commercial_Root_CA_1.pem    symlink    /usr/share/ca-certificates/mozilla/IdenTrust_Commercial_Root_CA_1.crt
 /etc/ssl/certs/IdenTrust_Public_Sector_Root_CA_1.pem    symlink    /usr/share/ca-certificates/mozilla/IdenTrust_Public_Sector_Root_CA_1.crt
 /etc/ssl/certs/Izenpe.com.pem    symlink    /usr/share/ca-certificates/mozilla/Izenpe.com.crt
@@ -3059,121 +2823,124 @@ Path                                              Size          Perms    Attrs  
 /etc/ssl/certs/Microsoft_RSA_Root_Certificate_Authority_2017.pem    symlink    /usr/share/ca-certificates/mozilla/Microsoft_RSA_Root_Certificate_Authority_2017.crt
 /etc/ssl/certs/NAVER_Global_Root_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/NAVER_Global_Root_Certification_Authority.crt
 /etc/ssl/certs/NetLock_Arany_=Class_Gold=_Főtanúsítvány.pem    symlink    /usr/share/ca-certificates/mozilla/NetLock_Arany_=Class_Gold=_Főtanúsítvány.crt
-/etc/ssl/certs/Network_Solutions_Certificate_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/Network_Solutions_Certificate_Authority.crt
+/etc/ssl/certs/OISTE_Server_Root_ECC_G1.pem    symlink    /usr/share/ca-certificates/mozilla/OISTE_Server_Root_ECC_G1.crt
+/etc/ssl/certs/OISTE_Server_Root_RSA_G1.pem    symlink    /usr/share/ca-certificates/mozilla/OISTE_Server_Root_RSA_G1.crt
 /etc/ssl/certs/OISTE_WISeKey_Global_Root_GB_CA.pem    symlink    /usr/share/ca-certificates/mozilla/OISTE_WISeKey_Global_Root_GB_CA.crt
 /etc/ssl/certs/OISTE_WISeKey_Global_Root_GC_CA.pem    symlink    /usr/share/ca-certificates/mozilla/OISTE_WISeKey_Global_Root_GC_CA.crt
 /etc/ssl/certs/QuoVadis_Root_CA_1_G3.pem    symlink    /usr/share/ca-certificates/mozilla/QuoVadis_Root_CA_1_G3.crt
-/etc/ssl/certs/QuoVadis_Root_CA_2.pem    symlink    /usr/share/ca-certificates/mozilla/QuoVadis_Root_CA_2.crt
 /etc/ssl/certs/QuoVadis_Root_CA_2_G3.pem    symlink    /usr/share/ca-certificates/mozilla/QuoVadis_Root_CA_2_G3.crt
-/etc/ssl/certs/QuoVadis_Root_CA_3.pem    symlink    /usr/share/ca-certificates/mozilla/QuoVadis_Root_CA_3.crt
 /etc/ssl/certs/QuoVadis_Root_CA_3_G3.pem    symlink    /usr/share/ca-certificates/mozilla/QuoVadis_Root_CA_3_G3.crt
+/etc/ssl/certs/SECOM_TLS_ECC_Root_CA_2024.pem    symlink    /usr/share/ca-certificates/mozilla/SECOM_TLS_ECC_Root_CA_2024.crt
+/etc/ssl/certs/SECOM_TLS_RSA_Root_CA_2024.pem    symlink    /usr/share/ca-certificates/mozilla/SECOM_TLS_RSA_Root_CA_2024.crt
 /etc/ssl/certs/SSL.com_EV_Root_Certification_Authority_ECC.pem    symlink    /usr/share/ca-certificates/mozilla/SSL.com_EV_Root_Certification_Authority_ECC.crt
 /etc/ssl/certs/SSL.com_EV_Root_Certification_Authority_RSA_R2.pem    symlink    /usr/share/ca-certificates/mozilla/SSL.com_EV_Root_Certification_Authority_RSA_R2.crt
 /etc/ssl/certs/SSL.com_Root_Certification_Authority_ECC.pem    symlink    /usr/share/ca-certificates/mozilla/SSL.com_Root_Certification_Authority_ECC.crt
 /etc/ssl/certs/SSL.com_Root_Certification_Authority_RSA.pem    symlink    /usr/share/ca-certificates/mozilla/SSL.com_Root_Certification_Authority_RSA.crt
+/etc/ssl/certs/SSL.com_TLS_ECC_Root_CA_2022.pem    symlink    /usr/share/ca-certificates/mozilla/SSL.com_TLS_ECC_Root_CA_2022.crt
+/etc/ssl/certs/SSL.com_TLS_RSA_Root_CA_2022.pem    symlink    /usr/share/ca-certificates/mozilla/SSL.com_TLS_RSA_Root_CA_2022.crt
 /etc/ssl/certs/SZAFIR_ROOT_CA2.pem    symlink    /usr/share/ca-certificates/mozilla/SZAFIR_ROOT_CA2.crt
-/etc/ssl/certs/SecureSign_RootCA11.pem    symlink    /usr/share/ca-certificates/mozilla/SecureSign_RootCA11.crt
-/etc/ssl/certs/SecureTrust_CA.pem    symlink    /usr/share/ca-certificates/mozilla/SecureTrust_CA.crt
-/etc/ssl/certs/Secure_Global_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Secure_Global_CA.crt
+/etc/ssl/certs/Sectigo_Public_Server_Authentication_Root_E46.pem    symlink    /usr/share/ca-certificates/mozilla/Sectigo_Public_Server_Authentication_Root_E46.crt
+/etc/ssl/certs/Sectigo_Public_Server_Authentication_Root_R46.pem    symlink    /usr/share/ca-certificates/mozilla/Sectigo_Public_Server_Authentication_Root_R46.crt
+/etc/ssl/certs/SecureSign_Root_CA14.pem    symlink    /usr/share/ca-certificates/mozilla/SecureSign_Root_CA14.crt
+/etc/ssl/certs/SecureSign_Root_CA15.pem    symlink    /usr/share/ca-certificates/mozilla/SecureSign_Root_CA15.crt
+/etc/ssl/certs/Security_Communication_ECC_RootCA1.pem    symlink    /usr/share/ca-certificates/mozilla/Security_Communication_ECC_RootCA1.crt
 /etc/ssl/certs/Security_Communication_RootCA2.pem    symlink    /usr/share/ca-certificates/mozilla/Security_Communication_RootCA2.crt
-/etc/ssl/certs/Security_Communication_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Security_Communication_Root_CA.crt
-/etc/ssl/certs/Staat_der_Nederlanden_EV_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Staat_der_Nederlanden_EV_Root_CA.crt
-/etc/ssl/certs/Starfield_Class_2_CA.pem    symlink    /usr/share/ca-certificates/mozilla/Starfield_Class_2_CA.crt
 /etc/ssl/certs/Starfield_Root_Certificate_Authority_-_G2.pem    symlink    /usr/share/ca-certificates/mozilla/Starfield_Root_Certificate_Authority_-_G2.crt
 /etc/ssl/certs/Starfield_Services_Root_Certificate_Authority_-_G2.pem    symlink    /usr/share/ca-certificates/mozilla/Starfield_Services_Root_Certificate_Authority_-_G2.crt
-/etc/ssl/certs/SwissSign_Gold_CA_-_G2.pem    symlink    /usr/share/ca-certificates/mozilla/SwissSign_Gold_CA_-_G2.crt
-/etc/ssl/certs/SwissSign_Silver_CA_-_G2.pem    symlink    /usr/share/ca-certificates/mozilla/SwissSign_Silver_CA_-_G2.crt
+/etc/ssl/certs/SwissSign_RSA_TLS_Root_CA_2022_-_1.pem    symlink    /usr/share/ca-certificates/mozilla/SwissSign_RSA_TLS_Root_CA_2022_-_1.crt
 /etc/ssl/certs/T-TeleSec_GlobalRoot_Class_2.pem    symlink    /usr/share/ca-certificates/mozilla/T-TeleSec_GlobalRoot_Class_2.crt
 /etc/ssl/certs/T-TeleSec_GlobalRoot_Class_3.pem    symlink    /usr/share/ca-certificates/mozilla/T-TeleSec_GlobalRoot_Class_3.crt
 /etc/ssl/certs/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem    symlink    /usr/share/ca-certificates/mozilla/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.crt
+/etc/ssl/certs/TWCA_CYBER_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/TWCA_CYBER_Root_CA.crt
 /etc/ssl/certs/TWCA_Global_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/TWCA_Global_Root_CA.crt
 /etc/ssl/certs/TWCA_Root_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/TWCA_Root_Certification_Authority.crt
-/etc/ssl/certs/TeliaSonera_Root_CA_v1.pem    symlink    /usr/share/ca-certificates/mozilla/TeliaSonera_Root_CA_v1.crt
-/etc/ssl/certs/TrustCor_ECA-1.pem    symlink    /usr/share/ca-certificates/mozilla/TrustCor_ECA-1.crt
-/etc/ssl/certs/TrustCor_RootCert_CA-1.pem    symlink    /usr/share/ca-certificates/mozilla/TrustCor_RootCert_CA-1.crt
-/etc/ssl/certs/TrustCor_RootCert_CA-2.pem    symlink    /usr/share/ca-certificates/mozilla/TrustCor_RootCert_CA-2.crt
-/etc/ssl/certs/Trustwave_Global_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/Trustwave_Global_Certification_Authority.crt
-/etc/ssl/certs/Trustwave_Global_ECC_P256_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/Trustwave_Global_ECC_P256_Certification_Authority.crt
-/etc/ssl/certs/Trustwave_Global_ECC_P384_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/Trustwave_Global_ECC_P384_Certification_Authority.crt
+/etc/ssl/certs/Telekom_Security_TLS_ECC_Root_2020.pem    symlink    /usr/share/ca-certificates/mozilla/Telekom_Security_TLS_ECC_Root_2020.crt
+/etc/ssl/certs/Telekom_Security_TLS_RSA_Root_2023.pem    symlink    /usr/share/ca-certificates/mozilla/Telekom_Security_TLS_RSA_Root_2023.crt
+/etc/ssl/certs/Telia_EC_TLS_Root_CA_v3.pem    symlink    /usr/share/ca-certificates/mozilla/Telia_EC_TLS_Root_CA_v3.crt
+/etc/ssl/certs/Telia_RSA_TLS_Root_CA_v3.pem    symlink    /usr/share/ca-certificates/mozilla/Telia_RSA_TLS_Root_CA_v3.crt
+/etc/ssl/certs/Telia_Root_CA_v2.pem    symlink    /usr/share/ca-certificates/mozilla/Telia_Root_CA_v2.crt
+/etc/ssl/certs/TrustAsia_Global_Root_CA_G3.pem    symlink    /usr/share/ca-certificates/mozilla/TrustAsia_Global_Root_CA_G3.crt
+/etc/ssl/certs/TrustAsia_Global_Root_CA_G4.pem    symlink    /usr/share/ca-certificates/mozilla/TrustAsia_Global_Root_CA_G4.crt
+/etc/ssl/certs/TrustAsia_TLS_ECC_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/TrustAsia_TLS_ECC_Root_CA.crt
+/etc/ssl/certs/TrustAsia_TLS_RSA_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/TrustAsia_TLS_RSA_Root_CA.crt
+/etc/ssl/certs/TunTrust_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/TunTrust_Root_CA.crt
 /etc/ssl/certs/UCA_Extended_Validation_Root.pem    symlink    /usr/share/ca-certificates/mozilla/UCA_Extended_Validation_Root.crt
 /etc/ssl/certs/UCA_Global_G2_Root.pem    symlink    /usr/share/ca-certificates/mozilla/UCA_Global_G2_Root.crt
 /etc/ssl/certs/USERTrust_ECC_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/USERTrust_ECC_Certification_Authority.crt
 /etc/ssl/certs/USERTrust_RSA_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/USERTrust_RSA_Certification_Authority.crt
-/etc/ssl/certs/XRamp_Global_CA_Root.pem    symlink    /usr/share/ca-certificates/mozilla/XRamp_Global_CA_Root.crt
+/etc/ssl/certs/a09a51ae.0    symlink    D-TRUST_EV_Root_CA_2_2023.pem
 /etc/ssl/certs/a3418fda.0    symlink    GTS_Root_R4.pem
+/etc/ssl/certs/a89d74c2.0    symlink    SSL.com_TLS_RSA_Root_CA_2022.pem
 /etc/ssl/certs/a94d09e5.0    symlink    ACCVRAIZ1.pem
-/etc/ssl/certs/aee5f10d.0    symlink    Entrust.net_Premium_2048_Secure_Server_CA.pem
+/etc/ssl/certs/b0d5255e.0    symlink    TrustAsia_TLS_RSA_Root_CA.pem
 /etc/ssl/certs/b0e59380.0    symlink    GlobalSign_ECC_Root_CA_-_R4.pem
-/etc/ssl/certs/b1159c4c.0    symlink    DigiCert_Assured_ID_Root_CA.pem
 /etc/ssl/certs/b433981b.0    symlink    ANF_Secure_Server_Root_CA.pem
-/etc/ssl/certs/b66938e9.0    symlink    Secure_Global_CA.pem
-/etc/ssl/certs/b727005e.0    symlink    AffirmTrust_Premium.pem
 /etc/ssl/certs/b7a5b843.0    symlink    TWCA_Root_Certification_Authority.pem
 /etc/ssl/certs/b81b93f0.0    symlink    AC_RAIZ_FNMT-RCM_SERVIDORES_SEGUROS.pem
+/etc/ssl/certs/b8d25de6.0    symlink    TWCA_CYBER_Root_CA.pem
 /etc/ssl/certs/bf53fb88.0    symlink    Microsoft_RSA_Root_Certificate_Authority_2017.pem
 /etc/ssl/certs/c01eb047.0    symlink    UCA_Global_G2_Root.pem
 /etc/ssl/certs/c0fb5232.0    symlink    ssl-cert-snakeoil.pem
 /etc/ssl/certs/c28a8a30.0    symlink    D-TRUST_Root_Class_3_CA_2_2009.pem
-/etc/ssl/certs/ca-certificates.crt                195453        0644     --------------e-----     0         0
-/etc/ssl/certs/ca6e4ad9.0    symlink    ePKI_Root_Certification_Authority.pem
+/etc/ssl/certs/ca-certificates.crt                180744        0644     --------------e-----     0         0
 /etc/ssl/certs/cbf06781.0    symlink    Go_Daddy_Root_Certificate_Authority_-_G2.pem
 /etc/ssl/certs/cc450945.0    symlink    Izenpe.com.pem
 /etc/ssl/certs/cd58d51e.0    symlink    Security_Communication_RootCA2.pem
 /etc/ssl/certs/cd8c0d63.0    symlink    AC_RAIZ_FNMT-RCM.pem
 /etc/ssl/certs/ce5e74ef.0    symlink    Amazon_Root_CA_1.pem
-/etc/ssl/certs/certSIGN_ROOT_CA.pem    symlink    /usr/share/ca-certificates/mozilla/certSIGN_ROOT_CA.crt
 /etc/ssl/certs/certSIGN_Root_CA_G2.pem    symlink    /usr/share/ca-certificates/mozilla/certSIGN_Root_CA_G2.crt
 /etc/ssl/certs/d4dae3dd.0    symlink    D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+/etc/ssl/certs/d52c538d.0    symlink    DigiCert_TLS_RSA4096_Root_G5.pem
 /etc/ssl/certs/d6325660.0    symlink    COMODO_RSA_Certification_Authority.pem
-/etc/ssl/certs/d7e8dc79.0    symlink    QuoVadis_Root_CA_2.pem
-/etc/ssl/certs/d887a5bb.0    symlink    Trustwave_Global_ECC_P384_Certification_Authority.pem
+/etc/ssl/certs/da0cfd1d.0    symlink    Sectigo_Public_Server_Authentication_Root_E46.pem
 /etc/ssl/certs/dc4d6a89.0    symlink    GlobalSign_Root_CA_-_R6.pem
 /etc/ssl/certs/dd8e9d41.0    symlink    DigiCert_Global_Root_G3.pem
+/etc/ssl/certs/ddcda989.0    symlink    Telekom_Security_TLS_ECC_Root_2020.pem
 /etc/ssl/certs/de6d66f3.0    symlink    Amazon_Root_CA_4.pem
 /etc/ssl/certs/e-Szigno_Root_CA_2017.pem    symlink    /usr/share/ca-certificates/mozilla/e-Szigno_Root_CA_2017.crt
-/etc/ssl/certs/e113c810.0    symlink    Certigna.pem
+/etc/ssl/certs/e-Szigno_TLS_Root_CA_2023.pem    symlink    /usr/share/ca-certificates/mozilla/e-Szigno_TLS_Root_CA_2023.crt
 /etc/ssl/certs/e18bfb83.0    symlink    QuoVadis_Root_CA_3_G3.pem
 /etc/ssl/certs/e35234b1.0    symlink    Certum_Trusted_Root_CA.pem
-/etc/ssl/certs/e36a6752.0    symlink    Atos_TrustedRoot_2011.pem
 /etc/ssl/certs/e73d606e.0    symlink    OISTE_WISeKey_Global_Root_GB_CA.pem
 /etc/ssl/certs/e868b802.0    symlink    e-Szigno_Root_CA_2017.pem
 /etc/ssl/certs/e8de2f56.0    symlink    Buypass_Class_3_Root_CA.pem
-/etc/ssl/certs/ePKI_Root_Certification_Authority.pem    symlink    /usr/share/ca-certificates/mozilla/ePKI_Root_Certification_Authority.crt
-/etc/ssl/certs/ee64a828.0    symlink    Comodo_AAA_Services_root.pem
+/etc/ssl/certs/ecccd8db.0    symlink    HARICA_TLS_ECC_Root_CA_2021.pem
+/etc/ssl/certs/ed858448.0    symlink    vTrus_ECC_Root_CA.pem
 /etc/ssl/certs/eed8c118.0    symlink    COMODO_ECC_Certification_Authority.pem
 /etc/ssl/certs/ef954a4e.0    symlink    IdenTrust_Commercial_Root_CA_1.pem
 /etc/ssl/certs/emSign_ECC_Root_CA_-_C3.pem    symlink    /usr/share/ca-certificates/mozilla/emSign_ECC_Root_CA_-_C3.crt
-/etc/ssl/certs/emSign_ECC_Root_CA_-_G3.pem    symlink    /usr/share/ca-certificates/mozilla/emSign_ECC_Root_CA_-_G3.crt
 /etc/ssl/certs/emSign_Root_CA_-_C1.pem    symlink    /usr/share/ca-certificates/mozilla/emSign_Root_CA_-_C1.crt
 /etc/ssl/certs/emSign_Root_CA_-_G1.pem    symlink    /usr/share/ca-certificates/mozilla/emSign_Root_CA_-_G1.crt
-/etc/ssl/certs/f081611a.0    symlink    Go_Daddy_Class_2_CA.pem
 /etc/ssl/certs/f0c70a8d.0    symlink    SSL.com_EV_Root_Certification_Authority_ECC.pem
-/etc/ssl/certs/f249de83.0    symlink    Trustwave_Global_Certification_Authority.pem
 /etc/ssl/certs/f30dd6ad.0    symlink    USERTrust_ECC_Certification_Authority.pem
-/etc/ssl/certs/f3377b1b.0    symlink    Security_Communication_Root_CA.pem
-/etc/ssl/certs/f387163d.0    symlink    Starfield_Class_2_CA.pem
-/etc/ssl/certs/f39fc864.0    symlink    SecureTrust_CA.pem
+/etc/ssl/certs/f44703f1.0    symlink    e-Szigno_TLS_Root_CA_2023.pem
 /etc/ssl/certs/f51bb24c.0    symlink    Certigna_Root_CA.pem
-/etc/ssl/certs/fa5da96b.0    symlink    GLOBALTRUST_2020.pem
+/etc/ssl/certs/faf4fe6b.0    symlink    Telia_EC_TLS_Root_CA_v3.pem
+/etc/ssl/certs/fb717492.0    symlink    Atos_TrustedRoot_Root_CA_ECC_TLS_2021.pem
 /etc/ssl/certs/fc5a8f99.0    symlink    USERTrust_RSA_Certification_Authority.pem
+/etc/ssl/certs/fd64f3fc.0    symlink    TunTrust_Root_CA.pem
 /etc/ssl/certs/fe8a2cd8.0    symlink    SZAFIR_ROOT_CA2.pem
 /etc/ssl/certs/feffd413.0    symlink    GlobalSign_Root_E46.pem
 /etc/ssl/certs/ff34af3f.0    symlink    TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+/etc/ssl/certs/ffdd40f9.0    symlink    D-TRUST_BR_Root_CA_2_2023.pem
 /etc/ssl/certs/java                               directory     0755                              0         0
 /etc/ssl/certs/java/cacerts                       147975        0644     --------------e-----     0         0
 /etc/ssl/certs/ssl-cert-snakeoil.pem              1070          0644     --------------e-----     0         0         7ceb5716
+/etc/ssl/certs/vTrus_ECC_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/vTrus_ECC_Root_CA.crt
+/etc/ssl/certs/vTrus_Root_CA.pem    symlink    /usr/share/ca-certificates/mozilla/vTrus_Root_CA.crt
 /etc/ssl/openssl.cnf                              12419         0644     --------------e-----     0         0         38445d27
 /etc/ssl/private                                  directory     0710                              0         117
 /etc/ssl/private/ssl-cert-snakeoil.key            1704          0640     --------------e-----     0         117       7847248a
-/etc/subgid                                       356           0644     --------------e-----     0         0         a8125fa7
-/etc/subgid-                                      377           0644     --------------e-----     0         0         bdda651d
-/etc/subuid                                       356           0644     --------------e-----     0         0         a8125fa7
-/etc/subuid-                                      377           0644     --------------e-----     0         0         bdda651d
+/etc/subgid                                       377           0644     --------------e-----     0         0         c9716528
+/etc/subgid-                                      356           0644     --------------e-----     0         0         a8125fa7
+/etc/subuid                                       377           0644     --------------e-----     0         0         c9716528
+/etc/subuid-                                      356           0644     --------------e-----     0         0         a8125fa7
 /etc/sudo.conf                                    4573          0644     --------------e-----     0         0         a18f341c
 /etc/sudo_logsrvd.conf                            9390          0644     --------------e-----     0         0         021096a5
 /etc/sudoers                                      1671          0440     --------------e-----     0         0         1bbb36ca
 /etc/sudoers.d                                    directory     0755                              0         0
 /etc/sudoers.d/0pwfeedback                        20            0440     --------------e-----     0         0         5099076f
+/etc/sudoers.d/90-pparker-nopasswd                32            0440     --------------e-----     0         0         a6580922
 /etc/sudoers.d/README                             1096          0440     --------------e-----     0         0         9d5c7d70
 /etc/sudoers.d/mintupdate                         278           0440     --------------e-----     0         0         869a60f7
 /etc/sudoers.d/zfs                                666           0440     --------------e-----     0         0         9406d636
@@ -3188,6 +2955,7 @@ Path                                              Size          Perms    Attrs  
 /etc/sysctl.d/10-zeropage.conf                    506           0644     --------------e-----     0         0         92afb09f
 /etc/sysctl.d/99-sysctl.conf    symlink    ../sysctl.conf
 /etc/sysctl.d/README.sysctl                       798           0644     --------------e-----     0         0         86b51c1f
+/etc/sysctl.d/all.conf                            4407          0755     --------------e-----     0         0         4ffafd0d
 /etc/systemd                                      directory     0755                              0         0
 /etc/systemd/coredump.conf                        845           0644     --------------e-----     0         0         c11824c3
 /etc/systemd/journald.conf                        1282          0644     --------------e-----     0         0         964dbe7f
@@ -3225,7 +2993,6 @@ Path                                              Size          Perms    Attrs  
 /etc/systemd/system/multi-user.target.wants/ModemManager.service    symlink    /lib/systemd/system/ModemManager.service
 /etc/systemd/system/multi-user.target.wants/NetworkManager.service    symlink    /lib/systemd/system/NetworkManager.service
 /etc/systemd/system/multi-user.target.wants/anacron.service    symlink    /lib/systemd/system/anacron.service
-/etc/systemd/system/multi-user.target.wants/apache2.service    symlink    /lib/systemd/system/apache2.service
 /etc/systemd/system/multi-user.target.wants/avahi-daemon.service    symlink    /lib/systemd/system/avahi-daemon.service
 /etc/systemd/system/multi-user.target.wants/blueman-mechanism.service    symlink    /lib/systemd/system/blueman-mechanism.service
 /etc/systemd/system/multi-user.target.wants/casper-md5check.service    symlink    /lib/systemd/system/casper-md5check.service
@@ -3248,7 +3015,6 @@ Path                                              Size          Perms    Attrs  
 /etc/systemd/system/multi-user.target.wants/networking.service    symlink    /lib/systemd/system/networking.service
 /etc/systemd/system/multi-user.target.wants/ntp.service    symlink    /lib/systemd/system/ntp.service
 /etc/systemd/system/multi-user.target.wants/open-vm-tools.service    symlink    /lib/systemd/system/open-vm-tools.service
-/etc/systemd/system/multi-user.target.wants/openvpn.service    symlink    /lib/systemd/system/openvpn.service
 /etc/systemd/system/multi-user.target.wants/remote-fs.target    symlink    /lib/systemd/system/remote-fs.target
 /etc/systemd/system/multi-user.target.wants/rsyslog.service    symlink    /lib/systemd/system/rsyslog.service
 /etc/systemd/system/multi-user.target.wants/run-vmblock\x2dfuse.mount    symlink    /lib/systemd/system/run-vmblock\x2dfuse.mount
@@ -3308,6 +3074,7 @@ Path                                              Size          Perms    Attrs  
 /etc/systemd/system/timers.target.wants/fwupd-refresh.timer    symlink    /lib/systemd/system/fwupd-refresh.timer
 /etc/systemd/system/timers.target.wants/logrotate.timer    symlink    /lib/systemd/system/logrotate.timer
 /etc/systemd/system/timers.target.wants/man-db.timer    symlink    /lib/systemd/system/man-db.timer
+/etc/systemd/system/timers.target.wants/mintupdate-automation-upgrade.timer    symlink    /lib/systemd/system/mintupdate-automation-upgrade.timer
 /etc/systemd/system/timers.target.wants/motd-news.timer    symlink    /lib/systemd/system/motd-news.timer
 /etc/systemd/system/timers.target.wants/plocate-updatedb.timer    symlink    /lib/systemd/system/plocate-updatedb.timer
 /etc/systemd/system/vmtoolsd.service    symlink    /lib/systemd/system/open-vm-tools.service
@@ -3346,6 +3113,7 @@ Path                                              Size          Perms    Attrs  
 /etc/systemd/user/sockets.target.wants/pipewire.socket    symlink    /usr/lib/systemd/user/pipewire.socket
 /etc/systemd/user/sockets.target.wants/pk-debconf-helper.socket    symlink    /usr/lib/systemd/user/pk-debconf-helper.socket
 /etc/systemd/user/sockets.target.wants/pulseaudio.socket    symlink    /usr/lib/systemd/user/pulseaudio.socket
+/etc/systemd/user/sockets.target.wants/speech-dispatcher.socket    symlink    /usr/lib/systemd/user/speech-dispatcher.socket
 /etc/systemd/user.conf                            1394          0644     --------------e-----     0         0         ff8ce5c2
 /etc/terminfo                                     directory     0755                              0         0
 /etc/terminfo/README                              212           0644     --------------e-----     0         0         52e14cb4
@@ -3373,22 +3141,20 @@ Path                                              Size          Perms    Attrs  
 /etc/ufw/after.rules                              1004          0640     --------------e-----     0         0         3d70527c
 /etc/ufw/after6.rules                             915           0640     --------------e-----     0         0         963c3197
 /etc/ufw/applications.d                           directory     0755                              0         0
-/etc/ufw/applications.d/apache2                   directory     0755                              0         0
-/etc/ufw/applications.d/apache2-utils.ufw.profile    406    0644    --------------e-----    0    0    302c8e1e
 /etc/ufw/applications.d/cups                      152           0644     --------------e-----     0         0         420d356a
 /etc/ufw/applications.d/openssh-server            145           0644     --------------e-----     0         0         147b345c
 /etc/ufw/before.init                              1130          0640     --------------e-----     0         0         a261647f
 /etc/ufw/before.rules                             2537          0640     --------------e-----     0         0         7523375d
 /etc/ufw/before6.rules                            6700          0640     --------------e-----     0         0         88d44f85
 /etc/ufw/sysctl.conf                              1391          0644     --------------e-----     0         0         6750ed6d
-/etc/ufw/ufw.conf                                 312           0644     --------------e-----     0         0         d122677d
-/etc/ufw/user.rules                               307           0640     --------------e-----     0         0         73525f58
-/etc/ufw/user6.rules                              107           0640     --------------e-----     0         0         42331ff7
+/etc/ufw/ufw.conf                                 313           0644     --------------e-----     0         0         490667f1
+/etc/ufw/user.rules                               1269          0640     --------------e-----     0         0         34328ab6
+/etc/ufw/user6.rules                              1293          0640     --------------e-----     0         0         5cee8fc6
 /etc/update-motd.d                                directory     0755                              0         0
 /etc/update-motd.d/00-header                      10            0755     --------------e-----     0         0         0e4202c1
 /etc/update-motd.d/10-help-text                   10            0755     --------------e-----     0         0         0e4202c1
 /etc/update-motd.d/50-motd-news                   10            0755     --------------e-----     0         0         0e4202c1
-/etc/update-motd.d/85-fwupd                       84            0755     --------------e-----     0         0         02c01884
+/etc/update-motd.d/85-fwupd                       80            0755     --------------e-----     0         0         b7ed1804
 /etc/updatedb.conf                                568           0644     --------------e-----     0         0         775fcb2c
 /etc/upstream-release                             directory     0755                              0         0
 /etc/upstream-release/lsb-release                 108           0644     --------------e-----     0         0         e0692131
@@ -3440,7 +3206,7 @@ Path                                              Size          Perms    Attrs  
 /etc/xdg/Xwayland-session.d/00-pulseaudio-x11     2159          0755     --------------e-----     0         0         b65ea416
 /etc/xdg/autostart                                directory     0755                              0         0
 /etc/xdg/autostart/at-spi-dbus-bus.desktop        193           0644     --------------e-----     0         0         c37d4493
-/etc/xdg/autostart/blueman.desktop                2207          0644     --------------e-----     0         0         1a569bd9
+/etc/xdg/autostart/blueman.desktop                2285          0644     --------------e-----     0         0         b510baee
 /etc/xdg/autostart/geoclue-demo-agent.desktop     227           0644     --------------e-----     0         0         959f5225
 /etc/xdg/autostart/gnome-keyring-pkcs11.desktop    485    0644    --------------e-----    0    0    9d47a9f3
 /etc/xdg/autostart/gnome-keyring-secrets.desktop    478    0644    --------------e-----    0    0    212ca8ff
@@ -3514,9 +3280,9 @@ Path                                              Size          Perms    Attrs  
 /etc/zfs/zed.d/statechange-notify.sh    symlink    /usr/lib/zfs-linux/zed.d/statechange-notify.sh
 /etc/zfs/zed.d/vdev_attach-led.sh    symlink    /usr/lib/zfs-linux/zed.d/vdev_attach-led.sh
 /etc/zfs/zed.d/vdev_clear-led.sh    symlink    /usr/lib/zfs-linux/zed.d/vdev_clear-led.sh
-/etc/zfs/zed.d/zed-functions.sh                   14201         0644     --------------e-----     0         0         4e99fd79
-/etc/zfs/zed.d/zed.rc                             3613          0644     --------------e-----     0         0         8adaa4d7
-/etc/zfs/zfs-functions                            9460          0644     --------------e-----     0         0         355f3da9
+/etc/zfs/zed.d/zed-functions.sh                   16739         0644     --------------e-----     0         0         9150f4bc
+/etc/zfs/zed.d/zed.rc                             4217          0644     --------------e-----     0         0         21bd6e82
+/etc/zfs/zfs-functions                            9450          0644     --------------e-----     0         0         3c4b3e19
 /etc/zfs/zpool.d                                  directory     0755                              0         0
 /etc/zfs/zpool.d/ata_err    symlink    /usr/lib/zfs-linux/zpool.d/ata_err
 /etc/zfs/zpool.d/cmd_to    symlink    /usr/lib/zfs-linux/zpool.d/cmd_to

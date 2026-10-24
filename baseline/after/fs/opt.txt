@@ -19,8 +19,8 @@ Path                                              Size          Perms    Attrs  
 /opt/CyberPatriot/icon.png                        28502         0644     --------------e-----     0         0
 /opt/CyberPatriot/image001.png                    33155         0644     --------------e-----     0         0
 /opt/CyberPatriot/readme.html                     4507          0644     --------------e-----     0         0
-/opt/CyberPatriot/scoring-report-valid.html       4776          0644     --------------e-----     0         0
-/opt/CyberPatriot/scoring-report.html             4776          0644     --------------e-----     0         0
+/opt/CyberPatriot/scoring-report-valid.html       5341          0644     --------------e-----     0         0
+/opt/CyberPatriot/scoring-report.html             5341          0644     --------------e-----     0         0
 /opt/CyberPatriot/scoring-report.xml              123           0644     --------------e-----     0         0
 /opt/CyberPatriot/scoringconfig.xml               836           0644     --------------e-----     0         0
 /opt/CyberPatriot/scoringresource.dat             8050          0644     --------------e-----     0         0

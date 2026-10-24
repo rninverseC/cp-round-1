@@ -1,13 +1,15 @@
 Path                                              Size          Perms    Attrs                    Owner     Group     Checksum
 --------------------------------------------------------------------------------------------------------------------------------------------
 /boot                                             directory     0755                              0         0
+/boot/System.map-5.15.0-198-generic               6305744       0600     --------------------     0         0
 /boot/System.map-5.15.0-41-generic                6249967       0600     --------------------     0         0
+/boot/config-5.15.0-198-generic                   262200        0644     --------------------     0         0
 /boot/config-5.15.0-41-generic                    261649        0644     --------------------     0         0
 /boot/grub                                        directory     0755                              0         0
 /boot/grub/fonts                                  directory     0755                              0         0
 /boot/grub/fonts/unicode.pf2                      2392289       0644     --------------------     0         0
 /boot/grub/gfxblacklist.txt                       712           0644     --------------------     0         0         4b73eb7e
-/boot/grub/grub.cfg                               7199          0644     --------------------     0         0         8e3df8a3
+/boot/grub/grub.cfg                               9020          0644     --------------------     0         0         583d35e6
 /boot/grub/grubenv                                1024          0644     --------------------     0         0         19c89e4b
 /boot/grub/i386-pc                                directory     0755                              0         0
 /boot/grub/i386-pc/915resolution.mod              7972          0644     --------------------     0         0         a1db15f8
@@ -304,9 +306,12 @@ Path                                              Size          Perms    Attrs  
 /boot/grub/locale/en_CA.mo                        567           0644     --------------------     0         0         143b9e0e
 /boot/grub/locale/en_GB.mo                        3702          0644     --------------------     0         0         733522b7
 /boot/grub/unicode.pf2                            2392289       0644     --------------------     0         0
-/boot/initrd.img    symlink    initrd.img-5.15.0-41-generic
-/boot/initrd.img-5.15.0-41-generic                117633199     0644     --------------------     0         0
+/boot/initrd.img    symlink    initrd.img-5.15.0-198-generic
+/boot/initrd.img-5.15.0-198-generic               129672337     0644     --------------------     0         0
+/boot/initrd.img-5.15.0-41-generic                128207839     0644     --------------------     0         0
 /boot/initrd.img.old    symlink    initrd.img-5.15.0-41-generic
 /boot/lost+found                                  directory     0700                              0         0
-/boot/vmlinuz    symlink    vmlinuz-5.15.0-41-generic
+/boot/vmlinuz    symlink    vmlinuz-5.15.0-198-generic
+/boot/vmlinuz-5.15.0-198-generic                  11741416      0600     --------------------     0         0
 /boot/vmlinuz-5.15.0-41-generic                   11086240      0644     --------------------     0         0
+/boot/vmlinuz.old    symlink    vmlinuz-5.15.0-41-generic
